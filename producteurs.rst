@@ -133,4 +133,4 @@ Texte...
 Conseils utiles
 -------------------------------------------------------
 
-Les champs descriptifs long d'une organisation, d'un jeu de donnée et d'une ressource peuvent être mis en forme. Pour cela il faut utiliser le langage du markdown (https://fr.wikipedia.org/wiki/Markdown) plutôt que du HTML
+- Les champs descriptifs long d'une organisation, d'un jeu de donnée et d'une ressource peuvent être mis en forme. Pour cela il faut utiliser le langage du markdown (https://fr.wikipedia.org/wiki/Markdown) plutôt que du HTML
