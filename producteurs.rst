@@ -17,19 +17,21 @@ Devenir Utilisateur
 - **L’Utilisateur s’inscrit sur la Plateforme**. https://publier-rec.datasud.fr
 - Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. 
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
-- EN s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
+- En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 
 L’Utilisateur dispose des fonctionnalités suivantes :
 
-- créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
--accéder aux données et services autorisés pour cette Organisation,
--accéder aux données et services autorisées pour les Utilisateurs inscrits,
-- demander à devenir Contributeur d’une Organisation,
--suivre/s’abonner à un Jeu de données ou une Organisation ; le partage et l’intégration d’un Jeu de données ou d’une ressource directement sur un autre site.
-- participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
-- contacter directement le Contributeur ayant publié un Jeu de données.
-- contacter les Administrateurs de la Plateforme.
+.. note::
+
+  - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
+  -accéder aux données et services autorisés pour cette Organisation,
+  -accéder aux données et services autorisées pour les Utilisateurs inscrits,
+  - demander à devenir Contributeur d’une Organisation,
+  -suivre/s’abonner à un Jeu de données ou une Organisation ; le partage et l’intégration d’un Jeu de données ou d’une ressource directement sur un autre site.
+  - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
+  - contacter directement le Contributeur ayant publié un Jeu de données.
+  - contacter les Administrateurs de la Plateforme.
 
 ---------------------------------
 Devenir Contributeur
