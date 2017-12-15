@@ -23,14 +23,14 @@ Devenir Utilisateur
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes :
 
 
-  - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
-  -accéder aux données et services autorisés pour cette Organisation,
-  -accéder aux données et services autorisées pour les Utilisateurs inscrits,
-  - demander à devenir Contributeur d’une Organisation,
-  -suivre/s’abonner à un Jeu de données ou une Organisation ; le partage et l’intégration d’un Jeu de données ou d’une ressource directement sur un autre site.
-  - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
-  - contacter directement le Contributeur ayant publié un Jeu de données.
-  - contacter les Administrateurs de la Plateforme.
+- créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
+- accéder aux données et services autorisés pour cette Organisation,
+- accéder aux données et services autorisées pour les Utilisateurs inscrits,
+- demander à devenir Contributeur d’une Organisation,
+- suivre/s’abonner à un Jeu de données ou une Organisation ; le partage et l’intégration d’un Jeu de données ou d’une ressource directement sur un autre site.
+- participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
+- contacter directement le Contributeur ayant publié un Jeu de données.
+- contacter les Administrateurs de la Plateforme.
 
 ---------------------------------
 Devenir Contributeur
@@ -53,18 +53,18 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 .. note:: Le Référent dispose des fonctionnalités suivantes :
 
-    éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
-    éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
+- éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
+- éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
-Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.
+**Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.**
 
-Les Administrateurs de la Plateforme se réservent la possibilité de supprimer un Jeu de données sans avis préalable de son Contributeur ou du Référent.
-Organisations et fonctionnalités liées
+
+**Organisations et fonctionnalités liées**
+
 
 Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
 
-Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.
-
+**Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.**
 
 - **Catalogue de données DataSud**
 
