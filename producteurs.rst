@@ -14,10 +14,11 @@ S'inscrire et publier sur DataSud
 Devenir Utilisateur
 ---------------------------------
 
-**L’Utilisateur s’inscrit sur la Plateforme**. https://publier-rec.datasud.fr
+- **L’Utilisateur s’inscrit sur la Plateforme**. https://publier-rec.datasud.fr
+- Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. 
+- En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
+- EN s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
-Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme et en accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
-`« Mentions légales » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 L’Utilisateur dispose des fonctionnalités suivantes :
 
