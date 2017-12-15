@@ -22,7 +22,7 @@ Devenir Utilisateur
 
 .. image:: CaptureDataSudConnect.PNG
 
-.. image:: CaptureDataSudSubsribe.PNG
+.. image:: CaptureDataSudSubscribe.PNG
 
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
