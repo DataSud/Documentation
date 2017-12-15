@@ -20,7 +20,7 @@ Devenir Utilisateur
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
-.. image:: _Documentation/CaptureDataSudConnect.PNG
+.. image:: _CaptureDataSudConnect.PNG
 
 .. image:: _Documentation/CaptureDataSudSubsribe.PNG
 
