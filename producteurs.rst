@@ -40,6 +40,8 @@ Devenir Utilisateur
 - contacter directement le Contributeur ayant publié un Jeu de données.
 - contacter les Administrateurs de la Plateforme.
 
+.. image:: CaptureDataSudFirstConnect.PNG
+
 ---------------------------------
 Devenir Contributeur
 ---------------------------------
@@ -61,7 +63,7 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
 - Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
-.. image:: CaptureDataAddOrganization.PNG
+.. image:: CaptureDataSudAddOrganization.PNG
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
@@ -84,6 +86,8 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
+.. image:: CaptureDataSudAddOrganizationStatus.PNG
+
 
 - *>> Catalogue de données DataSud* https://trouver-rec.datasud.fr/dataset
 
@@ -96,7 +100,28 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 Renseigner les métadonnées
 ----------------------------------------------
 
-Une fois connectés à l'espace d'administration sur  Les Contributeurs et Référents peuvent ajouter des Jeux de données à leurs Organisations.
+Une fois connecté à l'espace d'administration le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
+
+
+.. image:: CaptureDataSudAddDataset.PNG
+
+
+.. note:: Les meta-données obligatoires sont les suivantes ::
+
+- Titre
+- Organisation
+- Licence
+- Dates (par défaut)
+
+.. note:: Les meta-données facultatives sont les suivantes ::
+
+- Descriptif
+- Thématiques
+- Mots-clés
+- Type de données
+- Meta-données INSPIRE
+- Fréquence de mise à jour
+- Couverture régionale
 
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
