@@ -14,13 +14,14 @@ S'inscrire et publier sur DataSud
 Devenir Utilisateur
 ---------------------------------
 
-- **L’Utilisateur s’inscrit sur la Plateforme**. https://publier-rec.datasud.fr
+- L’Utilisateur s’inscrit sur la Plateforme: https://publier-rec.datasud.fr
 - Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. 
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes :
+
 
   - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
   -accéder aux données et services autorisés pour cette Organisation,
@@ -38,6 +39,7 @@ Devenir Contributeur
 Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
 
 .. note:: Le Contributeur dispose des fonctionnalités suivantes :
+
 
 - publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 - autoriser l’accès aux Ressources d’un Jeu de Données dont il est Contributeur à tous les Utilisateurs inscrits, à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
@@ -64,15 +66,17 @@ Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le p
 Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.
 
 
-> Catalogue de données DataSud
+- **Catalogue de données DataSud**
+
 https://trouver-rec.datasud.fr/dataset
 
-> Liste des contributeurs DataSud
+- **Liste des contributeurs DataSud**
+
 https://trouver-rec.datasud.fr/organization
 
-> Liste des thématiques DataSud
-https://trouver-rec.datasud.fr/group
+- **Liste des thématiques DataSud**
 
+https://trouver-rec.datasud.fr/group
 
 
 ----------------------------------------------
