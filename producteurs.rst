@@ -8,7 +8,11 @@ Ce guide est à destination des producteurs de données sur DataSud.
 S'inscrire et publier sur DataSud
 ---------------------------------
 
+Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
+
+---------------------------------
 Devenir Utilisateur
+---------------------------------
 
 Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
@@ -27,7 +31,9 @@ L’Utilisateur dispose des fonctionnalités suivantes :
 - contacter directement le Contributeur ayant publié un Jeu de données.
 - contacter les Administrateurs de la Plateforme.
 
+---------------------------------
 Devenir Contributeur
+---------------------------------
 
 Toute personne inscrite sur la plateforme en tant qu’Utilisateur ayant obtenu le statut de Contributeur, notamment, afin de mettre à disposition des Jeux de données dont la publication présente un intérêt public, telles que celles qui :
 
