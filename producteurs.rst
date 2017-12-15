@@ -4,21 +4,20 @@ Espace producteurs
 
 Ce guide est à destination des producteurs de données sur DataSud. 
 
----------------------------------
-S'inscrire et publier sur DataSud
----------------------------------
 
-Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
+S'inscrire et publier sur DataSud
+=================================
+
+.. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
 ---------------------------------
 Devenir Utilisateur
 ---------------------------------
 
-Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
+**L’Utilisateur s’inscrit sur la Plateforme**. https://publier-rec.datasud.fr
 
-Pour ce faire, l’Utilisateur s’inscrit sur la Plateforme. Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente.
-
-En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme. Pour plus de précisions, voir les rubriques « conditions d’utilisation » ,  « Mentions légales ».
+Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme et en accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
+`« Mentions légales » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 L’Utilisateur dispose des fonctionnalités suivantes :
 
