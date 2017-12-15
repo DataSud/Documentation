@@ -98,7 +98,6 @@ Renseigner les métadonnées
 
 Une fois connectés à l'espace d'administration sur  Les Contributeurs et Référents peuvent ajouter des Jeux de données à leurs Organisations.
 
-
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
