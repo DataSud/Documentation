@@ -2,13 +2,14 @@
 Espace producteurs
 ==================
 
-Ce guide est à destination des producteurs de données sur DataSud. 
+Ce guide est à destination des producteurs de données sur DataSud : http://publier-rec.datasud.fr 
 
 ---------------------------------
 S'inscrire et publier sur DataSud
 ---------------------------------
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
+
 
 ---------------------------------
 Devenir Utilisateur
@@ -36,7 +37,9 @@ Devenir Utilisateur
 Devenir Contributeur
 ---------------------------------
 
-Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
+Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
+
+Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Contributeur pour une organisation existante ou une nouvelle organisation. 
 
 .. note:: Le Contributeur dispose des fonctionnalités suivantes :
 
@@ -44,43 +47,50 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 - publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 - autoriser l’accès aux Ressources d’un Jeu de Données dont il est Contributeur à tous les Utilisateurs inscrits, à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
+.. note:: A noter ::
+
+- La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription**.
+- La demande de statut de Contributeur peut se faire au moment de l'inscription.
+- La demande de statut de Contributeur peut se faire après l'inscription sur une organisation existante.
+- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
+- Les demandes de statut sont soumis à la validation des Adminsitrateurs *à priori*. Il faut donc patientier un peu. 
+
+*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
+
 ---------------------------------
 Devenir Référent
 ---------------------------------
 
-
-Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
+Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Référent pour une organisation.
 
 .. note:: Le Référent dispose des fonctionnalités suivantes ::
 
 - éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
 - éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
+.. note:: A noter ::
+
+- La demande de statut de Référent peut se faire au moment de l'inscription.
+- La demande de statut de Référent peut se faire après l'inscription sur une organisation existante.
+- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
+- Les demandes de statut sont soumis à la validation des Adminsitrateurs *à priori*. Il faut donc patientier un peu. 
+
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 
-**Organisations et fonctionnalités liées**
 
+- *>> Catalogue de données DataSud* https://trouver-rec.datasud.fr/dataset
 
-Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
+- *>> Liste des contributeurs DataSud* https://trouver-rec.datasud.fr/organization
 
-*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.*
-
-- *>> Catalogue de données DataSud*
-https://trouver-rec.datasud.fr/dataset
-
-- *>> Liste des contributeurs DataSud*
-https://trouver-rec.datasud.fr/organization
-
-- *>> Liste des thématiques DataSud*
-https://trouver-rec.datasud.fr/group
+- *>> Liste des thématiques DataSud* https://trouver-rec.datasud.fr/group
 
 
 ----------------------------------------------
 Renseigner les métadonnées
 ----------------------------------------------
 
-Texte...
+Une fois connectés à l'espace d'administration sur  Les Contributeurs et Référents peuvent ajouter des Jeux de données à leurs Organisations.
 
 
 -------------------------------------------------------
