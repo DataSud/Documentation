@@ -24,6 +24,8 @@ Devenir Utilisateur
 
 .. image:: CaptureDataSudSubscribe.PNG
 
+*Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_*
+
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
 
