@@ -50,10 +50,9 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 .. note:: A noter ::
 
 - La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription**.
-- La demande de statut de Contributeur peut se faire au moment de l'inscription.
-- La demande de statut de Contributeur peut se faire après l'inscription sur une organisation existante.
+- La demande de statut de Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-- Les demandes de statut sont soumis à la validation des Adminsitrateurs *à priori*. Il faut donc patientier un peu. 
+- Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
@@ -70,13 +69,11 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 .. note:: A noter ::
 
-- La demande de statut de Référent peut se faire au moment de l'inscription.
-- La demande de statut de Référent peut se faire après l'inscription sur une organisation existante.
+- La demande de statut de Référent peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-- Les demandes de statut sont soumis à la validation des Adminsitrateurs *à priori*. Il faut donc patientier un peu. 
+- Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
-
 
 
 - *>> Catalogue de données DataSud* https://trouver-rec.datasud.fr/dataset
