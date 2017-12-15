@@ -22,8 +22,7 @@ Devenir Utilisateur
 
 .. image:: CaptureDataSudConnect.PNG
 
-.. image:: _Documentation/CaptureDataSudSubsribe.PNG
-
+.. image:: CaptureDataSudSubsribe.PNG
 
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
@@ -57,6 +56,8 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 - La demande de statut de Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
 - Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
+
+.. image:: CaptureDataAddOrganization.PNG
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
