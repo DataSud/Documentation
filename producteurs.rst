@@ -20,7 +20,7 @@ Devenir Utilisateur
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 
-.. note:: L’Utilisateur dispose des fonctionnalités suivantes :
+.. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
 
 - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
