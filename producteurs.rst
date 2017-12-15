@@ -4,9 +4,9 @@ Espace producteurs
 
 Ce guide est à destination des producteurs de données sur DataSud. 
 
-
+---------------------------------
 S'inscrire et publier sur DataSud
-=================================
+---------------------------------
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
@@ -20,9 +20,7 @@ Devenir Utilisateur
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www-rec.datasud.fr/conditions-dutilisation-cgus/>`_
 
 
-L’Utilisateur dispose des fonctionnalités suivantes :
-
-.. note::
+.. note:: L’Utilisateur dispose des fonctionnalités suivantes :
 
   - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
   -accéder aux données et services autorisés pour cette Organisation,
@@ -37,24 +35,43 @@ L’Utilisateur dispose des fonctionnalités suivantes :
 Devenir Contributeur
 ---------------------------------
 
-Toute personne inscrite sur la plateforme en tant qu’Utilisateur ayant obtenu le statut de Contributeur, notamment, afin de mettre à disposition des Jeux de données dont la publication présente un intérêt public, telles que celles qui :
+Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
 
-- assurent une meilleure information des citoyens, notamment en matière économique, sociale, sanitaire ou environnementale,
-- permettent une conduite plus efficace de politiques publiques,
-- bénéficient au développement économique,
-- concourent à la recherche scientifique et à l’investigation journalistique,
-- …
-
-Le Contributeur dispose des fonctionnalités suivantes :
+.. note:: Le Contributeur dispose des fonctionnalités suivantes :
 
 - publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 - autoriser l’accès aux Ressources d’un Jeu de Données dont il est Contributeur à tous les Utilisateurs inscrits, à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
-> Liste des contributeurs DataSud
+---------------------------------
+Devenir Référent
+---------------------------------
+
+
+Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
+
+.. note:: Le Référent dispose des fonctionnalités suivantes :
+
+    éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
+    éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
+
+Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.
+
+Les Administrateurs de la Plateforme se réservent la possibilité de supprimer un Jeu de données sans avis préalable de son Contributeur ou du Référent.
+Organisations et fonctionnalités liées
+
+Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
+
+Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.
+
 
 > Catalogue de données DataSud
+https://trouver-rec.datasud.fr/dataset
 
-> Conditions d’utilisation (CGUs)
+> Liste des contributeurs DataSud
+https://trouver-rec.datasud.fr/organization
+
+> Liste des thématiques DataSud
+https://trouver-rec.datasud.fr/group
 
 
 
