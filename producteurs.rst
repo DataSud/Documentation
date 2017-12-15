@@ -51,12 +51,12 @@ Devenir Référent
 
 Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obnteir le statut de Contributeur pour une organisation.
 
-.. note:: Le Référent dispose des fonctionnalités suivantes :
+.. note:: Le Référent dispose des fonctionnalités suivantes ::
 
 - éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
 - éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
-**Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.**
+*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 
 **Organisations et fonctionnalités liées**
@@ -64,30 +64,27 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
 
-**Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.**
+*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer l’inscription d’une Organisation et de ses Utilisateurs affiliés sans avis préalable.*
 
-- **Catalogue de données DataSud**
-
+- *>> Catalogue de données DataSud*
 https://trouver-rec.datasud.fr/dataset
 
-- **Liste des contributeurs DataSud**
-
+- *>> Liste des contributeurs DataSud*
 https://trouver-rec.datasud.fr/organization
 
-- **Liste des thématiques DataSud**
-
+- *>> Liste des thématiques DataSud*
 https://trouver-rec.datasud.fr/group
 
 
 ----------------------------------------------
-Comment renseigner les métadonnées sur DataSud 
+Renseigner les métadonnées
 ----------------------------------------------
 
 Texte...
 
 
 -------------------------------------------------------
-Comment renseigner les métadonnées INSPIRE sur DataSud.
+Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
 Texte...
