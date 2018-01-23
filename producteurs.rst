@@ -128,13 +128,16 @@ Voici quelques exemples de syntaxe Markdown. Quelques balises HTML équivalentes
 Cette liste n'est pas exhaustive.
 
 === Formatage ===
-Pour mettre du texte en emphase (balise HTML <nowiki><em></nowiki>), ce qui produit une mise en italique dans un navigateur courant :
- *quelques mots* ou  _quelques mots_
+Pour mettre du texte en emphase (balise HTML <em>), ce qui produit une mise en italique dans un navigateur courant :
+
+ *quelques mots*
 
 Pour mettre du texte en grande emphase (balise HTML <nowiki><strong></nowiki>), ce qui produit une mise en gras dans un navigateur courant :
+
  **plus important**
 
 Pour souligner :
+
  __également important__
 
 Pour mettre du code dans le texte (balise HTML <nowiki><code></nowiki>) :
