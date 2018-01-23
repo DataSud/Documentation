@@ -136,66 +136,64 @@ Cette liste n'est pas exhaustive.
 === Formatage ===
 Pour mettre du texte en emphase (balise HTML <em>), ce qui produit une mise en italique dans un navigateur courant :
 
- *quelques mots*
+     *quelques mots*    
+
+
+*quelques mots*
 
 Pour mettre du texte en grande emphase (balise HTML <strong>), ce qui produit une mise en gras dans un navigateur courant :
 
- **plus important**
+    **plus important**
+
+**plus important**
 
 Pour souligner :
 
- __également important__
+    __également important__
+
+
+__également important__
 
 Pour mettre du code dans le texte (balise HTML <code>) :
  Mon texte `code` fin de mon texte
 
+`` Mon code ``
+
 Pour un paragraphe de code, mettre quatre espaces devant :
 
-<code>
     Première ligne de code
     Deuxième ligne
-</code>
-
-Comme dans les courriels, il est possible de faire des citations :
- > Ce texte apparaîtra dans un élément HTML <nowiki><blockquote></nowiki>.
 
 Pour faire un nouveau paragraphe, sauter une ligne
- Premier paragraphe
- 
- Deuxième paragraphe   
 
-Pour faire un simple retour à la ligne, mettre deux espaces en fin de ligne (balise HTML <nowiki><br></nowiki>).
+Premier paragraphe
+ 
+Deuxième paragraphe   
+
+Pour faire un simple retour à la ligne, mettre deux espaces en fin de ligne (balise HTML <br>).
 
 === Listes ===
+
 Sauter une ligne avant le début de la liste.
 
 Pour créer une liste non ordonnée (balise HTML <nowiki><ul></nowiki>) :
+
  * Pommes
  * Poires
      * Sous élément avec au moins quatre espaces devant.
      
 Et une liste ordonnée (balise HTML <nowiki><ol></nowiki>) :
+
  1. mon premier
  2. mon deuxième
 Et une liste en mode case à cocher
+
  - [ ] Case non cochée
  - [x] Case cochée
 
-=== Titres ===
-Les titres sont créés avec un certain nombre de [[Croisillon (signe)|#]] avant le titre, qui correspondent au niveau de titre souhaité (le [[HTML]] propose 6 niveaux de titres de <nowiki><h1></nowiki> à <nowiki><h6></nowiki>)
 
- # un titre de premier niveau
- #### un titre de quatrième niveau
+Pour créer des tableaux
 
-Pour les deux premiers niveaux de titre (<nowiki><h1></nowiki> et <nowiki><h2></nowiki>), il est également possible de souligner le titre avec des [[=]] ou des [[Tiret|-]] (leur nombre réel importe peu, mais il doit être supérieur à 2).
-
- Titre de niveau 1
- <nowiki>=====================</nowiki>
-
- Titre de niveau 2
- -------------------
-=== Tableaux ===
-Pour créer des tableaux (balises HTML <nowiki><tr></nowiki> et <nowiki><th>)</nowiki>
  | Titre 1       |     Titre 2     |   Titre 3      |
  | ------------- | -------------   | ---------      |
  | Colonne       |     Colonne     |      Colonne   |
@@ -205,12 +203,17 @@ Pour créer des tableaux (balises HTML <nowiki><tr></nowiki> et <nowiki><th>)</n
 === Liens ===
 
 Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
- [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
-=== Images ===
+``[texte du lien](url_du_lien "texte pour le titre, facultatif")``
+
+[texte du lien](url_du_lien "texte pour le titre, facultatif")
+
+
 Pour afficher une image (balise HTML <nowiki><img></nowiki>) :
- ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
+
+`` ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")``
  
+ ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
 
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
