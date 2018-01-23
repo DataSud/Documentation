@@ -155,7 +155,6 @@ Pour souligner :
 __également important__
 
 Pour mettre du code dans le texte (balise HTML <code>) :
- Mon texte `code` fin de mon texte
 
 `` Mon code ``
 
