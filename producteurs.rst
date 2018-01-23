@@ -123,7 +123,13 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 - Fréquence de mise à jour
 - Couverture régionale
 
-Voici quelques exemples de syntaxe Markdown. Quelques balises HTML équivalentes sont données.
+--------------------------------------------------
+Amélioration des champs descriptifs avec Markdown
+--------------------------------------------------
+
+Pour les champs descriptifs de vos jeux de données et de vos ressources et de vos organisations vous pouvez utiliser la syntaxe Markdown.
+
+Voici quelques exemples de syntaxe Markdown.
 
 Cette liste n'est pas exhaustive.
 
@@ -132,7 +138,7 @@ Pour mettre du texte en emphase (balise HTML <em>), ce qui produit une mise en i
 
  *quelques mots*
 
-Pour mettre du texte en grande emphase (balise HTML <nowiki><strong></nowiki>), ce qui produit une mise en gras dans un navigateur courant :
+Pour mettre du texte en grande emphase (balise HTML <strong>), ce qui produit une mise en gras dans un navigateur courant :
 
  **plus important**
 
@@ -140,12 +146,15 @@ Pour souligner :
 
  __également important__
 
-Pour mettre du code dans le texte (balise HTML <nowiki><code></nowiki>) :
+Pour mettre du code dans le texte (balise HTML <code>) :
  Mon texte `code` fin de mon texte
 
 Pour un paragraphe de code, mettre quatre espaces devant :
-     Première ligne de code
-     Deuxième ligne
+
+<code>
+    Première ligne de code
+    Deuxième ligne
+</code>
 
 Comme dans les courriels, il est possible de faire des citations :
  > Ce texte apparaîtra dans un élément HTML <nowiki><blockquote></nowiki>.
