@@ -156,7 +156,7 @@ __également important__
 
 Pour mettre du code dans le texte (balise HTML <code>) :
 
-`` Mon code ``
+``Mon code``
 
 Pour un paragraphe de code, mettre quatre espaces devant :
 
