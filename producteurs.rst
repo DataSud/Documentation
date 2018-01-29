@@ -210,9 +210,9 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
 
 Pour afficher une image (balise HTML <nowiki><img></nowiki>) :
 
-`` ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")``
+`` [Texte alternatif](url_de_l'image "texte pour le titre, facultatif")``
  
- ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
+ [Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
  
  ** Aller plus loin **
  
