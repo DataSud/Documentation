@@ -207,12 +207,6 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
 
 [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
-
-Pour afficher une image (balise HTML <nowiki><img></nowiki>) :
-
-`` [Texte alternatif](url_de_l'image "texte pour le titre, facultatif")``
- 
- [Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
  
  ** Aller plus loin **
  
@@ -229,4 +223,4 @@ Texte...
 Conseils utiles
 -------------------------------------------------------
 
-- Les champs descriptifs long d'une organisation, d'un jeu de donnée et d'une ressource peuvent être mis en forme. Pour cela il faut utiliser le langage du markdown (https://fr.wikipedia.org/wiki/Markdown) plutôt que du HTML
+- Les champs descriptifs long d'une organisation, d'un jeu de donnée et d'une ressource peuvent être mis en forme. Pour cela il faut utiliser le langage du markdown (https://fr.wikipedia.org/wiki/Markdown) plutôt que du HTML. Voir ci-dessus.
