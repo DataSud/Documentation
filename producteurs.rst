@@ -139,7 +139,7 @@ http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-c
 - Le format CSV à priviliégier doit être encoder en UTF-8 avec un ; séparateur / délimiteur.
 - Avoir des titres de colonnes de moins de 62 caractères.
 - En théorie les caractères spéciaux ('\:.,( -') sont acceptés. Les éviter dans les titres c'est beaucoup mieux.
-- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur.
+- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur. Pour eviter les erreurs de type, une solution amont à l'indexation consiste à transformer toutes vos cellules en cellules au format TEXTE. Cela n'est pas satisfaisant, mais ca fonctionne.
 
 Utilisez des outils appropriés pour nettoyer vos données :
 
@@ -153,9 +153,6 @@ Utilisez des outils appropriés pour nettoyer vos données :
 - EXCEL : si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière, à la fin du classeur. 
 
 - ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
-
-Pour aller plus loin :
-
 
 
 --------------------------------------------------
