@@ -124,6 +124,38 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 - Couverture régionale
 
 --------------------------------------------------
+Datastore et données intelligentes
+--------------------------------------------------
+
+Datasud propose un datastore, c'est à dire un entrepôt de données qui offre un certain niveau de services "intelligents" sur les données tabulaires comme le CSV et le XLS. L'indexation de vos données dans le datastore permet de parcourir ces dernières, de les filtrer, de créer des datavisualisations simples et surtout de servir vos données par web service à travers l'API Ckan.
+
+http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan
+
+Dans la version bêta de DataSud cette mécanique est encore sensible. Vos jeux de données doivent être préprarés pour être proprement indexés dans le datastore :
+
+- Idéalement passer tous vos jeux de données en UTF-8. Notepad++ fait cela très bien.
+- Idéalement exporter vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
+- Le format CSV à priviliégier doit être encoder en UTF-8 avec un séparateur en ;?
+- Avoir des titres de colonnes de moins de 62 caractères.
+- En théorie les caractères spéciaux ('\:.,( -') sont acceptés. Les éviter dans les titres c'est beaucoup mieux.
+- harmoniser le type de vos données (et oui vos données sont typées) :
+
+Si une colonne ne comporte que des chiffres, le Datastore déterminer a automantiquement le type nombre. Hors si une valeurs contient l'entrée N/A, le datastore va générer une erreur.
+
+Attention :
+
+- EXCEL : Pour les tableurs excel, seul la dernière feuille de calcul (ou onglet) est indexée dans le datastore. Il est donc obligatoire de scinder  ou déplacer la feuille de calcul qui contient les données que vous voulez indexer dans le datastore en dernière.
+
+- EXCEL : à l'inverse si vous ne voulez pas indexer vos données dans le datastore(pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière, à la fin du classeur. 
+
+- ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
+
+Pour aller plus loin :
+
+- La méthode infolabs, produire un CSV de qualité : http://infolabs.io/prod-csv 
+- Les outils http://csvlint.io/ https://goodtables.io/ ou http://openrefine.org/
+
+--------------------------------------------------
 Amélioration des champs descriptifs avec Markdown
 --------------------------------------------------
 
