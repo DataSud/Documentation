@@ -126,7 +126,7 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 Datastore et données intelligentes
 --------------------------------------------------
 
-Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de services dits "intelligents" sur les données tabulaires aux formats CSV et XLS. L'indexation de vos données dans le datastore permet notamment de parcourir ces dernières, de les filtrer, de créer des datavisualisations simples et surtout de servir vos données par web service à travers l'API de Ckan.
+Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS. L'indexation de vos données dans le datastore permet notamment de parcourir ces dernières, de les filtrer, de créer des datavisualisations simples et surtout de servir vos données par web service à travers l'API de Ckan.
 
 http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan
 
@@ -139,22 +139,24 @@ http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-c
 - Le format CSV à priviliégier doit être encoder en UTF-8 avec un séparateur en ;?
 - Avoir des titres de colonnes de moins de 62 caractères.
 - En théorie les caractères spéciaux ('\:.,( -') sont acceptés. Les éviter dans les titres c'est beaucoup mieux.
-- harmoniser le type de vos données (et oui vos données sont typées) :
+- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur.
 
-Si une colonne ne comporte que des chiffres, le Datastore déterminer a automantiquement le type nombre. Hors si une valeurs contient l'entrée N/A, le datastore va générer une erreur.
+Utilisez des outils appropriés pour nettoyer vos données :
+
+- La méthode infolabs, produire un CSV de qualité : http://infolabs.io/prod-csv 
+- Les outils http://csvlint.io/ https://goodtables.io/ ou http://openrefine.org/
 
 **Attention :**
 
-- EXCEL : Pour les tableurs excel, seul la dernière feuille de calcul (ou onglet) est indexée dans le datastore. Il est donc obligatoire de scinder  ou déplacer la feuille de calcul qui contient les données que vous voulez indexer dans le datastore en dernière.
+- EXCEL : seule la dernière feuille de calcul (ou onglet) est indexée dans le datastore. Il est donc nécessaire de déplacer la feuille de calcul qui contient les données que vous voulez indexer dans le datastore en dernière place de votre classeur.
 
-- EXCEL : à l'inverse si vous ne voulez pas indexer vos données dans le datastore(pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière, à la fin du classeur. 
+- EXCEL : si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière, à la fin du classeur. 
 
 - ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
 
 Pour aller plus loin :
 
-- La méthode infolabs, produire un CSV de qualité : http://infolabs.io/prod-csv 
-- Les outils http://csvlint.io/ https://goodtables.io/ ou http://openrefine.org/
+
 
 --------------------------------------------------
 Amélioration des champs descriptifs avec Markdown
