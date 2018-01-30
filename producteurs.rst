@@ -136,7 +136,7 @@ http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-c
 
 - Idéalement passer tous vos jeux de données en UTF-8. Notepad++ fait cela très bien.
 - Idéalement exporter vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
-- Le format CSV à priviliégier doit être encoder en UTF-8 avec un séparateur en ;?
+- Le format CSV à priviliégier doit être encoder en UTF-8 avec un ; séparateur / délimiteur.
 - Avoir des titres de colonnes de moins de 62 caractères.
 - En théorie les caractères spéciaux ('\:.,( -') sont acceptés. Les éviter dans les titres c'est beaucoup mieux.
 - Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur.
