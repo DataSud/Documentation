@@ -166,17 +166,38 @@ Voici quelques exemples de syntaxe Markdown.
 Cette liste n'est pas exhaustive.
 
 === Formatage ===
-Pour mettre du texte en emphase (balise HTML <em>), ce qui produit une mise en italique dans un navigateur courant :
 
-`` *quelques mots* ``
+Mettre du texte en italique ::
+
+    ``*quelques mots*``
 
 *quelques mots*
 
-Pour mettre du texte en grande emphase (balise HTML <strong>), ce qui produit une mise en gras dans un navigateur courant :
+Mettre du texte en gras ::
 
-`` **plus important** ``
+    `` **plus important** ``
 
 **plus important**
+
+
+La réponse de CKAN ressemblera à ceci::
+
+    {
+        "help": "...",
+        "result": [
+            "data-explorer",
+            "department-of-ricky",
+            "geo-examples",
+            "geothermal-data",
+            "reykjavik",
+            "skeenawild-conservation-trust"
+        ],
+        "success": true
+    }
+
+La réponse est un dictionnaire JSON avec 3 clés :
+
+1. ``"success"``: ``true`` or ``false``.
 
 
 Pour mettre du code dans le texte (balise HTML <code>) :
