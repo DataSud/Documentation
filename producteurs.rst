@@ -202,7 +202,7 @@ Pour créer une liste non ordonnée ::
 
 === Liens ===
 
-Pour créer des liens (balise HTML <nowiki><a></nowiki>) ::
+Pour créer des liens ::
 
    [texte du lien](url_du_lien "texte pour le titre, facultatif")
    https://trouver.datasud.fr (automatique si mon url commence par http ou https).
