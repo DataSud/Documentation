@@ -225,6 +225,7 @@ https://fr.wikipedia.org/wiki/Markdown
 
 https://guides.github.com/features/mastering-markdown/
 
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
