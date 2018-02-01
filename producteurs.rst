@@ -192,14 +192,21 @@ Sauter une ligne avant le début de la liste.
 
 Pour créer une liste non ordonnée ::
 
-* Pommes
-* Poires
-     * Sous élément avec au moins quatre espaces devant.
+   * Pommes
+   * Poires
    
 
 * Pommes
-* Poires
-   * Sous élément avec au moins quatre espaces devant.     
+* Poires  
+
+=== Image ====
+
+Vous pouvez afficher une image dans vos descriptifs. Attention, la taille n'est pas paramétrable et l'image doit déjà être disponible en ligne quelque part ::
+
+   .. image:: CaptureDataSudConnect.PNG
+
+
+.. image:: CaptureDataSudConnect.PNG
 
 
 === Liens ===
