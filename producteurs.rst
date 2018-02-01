@@ -168,74 +168,48 @@ Cette liste n'est pas exhaustive.
 === Formatage ===
 Pour mettre du texte en emphase (balise HTML <em>), ce qui produit une mise en italique dans un navigateur courant :
 
-     *quelques mots*    
-
+`` *quelques mots* ``
 
 *quelques mots*
 
 Pour mettre du texte en grande emphase (balise HTML <strong>), ce qui produit une mise en gras dans un navigateur courant :
 
-    **plus important**
+`` **plus important** ``
 
 **plus important**
 
-Pour souligner :
-
-    __également important__
-
-
-__également important__
 
 Pour mettre du code dans le texte (balise HTML <code>) :
+
+`` ``Mon code`` ``
 
 ``Mon code``
 
 Pour un paragraphe de code, mettre quatre espaces devant :
 
+``    Première ligne de code``
+
     Première ligne de code
-    Deuxième ligne
-
-Pour faire un nouveau paragraphe, sauter une ligne
-
-Premier paragraphe
- 
-Deuxième paragraphe   
-
-Pour faire un simple retour à la ligne, mettre deux espaces en fin de ligne (balise HTML <br>).
 
 === Listes ===
 
 Sauter une ligne avant le début de la liste.
 
-Pour créer une liste non ordonnée (balise HTML <nowiki><ul></nowiki>) :
+Pour créer une liste non ordonnée :
 
- * Pommes
+'' * Pommes
  * Poires
-     * Sous élément avec au moins quatre espaces devant.
+     * Sous élément avec au moins quatre espaces devant. ``
      
-Et une liste ordonnée (balise HTML <nowiki><ol></nowiki>) :
-
- 1. mon premier
- 2. mon deuxième
-Et une liste en mode case à cocher
-
- - [ ] Case non cochée
- - [x] Case cochée
-
-
-Pour créer des tableaux
-
- | Titre 1       |     Titre 2     |   Titre 3      |
- | ------------- | -------------   | ---------      |
- | Colonne       |     Colonne     |      Colonne   |
- | Alignée à     |      Alignée au |     Alignée à  |
- | Gauche        |      Centre     |      Droite    |
+* Pommes
+ * Poires
+     * Sous élément avec au moins quatre espaces devant.     
 
 === Liens ===
 
 Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
 
-``[texte du lien](url_du_lien "texte pour le titre, facultatif")``
+`` [texte du lien](url_du_lien "texte pour le titre, facultatif") ``
 
 [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
@@ -243,7 +217,8 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
  ** Aller plus loin **
  
  [https://fr.wikipedia.org/wiki/Markdown](https://fr.wikipedia.org/wiki/Markdown)
- 
+  [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
 
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
