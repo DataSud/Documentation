@@ -194,27 +194,28 @@ Sauter une ligne avant le début de la liste.
 
 Pour créer une liste non ordonnée ::
 
-    '' * Pommes
-     * Poires
-         * Sous élément avec au moins quatre espaces devant. ``
-         
 * Pommes
- * Poires
-     * Sous élément avec au moins quatre espaces devant.     
+* Poires
+   * Sous élément avec au moins quatre espaces devant.
+   
+* Pommes
+* Poires
+   * Sous élément avec au moins quatre espaces devant.     
 
 === Liens ===
 
 Pour créer des liens (balise HTML <nowiki><a></nowiki>) ::
 
-    [texte du lien](url_du_lien "texte pour le titre, facultatif")
+   [texte du lien](url_du_lien "texte pour le titre, facultatif")
+   https://trouver.datasud.fr (automatique si mon url commence par http ou https).
 
-[texte du lien](url_du_lien "texte pour le titre, facultatif")
+[texte du lien](url_du_lien)
 
  
  ** Aller plus loin **
  
- [https://fr.wikipedia.org/wiki/Markdown](https://fr.wikipedia.org/wiki/Markdown)
- [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+[https://fr.wikipedia.org/wiki/Markdown](https://fr.wikipedia.org/wiki/Markdown)
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 
 -------------------------------------------------------
