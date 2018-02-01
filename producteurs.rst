@@ -180,8 +180,6 @@ Mettre du texte en gras ::
 **plus important**
 
 
-
-
 Pour mettre du code dans le texte::
 
     ``Mon code``
@@ -209,13 +207,13 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) ::
    [texte du lien](url_du_lien "texte pour le titre, facultatif")
    https://trouver.datasud.fr (automatique si mon url commence par http ou https).
 
-[texte du lien](url_du_lien)
+[Trouver des données sur Datasud.fr](https://trouver.datasud.fr)
 
  
- ** Aller plus loin **
- 
-[https://fr.wikipedia.org/wiki/Markdown](https://fr.wikipedia.org/wiki/Markdown)
-[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+=== Aller plus loin ===
+
+https://fr.wikipedia.org/wiki/Markdown
+https://guides.github.com/features/mastering-markdown/
 
 
 -------------------------------------------------------
