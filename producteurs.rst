@@ -194,12 +194,13 @@ Pour créer une liste non ordonnée ::
 
 * Pommes
 * Poires
-   * Sous élément avec au moins quatre espaces devant.
+     * Sous élément avec au moins quatre espaces devant.
    
-   
+
 * Pommes
 * Poires
    * Sous élément avec au moins quatre espaces devant.     
+
 
 === Liens ===
 
