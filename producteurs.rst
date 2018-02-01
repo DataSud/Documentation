@@ -213,6 +213,7 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) ::
 === Aller plus loin ===
 
 https://fr.wikipedia.org/wiki/Markdown
+
 https://guides.github.com/features/mastering-markdown/
 
 
