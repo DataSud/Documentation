@@ -221,10 +221,6 @@ https://guides.github.com/features/mastering-markdown/
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Texte...
+Cette partie de la documentation est en cours de rédaction.
 
--------------------------------------------------------
-Conseils utiles
--------------------------------------------------------
 
-- Les champs descriptifs long d'une organisation, d'un jeu de donnée et d'une ressource peuvent être mis en forme. Pour cela il faut utiliser le langage du markdown (https://fr.wikipedia.org/wiki/Markdown) plutôt que du HTML. Voir ci-dessus.
