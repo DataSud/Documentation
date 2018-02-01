@@ -169,68 +169,44 @@ Cette liste n'est pas exhaustive.
 
 Mettre du texte en italique ::
 
-    ``*quelques mots*``
+    *quelques mots*
 
 *quelques mots*
 
 Mettre du texte en gras ::
 
-    `` **plus important** ``
+    **plus important**
 
 **plus important**
 
 
-La réponse de CKAN ressemblera à ceci::
-
-    {
-        "help": "...",
-        "result": [
-            "data-explorer",
-            "department-of-ricky",
-            "geo-examples",
-            "geothermal-data",
-            "reykjavik",
-            "skeenawild-conservation-trust"
-        ],
-        "success": true
-    }
-
-La réponse est un dictionnaire JSON avec 3 clés :
-
-1. ``"success"``: ``true`` or ``false``.
 
 
-Pour mettre du code dans le texte (balise HTML <code>) :
+Pour mettre du code dans le texte::
 
-`` ``Mon code`` ``
+    ``Mon code``
 
 ``Mon code``
-
-Pour un paragraphe de code, mettre quatre espaces devant :
-
-``    Première ligne de code``
-
-    Première ligne de code
 
 === Listes ===
 
 Sauter une ligne avant le début de la liste.
 
-Pour créer une liste non ordonnée :
+Pour créer une liste non ordonnée ::
 
-'' * Pommes
- * Poires
-     * Sous élément avec au moins quatre espaces devant. ``
-     
+    '' * Pommes
+     * Poires
+         * Sous élément avec au moins quatre espaces devant. ``
+         
 * Pommes
  * Poires
      * Sous élément avec au moins quatre espaces devant.     
 
 === Liens ===
 
-Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
+Pour créer des liens (balise HTML <nowiki><a></nowiki>) ::
 
-`` [texte du lien](url_du_lien "texte pour le titre, facultatif") ``
+    [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
 [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
@@ -238,7 +214,7 @@ Pour créer des liens (balise HTML <nowiki><a></nowiki>) :
  ** Aller plus loin **
  
  [https://fr.wikipedia.org/wiki/Markdown](https://fr.wikipedia.org/wiki/Markdown)
-  [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+ [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 
 -------------------------------------------------------
