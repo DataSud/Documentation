@@ -131,7 +131,7 @@ Datasud propose un **datastore**, c'est à dire un entrepôt de données qui off
 - visualiser et parcourir ces dernières,
 - les filtrer par champs.
 - créer des datavisualisations simples,
-- automatiser l'accès par [API](http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan)
+- automatiser l'accès par `API <http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan>`
 
 Permettre l'acccès à vos données par interface de programmation est une condition nécessaire pour massifier, industrialiser les usages qui peuvent être fait de ces dernières. C'est également une exigence de la loi république numérique de diffuser dans un format ouvert et interprétable par une machine. Sur Datasud, le format CSV est le format pivot à privilégier pour transformer vos données tabulaires en données semi-structurées dites "intelligentes". 
 
