@@ -126,7 +126,12 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 Datastore et données intelligentes
 --------------------------------------------------
 
-Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS. L'indexation de vos données dans le datastore permet notamment de parcourir ces dernières, de les filtrer, de créer des datavisualisations simples et surtout de servir vos données par web service à travers l'API de Ckan.
+Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS. L'indexation de vos données dans le datastore permet notamment de transformer vos données en données semi-structurées et de :
+
+- visualiser et parcourir ces dernières,
+- les filtrer par champs.
+- créer des datavisualisations simples,
+- automatiser l'accès par [web service (API)](http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan).
 
 http://datasud.readthedocs.io/fr/latest/developpeurs/services.html#service-api-ckan
 
