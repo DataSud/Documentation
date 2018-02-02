@@ -126,7 +126,7 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 Datastore et données intelligentes
 --------------------------------------------------
 
-Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS. L'indexation de vos données dans le datastore permet notamment de transformer vos données en données semi-structurées et de :
+Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de **services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS**. L'indexation de vos données dans le datastore permet notamment de transformer vos données en données semi-structurées et de :
 
 - visualiser et parcourir ces dernières,
 - les filtrer par champs.
@@ -139,12 +139,12 @@ Permettre l'acccès à vos données par interface de programmation est une condi
 
 **Vos jeux de données doivent être préparés pour être proprement indexés dans le datastore :**
 
-- Idéalement passer tous vos jeux de données en UTF-8. Notepad++ fait cela très bien.
-- Idéalement exporter vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
-- Le format CSV à priviliégier doit être encoder en UTF-8 avec un ; séparateur / délimiteur.
-- Avoir des titres de colonnes de moins de 62 caractères.
-- En théorie les caractères spéciaux ('\:.,( -') sont acceptés. Les éviter dans les titres c'est beaucoup mieux.
-- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur. Pour eviter les erreurs de type, une solution amont à l'indexation consiste à transformer toutes vos cellules en cellules au format TEXTE. Cela n'est pas satisfaisant, mais ca fonctionne.
+- Le format CSV à priviliégier doit privilégié avec un ; comme séparateur / délimiteur.
+- Idéalement, passez tous vos jeux de données en UTF-8. Notepad++ fait cela très bien.
+- Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
+- Restreindre vos titres de colonnes à moins de 62 caractères.
+- En théorie les caractères spéciaux ('\:.,( -') sont acceptés, les éviter dans les titres c'est beaucoup mieux.
+- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur. Pour eviter les erreurs de type, une solution amont à l'indexation consiste à soit corriger les erreurs, soit transformer toutes vos cellules en cellules au format TEXTE. Cela n'est pas satisfaisant, mais ca fonctionne.
 
 Utilisez des outils appropriés pour nettoyer vos données :
 
