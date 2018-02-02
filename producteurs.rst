@@ -166,10 +166,10 @@ Règles de nommage de vos ressources
 
 Inspirer des recommandations en matière de nommage des fichiers électroniques et de plan de classement, nous vous proposons de respecter les règles suivantes relatives aux intitulés des ressources (fichiers) associées à vos jeux de données :
 
-**
+
 - Le nom d’un fichier doit être succinct : éviter de dépasser 30 caractères (sans compter l’extension).
 - Le nom d’un fichier doit être précis : il contiendra idéalement : le sujet, le type de document, la date de création, éventuellement la version.
-**
+
 
 - Date: pour le 20 décembre 2016 => 20161220 (norme ISO 8601).
 - Ne pas utiliser des mots vides : le, la, les, de, etc.
