@@ -1,7 +1,7 @@
 .. _action developpeurs:
 
 -------------------------------
-Services offerts par datasud.fr
+Espace développeurs
 -------------------------------
 
 Service API Ckan
