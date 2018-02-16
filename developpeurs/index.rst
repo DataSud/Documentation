@@ -249,12 +249,15 @@ Tous les jeux de données ayant le tag 'economie':
 Service WMS
 ===========
 
+En cours.
 
 
 Service WFS
 ===========
 
-
+En cours.
 
 Service CSW
 ===========
+
+En cours.
