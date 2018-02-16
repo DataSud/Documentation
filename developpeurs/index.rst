@@ -224,7 +224,7 @@ https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&c
 .. _api-examples:
 
 
-Exemples
+Exemples de requête à l'API CKAN
 ========
 
 
