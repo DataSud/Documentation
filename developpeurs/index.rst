@@ -247,36 +247,44 @@ Autres exemples de requêtes basées sur la même logique de construction :
 * Tous les jeux de données
 * http://trouver.datasud.fr/api/3/action/package_list
 
+
 * Toutes les thématiques 
 * http://trouver.datasud.fr/api/3/action/group_list
 
-* Tous les mlots clés
+
+* Tous les mots clés
 * http://trouver.datasud.fr/api/3/action/tag_list
+
 
 * Toutes les organisations
 * http://trouver.datasud.fr/api/3/action/organization_list
-  
+
+
 * Obtenir un flux des jeux de données récemment mis à jour :
 * http://trouver.datasud.fr/api/3/action/recently_changed_packages_activity_list
 
-**Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :**
+**Obtenir une représentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :**
 
-*  Obtenir ne réprésentation détaillée d'un jeu de données :
+*  Obtenir une représentation détaillée d'un jeu de données :
 *  https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
 
-*  Obtenir ne réprésentation détaillée d'une organisation :
+
+*  Obtenir une réprésentation détaillée d'une organisation :
 * https://trouver.datasud.fr/api/3/action/organization_show?id=region-sud
 
 **Autres exemples :**
 
 *  Obtenir une liste de jeux de données "géographiques" :
 *  https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
-  
+
+
 *  Obtenier des informations sur la thématique "Environnement et Climat".
 *  https://trouver.datasud.fr/api/3/action/group_show?id=environnement-et-climat
 
-*  Rechercher de jeux de données à partir d'une recherche textuelle :
+
+*  Rechercher des jeux de données à partir d'une requête textuelle :
 *  https://trouver.datasud.fr/api/3/action/package_search?q=energies
+
 
 *  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
 *  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
