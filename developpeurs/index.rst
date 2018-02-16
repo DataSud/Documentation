@@ -11,27 +11,36 @@ Le site **https://trouver.datasud.fr** est construit sur le catalogue `CKAN <htt
 
 Ainsi, il est par exemple possible de réaliser ce qui suit.
 
-* Obtenir au format JSON, des listes des jeux de données, des groupes thématiques ou encore des mots-clés utilisés dans le catalogue :
+* Obtenir au format JSON, la liste des jeux de données, des groupes thématiques, des mots-clés utilisés ou des organisations du catalogue :
 
   http://trouver.datasud.fr/api/3/action/package_list
 
   http://trouver.datasud.fr/api/3/action/group_list
 
   http://trouver.datasud.fr/api/3/action/tag_list
+  
+  http://trouver.datasud.fr/api/3/action/organization_list
+  
+  
 
-* Obtenir une réprésentation d'un des objets, toujours au format JSON :
+* Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
 
-  https://trouver.datasud.fr/api/3/action/package_show?id=xxx
+  Obtenir un jeu de données :
+  https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
 
-  https://trouver.datasud.fr/api/3/action/tag_show?id=gold
-
-  https://trouver.datasud.fr/api/3/action/group_show?id=environnement
+  Obtenir une liste de jeux de données "géographiques" :
+  https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
+  
+  Obtenier des informations sur la thématique "Environnement et Climat".
+  https://trouver.datasud.fr/api/3/action/group_show?id=environnement-et-climat
 
 * Rechercher de jeux de données ou des ressources correspondants à une requête :
 
-  https://trouver.datasud.fr/api/3/action/package_search?q=insee
+  https://trouver.datasud.fr/api/3/action/package_search?q=energies
 
-  https://trouver.datasud.fr/api/3/action/resource_search?query=name:District%20Names
+  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV 
+  
+  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
 
 * Obtenir un flux des jeux de données récemment mis à jour :
