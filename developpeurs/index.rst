@@ -207,10 +207,6 @@ https://trouver.datasud.fr/api/3/action/term_translation_show?terms=russian&term
 Support JSONP
 =============
 
-To cater for scripts from other sites that wish to access the API, the data can
-be returned in JSONP format, where the JSON data is 'padded' with a function
-call. The function is named in the 'callback' parameter. For example:
-
 
 Pour répondre aux scripts d'autres sites qui souhaitent accéder à l'API, les données peuvent
 être renvoyé au format JSONP, où les données JSON sont 'complétées' avec une fonction
