@@ -21,7 +21,9 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
   
   http://trouver.datasud.fr/api/3/action/organization_list
   
-  
+* Obtenir un flux des jeux de données récemment mis à jour :
+
+  http://trouver.datasud.fr/api/3/action/recently_changed_packages_activity_list
 
 * Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
 
@@ -34,19 +36,11 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
   Obtenier des informations sur la thématique "Environnement et Climat".
   https://trouver.datasud.fr/api/3/action/group_show?id=environnement-et-climat
 
-* Rechercher de jeux de données ou des ressources correspondants à une requête :
-
+  Rechercher de jeux de données à partir d'un mot clé :
   https://trouver.datasud.fr/api/3/action/package_search?q=energies
 
-  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV 
-  
+  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
   https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
-
-
-* Obtenir un flux des jeux de données récemment mis à jour :
-
-  http://trouver.datasud.fr/api/3/action/recently_changed_packages_activity_list
-
 
 .. note:: le mot "package" qu'on trouve dans certaines requête correspond à un jeu de donnée.
 
@@ -248,11 +242,39 @@ Top 10 des tags utilisés dans les jeux de données :
 * curl: ``curl 'https://trouver.datasud.fr/api/action/package_search?facet.field=\["tags"\]&facet.limit=10&rows=0'``
 * ckanapi: ``ckanapi -r https://trouver.datasud.fr action package_search facet.field='["tags"]' facet.limit=10 rows=0``
 
-Tous les jeux de données ayant le tag 'economie':
+Autres exemples de requêtes basées sur la même logique de construction :
 
-* browser: https://trouver.datasud.fr/api/3/action/package_search?fq=tags:economie
-* curl: ``curl 'https://trouver.datasud.fr/api/3/action/package_search?fq=tags:economie'``
-* ckanapi: ``ckanapi -r https://trouver.datasud.fr action package_search fq='tags:economie'``
+* Tous les jeux de données
+* http://trouver.datasud.fr/api/3/action/package_list
+
+* Toutes les thématiques 
+* http://trouver.datasud.fr/api/3/action/group_list
+
+* Tous les mlots clés
+* http://trouver.datasud.fr/api/3/action/tag_list
+
+* Toutes les organisations
+* http://trouver.datasud.fr/api/3/action/organization_list
+  
+* Obtenir un flux des jeux de données récemment mis à jour :
+* http://trouver.datasud.fr/api/3/action/recently_changed_packages_activity_list
+
+* Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
+
+*  Obtenir un jeu de données :
+*  https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
+
+*  Obtenir une liste de jeux de données "géographiques" :
+*  https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
+  
+*  Obtenier des informations sur la thématique "Environnement et Climat".
+*  https://trouver.datasud.fr/api/3/action/group_show?id=environnement-et-climat
+
+*  Rechercher de jeux de données à partir d'une recherche textuelle :
+*  https://trouver.datasud.fr/api/3/action/package_search?q=energies
+
+*  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
+*  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
 
 Service WMS
