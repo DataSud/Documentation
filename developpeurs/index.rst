@@ -259,10 +259,15 @@ Autres exemples de requêtes basées sur la même logique de construction :
 * Obtenir un flux des jeux de données récemment mis à jour :
 * http://trouver.datasud.fr/api/3/action/recently_changed_packages_activity_list
 
-* Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
+**Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :**
 
-*  Obtenir un jeu de données :
+*  Obtenir ne réprésentation détaillée d'un jeu de données :
 *  https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
+
+*  Obtenir ne réprésentation détaillée d'une organisation :
+* https://trouver.datasud.fr/api/3/action/organization_show?id=region-sud
+
+**Autres exemples :**
 
 *  Obtenir une liste de jeux de données "géographiques" :
 *  https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
