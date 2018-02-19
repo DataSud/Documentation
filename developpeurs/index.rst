@@ -27,8 +27,11 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
 
 * Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
 
-  Obtenir un jeu de données :
+  Obtenir une représentation détaillée d'un jeu de données :
   https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
+  
+  obtenir une représentation détaillée d'une organisation : 
+  https://trouver.datasud.fr/api/3/action/organization_show?id=air-paca
 
   Obtenir une liste de jeux de données "géographiques" :
   https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
