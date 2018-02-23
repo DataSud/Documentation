@@ -27,30 +27,28 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
 
 * Obtenir une réprésentation détaillée d'un des objets (jeu de données, organisation, ressource), toujours au format JSON :
 
-  Obtenir une représentation détaillée d'un jeu de données :
+* Obtenir une représentation détaillée d'un jeu de données :
   https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
   
-  obtenir une représentation détaillée d'une organisation : 
+* Obtenir une représentation détaillée d'une organisation : 
   https://trouver.datasud.fr/api/3/action/organization_show?id=air-paca
 
-  Obtenir une liste de jeux de données "géographiques" :
+* Obtenir une liste de jeux de données "géographiques" :
   https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
   
-  Obtenier des informations sur la thématique "Environnement et Climat".
+* Obtenier des informations sur la thématique "Environnement et Climat".
   https://trouver.datasud.fr/api/3/action/group_show?id=environnement-et-climat
 
-  Rechercher de jeux de données à partir d'un mot clé :
+* Rechercher de jeux de données à partir d'un mot clé :
   https://trouver.datasud.fr/api/3/action/package_search?q=energies
 
-  Rechercher des jeux de données "géographiques", au format CSV, associés à la thématique Culture, patrimoine et tourisme :
+* Rechercher des jeux de données "géographiques", au format CSV, associés à la thématique Culture, patrimoine et tourisme :
   https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
   
 
-DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
+DataSud.fr permet également de requêter directement les ressources des jeux de données. Comme eqpliqué plus haut, le Datastore propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
 
-Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
-
-* Exemple de requête (les 5 premiers résultats) :
+* Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur, afficher les cinq premiers hôtels :
 * https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
 
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
