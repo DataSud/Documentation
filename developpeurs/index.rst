@@ -303,8 +303,14 @@ Documentation complète en anglais :
 http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
 
 
-Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
+Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur ::
+
+https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5
+
+
 https://trouver.datasud.fr/dataset/hotellerie-de-provence-alpes-cote-dazur 
+
+
 
 
 
