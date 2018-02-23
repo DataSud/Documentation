@@ -47,9 +47,9 @@ S'inscrire sur DataSud
 
 .. image:: CaptureDataSudSubscribe.PNG
 
-
-.. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
-
+-------------------------------------------
+L’Utilisateur dispose des fonctionnalités suivantes
+-------------------------------------------
 
 - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
 - accéder aux données et services autorisés pour cette organisation,
