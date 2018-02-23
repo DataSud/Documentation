@@ -7,7 +7,7 @@ Espace développeurs
 Service API Ckan
 ================
 
-Le site **https://trouver.datasud.fr** est construit sur le catalogue `CKAN <http://www.ckan.org/>`_. De fait, il propose une API permettant d'interroger et de consulter le catalogue des données et leurs ressources. L'API permet également de requêter directement le contenu des ressources tabulaires (CSV, XLS) lorsque celles-ci ont été correctement intégrées au [Datastore](http://datasud.readthedocs.io/fr/latest/producteurs.html#datastore-et-donnees-intelligentes) 
+Le site **https://trouver.datasud.fr** est construit sur le catalogue `CKAN <http://www.ckan.org/>`_. De fait, il propose une API permettant d'interroger et de consulter le catalogue des données et leurs ressources. L'API permet également de requêter directement le contenu des ressources tabulaires (CSV, XLS) lorsque celles-ci ont été correctement intégrées au Datastore (http://datasud.readthedocs.io/fr/latest/producteurs.html#datastore-et-donnees-intelligentes).
 
 
 Ainsi, il est par exemple possible de réaliser ce qui suit.
