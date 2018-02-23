@@ -46,8 +46,26 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
   https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
   
 
-  D'autres exemples de requête à l'API :
-  http://datasud.readthedocs.io/fr/latest/developpeurs/index.html#exemples-de-requete-a-l-api-ckan  
+DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
+
+Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
+
+* Exemple de requête (les 5 premiers résultats) :
+* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
+
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
+
+    [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
+
+
+Résulat : http://bit.ly/2oliZId
+
+Documentation de l'API Datastore en anglais :
+
+http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
+
+Autres exemples de requête à l'API :
+http://datasud.readthedocs.io/fr/latest/developpeurs/index.html#exemples-de-requete-a-l-api-ckan  
 
 .. note:: le mot "package" qu'on trouve dans certaines requête correspond à un jeu de donnée.
 
@@ -264,31 +282,21 @@ Autres exemples de requêtes basées sur la même logique de construction :
 *  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
 *  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
-
-**Service API Datastore :**
-
-DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
-
-Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
-
-* Exemple de requête (5 premiers résultats)
-* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
-
+* sur la donnée indexée dans le Datastore :
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
 
     [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
 
 Résulat : http://bit.ly/2BKn6VW
 
-* Trouvez toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, afficher les résultats à partir de 100 (série de 100 à 199) ::
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, et afficher les résultats à partir du centième (série de 100 à 199) ::
 
     https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22,%22Code%20APE%22:%226831Z%22}&offset=100
 
 Résulat : http://bit.ly/2oliZId
 
-Documentation de l'API Datastore en anglais :
 
-http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
+
 
 
 Service WMS
