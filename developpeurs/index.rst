@@ -295,6 +295,18 @@ Autres exemples de requêtes basées sur la même logique de construction :
 *  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
 *  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
+Service API Datastore
+
+DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base ad hoc PostreSQL). Le service permet de requêter tout ou partie des ressources sans avoir à télécharger le jeu de données par l'interface ou l'API de Ckan (http://trouver.datasud.fr). Les reqêutes permettent de filtrer sur l'ensemble des champs (ou colonnes) des données tabulaires.
+
+Documentation complète en anglais :
+http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
+
+
+Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
+https://trouver.datasud.fr/dataset/hotellerie-de-provence-alpes-cote-dazur 
+
+
 
 Service WMS
 ===========
