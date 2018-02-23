@@ -159,7 +159,7 @@ vers de nouvelles versions de CKAN).
 Authentification et clés 
 ========================
 
-Certaines fonctions de l'API nécessitent une autorisation. L'API utilise la même fonction d'autorisation
+Certaines fonctions de l'API nécessitent une autorisation, par exemple pour ajouter ou modifier des jeux de données et desressources). L'API utilise la même fonction d'autorisation
 et la configuration en tant qu'interface web, donc si un utilisateur est autorisé à
 faire quelque chose dans l'interface web, ils sera autorisés à le faire via l'API de la même façon.
 
@@ -181,36 +181,6 @@ Par exemple, pour obtenir la liste des activités de votre tableau de bord utili
     request.add_header('Authorization', 'XXX')
     response_dict = json.loads(urllib2.urlopen(request, '{}').read())
 
-
-
-Fonctions de type GET
-=====================
-
-Les fonctions de l'API de type GET peuvent également être appelées avec une requête HTTP GET
-Par exemple, pour obtenir la liste des jeux de données (packages) à partir de
-trouver.datasud.fr, ouvrez cette URL dans votre navigateur:
-
-https://trouver.datasud.fr/api/3/action/package_list
-
-Ou, pour rechercher des jeux de données correspondant à la requête de recherche ``spending``,
-sur trouver.datasud.fr, ouvrez cette URL dans votre navigateur:
-
-https://trouver.datasud.fr/api/3/action/package_search?q=spending
-
-.. note:: Les plugins de navigateur comme `JSONView pour Firefox <https://addons.mozilla.org/en-us/firefox/addon/jsonview/>` 
-  ou `Chrome <https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc>`
-  formatera et colorera la réponse JSON de CKAN dans votre navigateur.
-
-La requête de recherche est envoyée en utilisant dans l'URL le paramètre ``?q=spending``. Plusieurs
-paramètres peuvent être ajoutés dans l'URL, séparés par des caractères ``&``, par exemple
-pour obtenir uniquement les 10 premiers jeux de données correspondants, ouvrez cette URL:
-
-https://trouver.datasud.fr/api/3/action/package_search?q=spending&rows=10
-
-Lorsqu'une action nécessite une liste de chaînes comme valeur d'un paramètre, la
-valeur peut être envoyée en mettant plusieurs fois le paramètre dans l'URL:
-
-https://trouver.datasud.fr/api/3/action/term_translation_show?terms=russian&terms=romantic%20novel
 
 
 
@@ -296,7 +266,8 @@ Autres exemples de requêtes basées sur la même logique de construction :
 *  Rechercher des jeux de données "géographiques", au format CSV, associé à la thématique Culture, patrimoine et tourisme :
 *  https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
-Service API Datastore
+
+**Service API Datastore :**
 
 DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
 
@@ -305,10 +276,11 @@ Exemple de requête GET sur le jeu de données des hôtels en région Provence-A
 * Exemple de requête (5 premiers résultats)
 * https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
 
-* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE 
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE ::
 
-* [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22})
+[https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
 
+https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22}
 
 Documentation  :
 
@@ -316,9 +288,6 @@ https://demo.ckan.org/fr/api/1/util/snippet/api_info.html?resource_id=b9aae52b-b
 
 http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
 
-Les 100 suivants :
-
-https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22}
 
 
 
