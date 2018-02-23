@@ -297,19 +297,21 @@ Autres exemples de requêtes basées sur la même logique de construction :
 
 Service API Datastore
 
-DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base ad hoc PostreSQL). Le service permet de requêter tout ou partie des ressources sans avoir à télécharger le jeu de données par l'interface ou l'API de Ckan (http://trouver.datasud.fr). Les reqêutes permettent de filtrer sur l'ensemble des champs (ou colonnes) des données tabulaires.
-
-Documentation complète en anglais :
-http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
-
+DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
 
 Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur ::
 
-https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5
+* Exemple de requête (5 premiers résultats)
+* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
 
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE 
+* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&q=%27Ville%27:%22Marseille%22
 
-https://trouver.datasud.fr/dataset/hotellerie-de-provence-alpes-cote-dazur 
+Documentation  :
 
+https://demo.ckan.org/fr/api/1/util/snippet/api_info.html?resource_id=b9aae52b-b082-4159-b46f-7bb9c158d013&datastore_root_url=https%3A%2F%2Fdemo.ckan.org%2Fapi%2Faction
+
+http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
 
 
 
