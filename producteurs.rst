@@ -159,6 +159,9 @@ Utilisez des outils appropriés pour nettoyer vos données :
 
 - ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
 
+- Les données indexées dans le datastore sont ensuite "requetables" directement à travers l'API à travers une série de fonctionnalités puissantes. Présentation de l'API CKan :
+
+http://datasud.readthedocs.io/fr/latest/developpeurs/index.html#service-api-ckan
 
 --------------------------------------------------
 Règles de nommage de vos ressources
