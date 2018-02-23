@@ -280,9 +280,13 @@ Exemple de requête GET sur le jeu de données des hôtels en région Provence-A
 
 Résulat : http://bit.ly/2BKn6VW
 
-Les 100 enregistrements suivants::
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, afficher les résultats à partir de 100 (série de 100 à 199) ::
 
-    [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
+    https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22,%22Code%20APE%22:%226831Z%22}&offset=100
+
+Résulat : http://bit.ly/2oliZId
+
+Documentation de l'API Datastore en anglais :
 
 http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
 
