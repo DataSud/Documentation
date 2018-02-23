@@ -44,6 +44,7 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
 
   Rechercher des jeux de données "géographiques", au format CSV, associés à la thématique Culture, patrimoine et tourisme :
   https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
+  
 
   D'autres exemples de requête à l'API :
   http://datasud.readthedocs.io/fr/latest/developpeurs/index.html#exemples-de-requete-a-l-api-ckan  
