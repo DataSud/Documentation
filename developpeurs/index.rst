@@ -182,8 +182,6 @@ Par exemple, pour obtenir la liste des activités de votre tableau de bord utili
     response_dict = json.loads(urllib2.urlopen(request, '{}').read())
 
 
-
-
 Support JSONP
 =============
 
@@ -276,19 +274,17 @@ Exemple de requête GET sur le jeu de données des hôtels en région Provence-A
 * Exemple de requête (5 premiers résultats)
 * https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
 
-* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE ::
+* Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
 
-[https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
+    [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
 
-https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22}
+Résulat : http://bit.ly/2BKn6VW
 
-Documentation  :
+Les 100 enregistrements suivants::
 
-https://demo.ckan.org/fr/api/1/util/snippet/api_info.html?resource_id=b9aae52b-b082-4159-b46f-7bb9c158d013&datastore_root_url=https%3A%2F%2Fdemo.ckan.org%2Fapi%2Faction
+    [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
 
 http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
-
-
 
 
 Service WMS
