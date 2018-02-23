@@ -8,9 +8,7 @@ Si vous débutez en matière de réutilisation de données .... publiques, ouver
 , la courte vidéo proposée ci-dessous ou encore un module de eLearning très complet proposé par le portail européen de l'OpenData :
 
 https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01
-
-<code><iframe src="https://player.vimeo.com/video/153271129" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/153271129">L&#039;Open Data, c&#039;est quoi ?</a> from <a href="https://vimeo.com/sophieczich">Sophie Czich</a> on <a href="https://vimeo.com">Vimeo</a>.</p></code>
+https://player.vimeo.com/video/153271129
 
 Il n'est pas nécessaire de s'inscrire sur DataSud pour parcourir le catalogue, rechercher des jeux de données et télécharger des ressources. Toute au moins pour l'ensemble des jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". 
 
@@ -60,27 +58,5 @@ S'inscrire sur DataSud
 - contacter les Administrateurs de la Plateforme.
 
 .. image:: CaptureDataSudFirstConnect.PNG
-
--------------------------------------------
-Comment rechercher une donnée sur DataSud ?
--------------------------------------------
-
-Texte...
-
-
-
--------------------------------------------------------------------------------------
-Suivre une organisation, un jeu de données, une thématique.
--------------------------------------------------------------------------------------
-
-Texte...
-
-
------------------------------------------------
-Les licences de diffusion de donnée sur DataSud 
------------------------------------------------
-
-Outils et supports
-==================
 
 Texte...
