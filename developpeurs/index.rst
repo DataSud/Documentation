@@ -299,13 +299,14 @@ Service API Datastore
 
 DataSud.fr propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
 
-Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur ::
+Exemple de requête GET sur le jeu de données des hôtels en région Provence-ALpes-Côte d'Azur :
 
 * Exemple de requête (5 premiers résultats)
 * https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
 
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE 
-* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&q=%27Ville%27:%22Marseille%22
+* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22}
+
 
 Documentation  :
 
