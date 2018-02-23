@@ -10,24 +10,27 @@ Si vous débutez en matière de réutilisation de données .... publiques, ouver
 https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01
 https://player.vimeo.com/video/153271129
 
-Il n'est pas nécessaire de s'inscrire sur DataSud pour parcourir le catalogue, rechercher des jeux de données et télécharger des ressources. Toute au moins pour l'ensemble des jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". 
-
-DataSud propose cependant un certain nombre de services (amenés à être renforcés en 2018) et accessibles uniquement aux utilisateurs enregistrés.
-
-- suivre une organisation, une thématique ou un jeu de données.
-- Commenter une organisation (à venir).
-- Déclarer une réutilisation (à venir).
-- accéder à des données sur accès restreint.
-- Devenir contributeur.
-- Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
-
-.. image:: CaptureDataSudFirstConnect.PNG
+Il n'est pas nécessaire de s'inscrire sur DataSud pour parcourir le catalogue, rechercher des jeux de données et télécharger des ressources. Toute au moins pour l'ensemble des jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". https://trouver.datasud.fr 
 
 -------------------------------------------
-Recherche des données sur DataSud
+Rechercher des données sur DataSud
 -------------------------------------------
 
 DataSud permet de "filtrer" les données de manière puissante. Vous pouvez ainsi rechercher uniquement des jeux de données associés à une organisation, un thème, un format, une fréquence de mise à jour ou cumuler l'ensemble de ces "facettes" pour affiner vos recherches. C'est important pour trouver des résultats ! Par ailleurs DataSud propose un moteur de recherche "textuel" qui donne de bon résultat. 
+
+-------------------------------------------
+Fonctionnalités participatives 
+-------------------------------------------
+
+DataSud propose cependant un certain nombre de services (amenés à être renforcés en 2018) accessibles uniquement aux utilisateurs enregistrés.
+
+- Suivre une organisation, une thématique ou un jeu de données.
+- accéder à des données sur accès restreint.
+- Devenir contributeur.
+- Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
+- Commenter une organisation (à venir).
+- Déclarer une réutilisation (à venir).
+
 
 -------------------------------------------
 S'inscrire sur DataSud 
