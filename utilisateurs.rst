@@ -63,4 +63,3 @@ L’Utilisateur dispose des fonctionnalités suivantes
 - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
 
 
-Texte...
