@@ -57,6 +57,5 @@ S'inscrire sur DataSud
 - contacter directement le Contributeur ayant publié un Jeu de données.
 - contacter les Administrateurs de la Plateforme.
 
-.. image:: CaptureDataSudFirstConnect.PNG
 
 Texte...
