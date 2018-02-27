@@ -181,6 +181,13 @@ Inspirer des recommandations en matière de nommage des fichiers électroniques 
 - Le nom d’un fichier ne doit pas contenir : espace, ponctuation (sauf le point avant l’extension), caractères accentués ou spéciaux (ùé+’@à°[] :</* »& !$, etc.).
 - La gestion des versions permet de suivre l’évolution et les étapes de l’élaboration d’un fichier. Il faut les distinguer soigneusement en les numérotant pour obtenir une suite logique exemple V01, V02, etc.
 
+-----------------------------------------------------
+Géolocalisation de vos données tabulaires (XLS et CSV)
+------------------------------------------------------
+
+Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. Pour cela vous devez intulité vos deux colonnes "latitude" et "longitude".
+
+Projections : en cours de rédaction.
 
 --------------------------------------------------
 Amélioration des champs descriptifs avec Markdown
