@@ -34,6 +34,9 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
 * Obtenir une représentation détaillée d'une organisation : 
   https://trouver.datasud.fr/api/3/action/organization_show?id=air-paca
 
+* Obtenir la liste de tous les jeux de données d'une organisation : 
+  https://trouver.datasud.fr/api/3/action/package_search?fq=organization:(ville-de-digne-les-bains)&rows=150
+
 * Obtenir une liste de jeux de données "géographiques" :
   https://trouver.datasud.fr/api/3/action/package_list?datatype=donnees-geographiques
   
@@ -270,7 +273,7 @@ Autres exemples de requêtes basées sur la même logique de construction :
 * https://trouver.datasud.fr/api/3/action/organization_show?id=region-sud
 
 *  Obtenir le catalogue de données détaillé d'une organisation au format JSON :
-* https://trouver.datasud.fr/api/3/action/package_search?fq=+organization:metropole-daix-marseille-provence 
+*  https://trouver.datasud.fr/api/3/action/package_search?fq=organization:(ville-de-digne-les-bains)&rows=150 
 
 **Autres exemples :**
 
