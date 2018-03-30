@@ -269,6 +269,9 @@ Autres exemples de requêtes basées sur la même logique de construction :
 *  Obtenir une réprésentation détaillée d'une organisation :
 * https://trouver.datasud.fr/api/3/action/organization_show?id=region-sud
 
+*  Obtenir le catalogue de données détaillé d'une organisation au format JSON :
+* https://trouver.datasud.fr/api/3/action/package_search?fq=+organization:metropole-daix-marseille-provence 
+
 **Autres exemples :**
 
 *  Obtenir une liste de jeux de données "géographiques" :
