@@ -78,7 +78,7 @@ Vous pouvez donc avoir accès, sans avoir à motiver votre demande, à de très 
 
 Afin de vous permettre de nous saisir à ce sujet, DataSud propose un service de "demande de données".
 
-  **N'hésitez pas à nous déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional  l'adresse suivante : https://www.datasud.fr/demande-de-donnees/**   
+  **N'hésitez pas à nous déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional à l'adresse suivante : https://www.datasud.fr/demande-de-donnees/**   
 
 Toute demande sera étudiée et une réponse vous sera apportée. 
 Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
