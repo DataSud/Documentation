@@ -65,20 +65,24 @@ L’Utilisateur dispose des fonctionnalités suivantes
 - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
 
 --------------------------------------------------------------------
-Faire une demande d'accès à un document administratif ou de données
+Faire une demande d'accès à un document administratif ou à des données
 --------------------------------------------------------------------
 
 L'article 15 de la Déclaration Universelle des droits de l'homme et du citoyen précise que "la société a le droit de demander compte à tout agent public de son administration".
 
-En France, sur le plan législatif, à l'exception de limites (notamment mais pas seulement) liées au risque d'état, au secret commercial, à la protection de données personnelles ou dites sensibles, la loi dite Commission d'accès aux documents administratifs (Cada) de 1978 instaure un droit d'accès et de réutilisation pour les informations et documents produits dans le cadre d'une mission de service public.
+En France, sur le plan législatif, à l'exception de limites (notamment mais pas seulement) liées au risque d'état, au secret commercial, à la protection de données personnelles, au secret statistique, la loi dite Commission d'accès aux documents administratifs (Cada) de 1978 instaure un droit d'accès et de réutilisation pour les informations et documents produits dans le cadre d'une mission de service public.
 
-Enfin, conformément à la mise en oeuvre de la loi Numérique, la Commission d’accès aux documents administratifs (CADA) considère que tous les fichiers dont la communication a été sollicitée à partir du 8 avril 2017 doivent être publiés en Open Data « par défaut ».
+Par ailleurs, conformément à la mise en oeuvre de la loi Numérique, la Commission d’accès aux documents administratifs (CADA) considère que tous les fichiers dont la communication a été sollicitée à partir du 8 avril 2017 doivent être publiés en Open Data « par défaut ».
 
 Vous pouvez donc avoir accès, sans avoir à motiver votre demande, à de très nombreux documents administratifs qui ne figurent pas encore sur les sites web des administrations ou sur les portails OpenData.
 
-** N'hésitez pas à nous déposer une demande d'accès à un document administratif ou un jeu de données relatif au territoire régional  l'adresse suivante : https://www.datasud.fr/demande-de-donnees/ **
+Afin de vous permettre de nous saisir à ce sujet, DataSud propose un service de "demande de données".
 
-Toute demande sera étudiée et une réponse vous sera apportée. Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
+** N'hésitez pas à nous déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional  l'adresse suivante : https://www.datasud.fr/demande-de-donnees/ **
+
+Toute demande sera étudiée et une réponse vous sera apportée. 
+Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
+
 
 Le formalisme d'accès ainsi que vos droits à ce sujet sont précisés sur le site officiel de l'administration française :
 https://www.service-public.fr/particuliers/vosdroits/F2467
