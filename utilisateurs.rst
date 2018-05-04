@@ -65,7 +65,7 @@ L’Utilisateur dispose des fonctionnalités suivantes
 - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
 
 --------------------------------------------------------------------
-Faire une demande d'accès àà un document administratif ou de données
+Faire une demande d'accès à un document administratif ou de données
 --------------------------------------------------------------------
 
 L'article 15 de la Déclaration Universelle des droits de l'homme et du citoyen précise que "la société a le droit de demander compte à tout agent public de son administration".
