@@ -83,11 +83,17 @@ Afin de vous permettre de nous saisir à ce sujet, DataSud propose un service de
 Toute demande sera étudiée et une réponse vous sera apportée. 
 Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
 
+Accord
+
+Si l'administration accepte votre demande de communication, elle doit normalement le faire dans un délai d'un mois.
+
+Refus
+
+L’administration peut rejeter, par décision motivée, votre demande de communication.
+
+En cas de non-réponse pendant plus d'un mois, ce silence équivaut à un refus tacite. Vous pouvez alors saisir la Commission d'accès aux documents administratifs (Cada), puis le tribunal administratif.
+
+La saisine de la Cada est obligatoire avant celle du tribunal. http://www.cada.fr/
 
 Le formalisme d'accès ainsi que vos droits à ce sujet sont précisés sur le site officiel de l'administration française :
 https://www.service-public.fr/particuliers/vosdroits/F2467
-
-En cas de refus de l'administration concernée, vous pouvez, en dernier lieu, saisir la Commission d'accès aux documents administratifs (Cada), puis le tribunal administratif : http://www.cada.fr/
-
-
-
