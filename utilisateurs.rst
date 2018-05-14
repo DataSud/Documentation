@@ -86,9 +86,9 @@ Toute demande sera étudiée et une réponse vous sera apportée. Nous relayeron
 
 Le refus de communication opposé par l’administration peut être :
 
-•	Exprès : il doit alors être motivé, en vertu de l’article 25 de la loi du 17 juillet 1978. Le refus de communiquer des informations relatives à l’environnement doit obligatoirement donner lieu à une décision expresse motivée (I de l’article L. 124-6 du code de l’environnement).
+  •	Exprès : il doit alors être motivé, en vertu de l’article 25 de la loi du 17 juillet 1978. Le refus de communiquer des informations relatives à l’environnement doit obligatoirement donner lieu à une décision expresse motivée (I de l’article L. 124-6 du code de l’environnement).
 
-•	Tacite : la décision de rejet naît du « silence gardé pendant plus d’un mois par l’autorité compétente, saisie d’une demande de communication de documents » (1er alinéa de l’article 17 du décret 2005-1755 du 30 décembre 2005). Ces décisions tacites sont dispensées de l’obligation de motivation (article 5 de la loi du 11 juillet 1979), sauf si un texte en dispose autrement.
+  •	Tacite : la décision de rejet naît du « silence gardé pendant plus d’un mois par l’autorité compétente, saisie d’une demande de communication de documents » (1er alinéa de l’article 17 du décret 2005-1755 du 30 décembre 2005). Ces décisions tacites sont dispensées de l’obligation de motivation (article 5 de la loi du 11 juillet 1979), sauf si un texte en dispose autrement.
 
 La CADA ne peut être saisie qu’à la suite d’un refus de communication, qui peut d’ailleurs ne porter que sur un désaccord quant aux modalités de la communication. Une saisine formée avant l’expiration du délai d’un mois imparti à l’administration pour répondre est donc irrecevable.
 
