@@ -298,7 +298,7 @@ Autres exemples de requêtes basées sur la même logique de construction :
 
 Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la notion de filtres.
 
-    [https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}](https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"})
+``https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}``
 
 Résultat : http://bit.ly/2BKn6VW
 
@@ -306,7 +306,7 @@ Résultat : http://bit.ly/2BKn6VW
 
 Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la notion de filtres.
 
-    https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22,%22Code%20APE%22:%226831Z%22}&offset=100
+``https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={%22Ville%22:%22MARSEILLE%22,%22Code%20APE%22:%226831Z%22}&offset=100``
 
 Résultat : http://bit.ly/2oliZId
 
@@ -314,10 +314,9 @@ Résultat : http://bit.ly/2oliZId
 
 Cette requête utilise  la méthode datastore_search_sql de l'API de CKAN avec la notion de requête SQL .
 
-    https://trouver.datasud.fr/api/3/action/datastore_search_sql?sql=SELECT%20*%20from%20%2252a8f5dd-758d-4e54-a837-8fc7ad57d378%22%20WHERE%20%22Solaire%20(MW)%22%20%3E%20%2720%27%20AND%20%22Date%22%20%3E%20%272018-07-10%27
+``https://trouver.datasud.fr/api/3/action/datastore_search_sql?sql=SELECT from "52a8f5dd-758d-4e54-a837-8fc7ad57d378"  WHERE "Solaire (MW)" > '20' AND "Date" > '2018-07-10'``
 
 Résultat : https://bit.ly/2N8JCKn 
-
 
 
 
