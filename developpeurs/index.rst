@@ -62,7 +62,10 @@ DataSud.fr permet également de requêter directement le contenu des jeux de don
 Comme expliqué plus haut, le Datastore propose un service d'indexation des données tabulaires (CSV et XLS). L'API CKAN DATA permet d'exposer le contenu des ressources indexées dans le Datastore dont on peut ainsi interroger tout ou partie sans avoir à télécharger le jeu de données. Il est alors possible de faire des opérations de recherche sur les différents champs de données. 
 
 * Afficher les cinq enregistrements du jeu de données des hôtels en région Provence-Alpes-Côte d'Azur :
-* https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
+
+Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la notion de filtres.
+
+``https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5``
 
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
 
