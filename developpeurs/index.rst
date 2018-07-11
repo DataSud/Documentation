@@ -7,10 +7,12 @@ Espace développeurs
 Service API Ckan
 ================
 
-Le site **https://trouver.datasud.fr** est construit sur le catalogue `CKAN <http://www.ckan.org/>`_. De fait, il propose une API permettant d'interroger et de consulter le catalogue des données et leurs ressources. L'API permet également de requêter directement le contenu des ressources tabulaires (CSV, XLS) lorsque celles-ci ont été correctement intégrées au Datastore (http://datasud.readthedocs.io/fr/latest/producteurs.html#datastore-et-donnees-intelligentes).
+Le site **https://trouver.datasud.fr** est construit à partir du système d'information OpenSource dédié à la gestion de catalogues de données `CKAN <http://www.ckan.org/>`_. 
 
 Requêter l'API CKAN Catalogue
 ========
+
+CKAN propose une API permettant d'interroger et de consulter le catalogue des données et leurs ressources. L'API permet également de requêter directement le contenu des ressources tabulaires (CSV, XLS) lorsque celles-ci ont été correctement intégrées au Datastore (http://datasud.readthedocs.io/fr/latest/producteurs.html#datastore-et-donnees-intelligentes).
 
 Ainsi, il est par exemple possible de réaliser ce qui suit.
 
@@ -70,7 +72,7 @@ Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la no
 
 Résultat : http://bit.ly/2BKn6VW
 
-* Trouvez toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, et afficher les résultats à partir du centième (série de 100 à 199) ::
+* Trouver toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, et afficher les résultats à partir du centième (série de 100 à 199) ::
 
 Cette requête utilise la méthode datastore_search de l'API de CKAN avec la notion de filtres.
 
