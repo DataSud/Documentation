@@ -9,7 +9,7 @@ Service API Ckan
 
 Le site **https://trouver.datasud.fr** est construit sur le catalogue `CKAN <http://www.ckan.org/>`_. De fait, il propose une API permettant d'interroger et de consulter le catalogue des données et leurs ressources. L'API permet également de requêter directement le contenu des ressources tabulaires (CSV, XLS) lorsque celles-ci ont été correctement intégrées au Datastore (http://datasud.readthedocs.io/fr/latest/producteurs.html#datastore-et-donnees-intelligentes).
 
-Exemples de requêtes à l'API CKAN Catalogue
+Requêter l'API CKAN Catalogue
 ========
 
 Ainsi, il est par exemple possible de réaliser ce qui suit.
@@ -52,10 +52,12 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
   https://trouver.datasud.fr/api/3/action/package_search?fq=+res_format:CSV+datatype:donnees-geographiques+groups:culture-patrimoine-et-tourisme
 
 
-Exemples de requêtes à l'API CKAN DATA
+Requêter l'API CKAN DATA
 ========
 
-DataSud.fr permet également de requêter directement les ressources des jeux de données. Comme expliqué plus haut, le Datastore propose un service d'indexation des données tablulaires (CSV et XLS) dans un datastore (base PostreSQL). Ce service permet d'exposer le contenu des ressources dont on peut ainsi requêter tout ou partie sans avoir à télécharger le jeu de données. 
+DataSud.fr permet également de requêter directement le contenu des jeux de données, ou plutôt de leurs ressources. Cette mécanique est rendue possible à travers l'interrogation de l'API de données de CKAN (API CKAN DATA).
+
+Comme expliqué plus haut, le Datastore propose un service d'indexation des données tabulaires (CSV et XLS). L'API CKAN DATA permet d'exposer le contenu des ressources indexées dans le Datastore dont on peut ainsi interroger tout ou partie sans avoir à télécharger le jeu de données. Il est alors possible de faire des opérations de recherche sur les différents champs de données. 
 
 * Afficher les cinq enregistrements du jeu de données des hôtels en région Provence-Alpes-Côte d'Azur :
 * https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5 
@@ -70,7 +72,7 @@ Résultat : http://bit.ly/2BKn6VW
 
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, et afficher les résultats à partir du centième (série de 100 à 199) ::
 
-Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la notion de filtres.
+Cette requête utilise la méthode datastore_search de l'API de CKAN avec la notion de filtres.
 
 ``resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE","Code APE":"6831Z"}&offset=100``
 
@@ -78,7 +80,7 @@ Résultat : http://bit.ly/2oliZId
 
 * Production électrique régionale : trouvez les horaires ou le solaire est supérieur à 20MW (requête SQL) ::
 
-Cette requête utilise  la méthode datastore_search_sql de l'API de CKAN avec la notion de requête SQL .
+Cette requête utilise la méthode datastore_search_sql de l'API de CKAN avec la notion de requête SQL .
 
 ``https://trouver.datasud.fr/api/3/action/datastore_search_sql?sql=SELECT from "52a8f5dd-758d-4e54-a837-8fc7ad57d378"  WHERE "Solaire (MW)" > '20' AND "Date" > '2018-07-10'``
 
