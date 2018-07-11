@@ -67,13 +67,15 @@ Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la no
 
 ``https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&limit=5``
 
+Requête et résultats : https://bit.ly/2Lc3T12
+
 * Trouvez toutes les entreprises de la base INFOGREFFE 2017 dont le champ ville est égal à MARSEILLE::
 
 Cette requête utilise  la méthode datastore_search de l'API de CKAN avec la notion de filtres.
 
 ``https://trouver.datasud.fr/api/3/action/datastore_search?resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE"}``
 
-Résultat : http://bit.ly/2BKn6VW
+Requête et résultats : http://bit.ly/2BKn6VW
 
 * Trouver toutes les entreprises de la base INFOGREFFE 2017 de la ville de MARSEILLE avec le code APE 6831Z, et afficher les résultats à partir du centième (série de 100 à 199) ::
 
@@ -81,7 +83,7 @@ Cette requête utilise la méthode datastore_search de l'API de CKAN avec la not
 
 ``resource_id=9723b8ba-8379-4b1f-a85c-1f0efe916ce8&filters={"Ville":"MARSEILLE","Code APE":"6831Z"}&offset=100``
 
-Résultat : http://bit.ly/2oliZId
+Requête et résultats : http://bit.ly/2oliZId
 
 * Production électrique régionale : trouvez les horaires ou le solaire est supérieur à 20MW (requête SQL) ::
 
@@ -89,7 +91,7 @@ Cette requête utilise la méthode datastore_search_sql de l'API de CKAN avec la
 
 ``https://trouver.datasud.fr/api/3/action/datastore_search_sql?sql=SELECT from "52a8f5dd-758d-4e54-a837-8fc7ad57d378"  WHERE "Solaire (MW)" > '20' AND "Date" > '2018-07-10'``
 
-Résultat : https://bit.ly/2N8JCKn 
+Requête et résultats : https://bit.ly/2N8JCKn 
 
 
 Documentation de l'API (catalogue et ressources) et de l'API Datastore (requête sur les ressources) en anglais :
