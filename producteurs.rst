@@ -122,14 +122,6 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 - Fréquence de mise à jour
 - Couverture régionale
 
-### Téléverser un fichier
-
-#### Télécharger depuis une URL
-
-##### Référencer une URL
-
-En cours de rédaction...
-
 --------------------------------------------------
 Datastore et données intelligentes
 --------------------------------------------------
