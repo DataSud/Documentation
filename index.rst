@@ -4,7 +4,7 @@ Bienvenue dans la documentation de DataSud.fr
 Cette documentation est organisée en plusieurs guides, chacun correspondant à un usage particulier du catalogue. 
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
 
   utilisateurs
   producteurs
