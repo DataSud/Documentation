@@ -96,7 +96,7 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 
 ----------------------------------------------
-Renseigner les métadonnées / publier un jeu de données
+Renseigner les métadonnées
 ----------------------------------------------
 
 Une fois connecté à l'espace d'administration le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
@@ -121,6 +121,14 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 - Meta-données INSPIRE
 - Fréquence de mise à jour
 - Couverture régionale
+
+### Téléverser un fichier
+
+#### Télécharger depuis une URL
+
+##### Référencer une URL
+
+En cours de rédaction...
 
 --------------------------------------------------
 Datastore et données intelligentes
