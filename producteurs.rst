@@ -96,7 +96,7 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 
 ----------------------------------------------
-Renseigner les métadonnées
+Renseigner les métadonnées / publier un jeu de données
 ----------------------------------------------
 
 Une fois connecté à l'espace d'administration le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
