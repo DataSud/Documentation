@@ -2,7 +2,7 @@
 Espace producteurs
 ==================
 
-Ce guide est à destination des producteurs de données sur DataSud : http://publier-rec.datasud.fr 
+Ce guide est à destination des Producteurs de données sur DataSud : https://publier.datasud.fr/ 
 
 ---------------------------------
 S'inscrire et publier sur DataSud
@@ -10,9 +10,6 @@ S'inscrire et publier sur DataSud
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Test niv3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ---------------------------------
 Devenir Utilisateur
@@ -91,11 +88,11 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 .. image:: CaptureDataSudAddOrganizationStatus.PNG
 
 
-- *>> Catalogue de données DataSud* https://trouver-rec.datasud.fr/dataset
+- *>> Catalogue de données DataSud* https://trouver.datasud.fr/dataset
 
-- *>> Liste des contributeurs DataSud* https://trouver-rec.datasud.fr/organization
+- *>> Liste des contributeurs DataSud* https://trouver.datasud.fr/organization
 
-- *>> Liste des thématiques DataSud* https://trouver-rec.datasud.fr/group
+- *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
 
 
 ----------------------------------------------
@@ -136,7 +133,7 @@ Datasud propose un **datastore**, c'est à dire un entrepôt de données qui off
 - créer des datavisualisations simples,
 - automatiser l'accès par API.
 
-Permettre l'acccès à vos données par interface de programmation est une condition nécessaire pour massifier, industrialiser les usages qui peuvent être fait de ces dernières. C'est également une exigence de la loi république numérique de diffuser dans un format ouvert et interprétable par une machine. Sur Datasud, le format CSV est le format pivot à privilégier pour transformer vos données tabulaires en données semi-structurées dites "intelligentes". 
+Permettre l'accès à vos données par interface de programmation est une condition nécessaire pour massifier, industrialiser les usages qui peuvent être fait de ces dernières. C'est également une exigence de la loi république numérique de diffuser dans un format ouvert et interprétable par une machine. Sur Datasud, le format CSV est le format pivot à privilégier pour transformer vos données tabulaires en données semi-structurées dites "intelligentes". 
 
 **Dans la version bêta de DataSud cette mécanique est encore sensible.**
 
