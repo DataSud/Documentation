@@ -1,5 +1,5 @@
 ==================
-Espace producteurs
+Espace Producteurs
 ==================
 
 Ce guide est à destination des Producteurs de données sur DataSud : https://publier.datasud.fr/ 
@@ -96,23 +96,28 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 
 ----------------------------------------------
-Renseigner les métadonnées
+Publier un jeu de données
 ----------------------------------------------
 
-Une fois connecté à l'espace d'administration le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
+Une fois connecté à l'espace d'administration DATASUD, le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
+La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Renseigner les métadonnées
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: CaptureDataSudAddDataset.PNG
 
 
-.. note:: Les meta-données obligatoires sont les suivantes ::
+Les métadonnées obligatoires sont les suivantes :
 
 - Titre
 - Organisation
 - Licence
 - Dates (par défaut)
 
-.. note:: Les meta-données facultatives sont les suivantes ::
+Les métadonnées facultatives sont les suivantes :
 
 - Descriptif
 - Thématiques
@@ -121,6 +126,35 @@ Une fois connecté à l'espace d'administration le Contributeur et le Référent
 - Meta-données INSPIRE
 - Fréquence de mise à jour
 - Couverture régionale
+
+.. note:: Bien que facultative, le descriptif est un champ incontournable pour garantir une bonne réutilisation. N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Publier une ressource
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Il existe 3 manières de pousser un jeu de données :
+
+.. image:: CaptureDataSudAddResource.PNG
+
+1.	Téléverser un fichier : soit par téléversement manuel d'un jeu de donnée depuis votre poste local. La ressource s’ajoute dans l’entrepôt de données DataSud ;
+2.	Télécharger depuis une URL : soit en indiquant une URL de téléchargement d'un jeu de donnée depuis une URL. Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données ;
+3.	Référencer une URL ! soit en référençant une URL. La ressource n'est alors pas téléchargée dans DATASUD mais vous indiquez où elle peut être téléchargée. Le catalogue indique où télécharger la donnée chez le Producteur.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Synchroniser une ressource distante
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Si vous choisissez le téléchargement par URL distante (option 2 ci-dessus), vous avez la possibilité de synchroniser votre donnée, selon une périodicité à indiquer.
+Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données au pas de temps donnée (tous les jours à tous les ans).
+
+.. image:: CaptureDataSudAddResourceSync.PNG
+
+Par exemple, vous indiquer l'URL de téléchargement un fichier transport.zip que vous souhaitez synchroniser tous les mois sur DATASUD. 
+
+.. note:: Quelques précautions pour que la synchronisation s'active : 
+* votre fichier doit avoir **exactement** le même nom de fichier pour toute la synchronisation : si un script modifie le nom de fichiers, pour rajouter une date ou autre par exemple, la synchronisation ne fonctionnera pas.  ;
+* votre fichier doit être accessible par DATASUD sur une URL fixe : évitez les liens temporaires.::
+
+En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer que la synchronisation ne fonctionne pas ou plus.
 
 --------------------------------------------------
 Datastore et données intelligentes
