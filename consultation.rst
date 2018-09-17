@@ -1,8 +1,10 @@
 ===================
-Espace utilisateurs
+Espace consultation
 ===================
 
-DataSud est un catalogue de données ouvertes, géographiques et intelligentes ouvert à tous. Son utilisation est libre dans le respect des conditions générales d'utilisation. La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. Cette notion est très importante. 
+DataSud est un catalogue ouvert à tous.
+
+Les consultations des données ouvertes, géographiques et intelligentes sont libres sur DataSud 
 
 Si vous débutez en matière de réutilisation de données .... publiques, ouvertes, personnelles, sensibles, géographiques... Alors nous vous inviton à commencer par découvrir la documentation produite par OpenDataFrance : http://opendatalocale.net/ressources/ 
 , la courte vidéo proposée ci-dessous ou encore un module de eLearning très complet proposé par le portail européen de l'OpenData :
