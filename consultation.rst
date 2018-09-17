@@ -1,3 +1,4 @@
+
 ===================
 Espace consultation
 ===================
@@ -9,13 +10,18 @@ Les consultations des données ouvertes, géographiques et intelligentes sont li
 
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". 
 
-Ceci ne concernent pas les données diffusées sur accès retreints, pour lesquelles les producteurs ont volontairement restreint leur téléchargement à certains utilisateurs. Toutefois ces jeux de données apparaissent au catalogue général pour porter à connaissance des publics l'existence des ces données. Pour les consulter il faut s'adresser directement au producteur pour faire la demande.
+Ceci ne concerne pas les données diffusées sur accès retreints, pour lesquelles les producteurs ont volontairement restreint leur téléchargement à certains utilisateurs. Toutefois ces jeux de données apparaissent au catalogue général pour porter à connaissance des publics l'existence des ces données. Pour les consulter il faut s'adresser directement au producteur pour faire la demande.
 
 -------------------------------------------
 Rechercher des données sur DataSud
 -------------------------------------------
 
-DataSud permet de "filtrer" les données de manière puissante. Vous pouvez ainsi rechercher uniquement des jeux de données associés à une organisation, un thème, un format, une fréquence de mise à jour ou cumuler l'ensemble de ces "facettes" pour affiner vos recherches. C'est important pour trouver des résultats ! Par ailleurs DataSud propose un moteur de recherche "textuel" qui donne de bon résultat. 
+Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d 'effectuer des recherches par thématique, selon la fréquence de mise à jour, par format ou uniquement les jeux de données associés à une organisation.
+
+L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
+
+Les jeux de données sont diffusés, soit sous licences ouvertes, soit odbl qui précisent les conditions de réutilisation des jeux de données et leurs ressources.
+La licence est choisie par le producteur de la donnée, dans le respect des conditions générales d’utilisation.
 
 -------------------------------------------
 Fonctionnalités participatives 
