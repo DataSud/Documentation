@@ -6,11 +6,6 @@ DataSud est un catalogue ouvert à tous.
 
 Les consultations des données ouvertes, géographiques et intelligentes sont libres sur DataSud 
 
-Si vous débutez en matière de réutilisation de données .... publiques, ouvertes, personnelles, sensibles, géographiques... Alors nous vous inviton à commencer par découvrir la documentation produite par OpenDataFrance : http://opendatalocale.net/ressources/ 
-, la courte vidéo proposée ci-dessous ou encore un module de eLearning très complet proposé par le portail européen de l'OpenData :
-
-https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01
-https://player.vimeo.com/video/153271129
 
 Il n'est pas nécessaire de s'inscrire sur DataSud pour parcourir le catalogue, rechercher des jeux de données et télécharger des ressources. Toute au moins pour l'ensemble des jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". https://trouver.datasud.fr 
 
