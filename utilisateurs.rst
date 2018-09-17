@@ -2,21 +2,11 @@
 Espace utilisateurs
 ===================
 
-DataSud est un catalogue de données ouvertes, géographiques et intelligentes ouvert à tous. Son utilisation est libre dans le respect des conditions générales d'utilisation. La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. Cette notion est très importante. 
+Les utilisateurs de DataSud peuvent s’inscrire en nom propre pour avoir leur profil enregistré sur DataSud
+https://publier.datasud.fr
 
-Si vous débutez en matière de réutilisation de données .... publiques, ouvertes, personnelles, sensibles, géographiques... Alors nous vous inviton à commencer par découvrir la documentation produite par OpenDataFrance : http://opendatalocale.net/ressources/ 
-, la courte vidéo proposée ci-dessous ou encore un module de eLearning très complet proposé par le portail européen de l'OpenData :
+La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. Cette notion est très importante. 
 
-https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01
-https://player.vimeo.com/video/153271129
-
-Il n'est pas nécessaire de s'inscrire sur DataSud pour parcourir le catalogue, rechercher des jeux de données et télécharger des ressources. Toute au moins pour l'ensemble des jeux de données diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". https://trouver.datasud.fr 
-
--------------------------------------------
-Rechercher des données sur DataSud
--------------------------------------------
-
-DataSud permet de "filtrer" les données de manière puissante. Vous pouvez ainsi rechercher uniquement des jeux de données associés à une organisation, un thème, un format, une fréquence de mise à jour ou cumuler l'ensemble de ces "facettes" pour affiner vos recherches. C'est important pour trouver des résultats ! Par ailleurs DataSud propose un moteur de recherche "textuel" qui donne de bon résultat. 
 
 -------------------------------------------
 Fonctionnalités participatives 
@@ -39,7 +29,7 @@ S'inscrire sur DataSud
 Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes. L'inscription permet cependant à l'utilisateur de disposer de fonctionnalités complémentaires.
 
 - L’utilisateur s’inscrit sur la plateforme: https://publier.datasud.fr
-- Cette inscription est propre à sa personne et non à l’entité ou personne morale qu’il représente. 
+- l'utilisateur enregistre son identité qui est distincte de la personne morale que l’on représente.
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation-cgus/>`_
 - *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_*
