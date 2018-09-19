@@ -18,9 +18,7 @@ https://publier.datasud.fr
 
 .. image:: CaptureDataSudConnect.PNG
 
-.. image:: CaptureDataSudSubscribe.PNG
-La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. 
-Cette notion est très importante. 
+.. image:: CaptureDataSudSubscribe.PNG 
 
 
 -------------------------------------------
