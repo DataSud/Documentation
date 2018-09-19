@@ -1,4 +1,3 @@
-
 ===================
 Espace consultation
 ===================
@@ -22,3 +21,6 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 
 Les jeux de données sont diffusés, soit sous licences ouvertes, soit odbl qui précisent les conditions de réutilisation des jeux de données et leurs ressources.
 La licence est choisie par le producteur de la donnée, dans le respect des conditions générales d’utilisation.
+
+La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. 
+Cette notion est très importante.
