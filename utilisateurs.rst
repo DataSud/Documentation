@@ -31,7 +31,7 @@ L’Utilisateur dispose des fonctionnalités suivantes
 
 - accéder aux données et services autorisés pour les Utilisateurs inscrits,
 - suivre/s’abonner à un jeu de données, une thématique ou une organisation,
-- partager un jeu de données ou une ressource directement sur un autre site,
+- partager un jeu de données ou une ressource sur un autre site,
 - contacter directement le producteur ou le diffuseur d'un jeu de données,
 - demander à accéder à des données sur accès restreint et a des services autorisés pour une organisation,
 - contacter les administrateurs de la Plateforme: https://www.datasud.fr/contactez-nous/
