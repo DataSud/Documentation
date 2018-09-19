@@ -27,14 +27,14 @@ L’Utilisateur dispose des fonctionnalités suivantes
 
 - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
 - accéder aux données et services autorisés pour cette organisation,
+- demander à devenir contributeur d’une organisation et éventuellement référent d’une organisation pour maitriser l'ensemble des publications de ladite organisation (voir rubrique dédiée). 
+
 - accéder aux données et services autorisés pour les Utilisateurs inscrits,
-- demander à devenir contributeur d’une organisation,
-- suivre/s’abonner à un jeu de données, une thématique ou une organisation ; 
-- partager un jeu de données ou une ressource directement sur un autre site.
-- contacter directement le producteur ou le diffuseur d'un jeu de données.
-- demander à accéder à des données sur accès restreint.
+- suivre/s’abonner à un jeu de données, une thématique ou une organisation,
+- partager un jeu de données ou une ressource directement sur un autre site,
+- contacter directement le producteur ou le diffuseur d'un jeu de données,
+- demander à accéder à des données sur accès restreint et a des services autorisés pour une organisation,
 - contacter les administrateurs de la Plateforme: https://www.datasud.fr/contactez-nous/
-- faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
 
 
 -------------------------------------------
@@ -43,8 +43,8 @@ Fonctionnalités participatives
 
 DataSud propose une offre de services accessibles uniquement aux utilisateurs enregistrés.
 
-
 - Devenir contributeur.
+- Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
 - Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
 - Commenter une organisation (à venir).
 - Commenter un jeu de données (à venir).
