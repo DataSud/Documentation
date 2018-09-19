@@ -6,10 +6,11 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
 .. toctree::
   :maxdepth: 3
 
-  utilisateurs
-  producteurs
-  developpeurs/index
-  cgu
+  Espace consultation
+  Espace utilisateurs
+  Espace producteurs
+  Espace developpeurs/index
+  Conditions générales d'utilisation
 
 
 .. seealso::
