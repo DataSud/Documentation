@@ -1,4 +1,4 @@
+=======================
 Conditions d'utilisation
 ========================
-
-Texte...
+les CGU https://www.datasud.fr/conditions-dutilisation-cgus/
