@@ -5,12 +5,10 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
 
 .. toctree::
   :maxdepth: 3
-  Espace consultation
-  Espace utilisateurs
-  Espace producteurs
-  Espace developpeurs/index
-  Conditions générales d'utilisation
-
+ consultation
+utilisateurs
+producteurs
+developpeurs/index
 
 .. seealso::
 
@@ -18,4 +16,4 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
 
 .. note::
 
-   Ces guides sont maintenues par l'équipe Datasud. 
+   Ces guides sont maintenus par l'équipe Datasud. 
