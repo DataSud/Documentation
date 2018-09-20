@@ -7,8 +7,6 @@ https://trouver.datasud.fr
 
 Les consultations des données ouvertes, géographiques et intelligentes sont libres sur DataSud. Vous pouvez parcourir le catalogue, rechercher des jeux de données et télécharger des ressources dans différents format de fichier.
 
-Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés sous licences ouvertes, c'est à dire diffusés en "Open Data". 
-
 Ceci ne concerne pas les données diffusées sur accès retreints, pour lesquelles les producteurs ont volontairement limité leur téléchargement à certains utilisateurs. Toutefois ces jeux de données apparaissent au catalogue général pour porter à connaissance des publics l'existence de ces données. Pour les consulter il faut en faire la demande directement au producteur.
 
 -------------------------------------------
@@ -19,8 +17,10 @@ Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d 'e
 
 L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
 
-Les jeux de données sont diffusés, soit sous licences ouvertes, soit odbl qui précisent les conditions de réutilisation des jeux de données et leurs ressources.
-La licence est choisie par le producteur de la donnée, dans le respect des conditions générales d’utilisation.
+Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
-La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée. 
-Cette notion est très importante.
+Les licences associées aux jeux de données précisent les conditions de réutilisation de ces jeux de données et leurs ressources, soit diffusés sous licences ouvertes, soit sous licence odbl.
+
+La réutilisation des jeux de données et leurs ressources est définie par la licence choisie par le producteur de la donnée, dans le respect des conditions générales d’utilisation de DataSUD
+
+
