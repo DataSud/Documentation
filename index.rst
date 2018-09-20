@@ -6,9 +6,9 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
 .. toctree::
   :maxdepth: 3
  consultation
-utilisateurs
-producteurs
-developpeurs/index
+ utilisateurs
+ producteurs
+ developpeurs/index
 
 .. seealso::
 
