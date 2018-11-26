@@ -17,6 +17,8 @@ Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d'ef
 
 .. image:: Recherche données.png
 
+.. image:: CaptureDataSudSubscribe.PNG
+
 L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
 
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
