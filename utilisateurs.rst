@@ -39,16 +39,15 @@ L’Utilisateur dispose des fonctionnalités suivantes
 
 
 -------------------------------------------
-Fonctionnalités participatives 
+Comment participer à DataSud?
 -------------------------------------------
 
-DataSud propose une offre de services accessibles uniquement aux utilisateurs enregistrés.
+L'inscription sur DataSud permet d'accéder à des fonctions participatives :
 
-- Devenir contributeur.
 - Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
-- Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
-- Commenter une organisation (à venir).
-- Commenter un jeu de données (à venir).
-- Déclarer une réutilisation (à venir).
+- Commenter une organisation (à venir avec la Version2 de Datasud).
+- Commenter un jeu de données (à venir avec la Version2 de Datasud).
+- Déclarer une réutilisation (à venir avec la Version2 de Datasud).
 - participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
-
+- Devenir contributeur.
+- Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
