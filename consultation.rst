@@ -1,5 +1,4 @@
-
-===================
+==================
 Espace consultation
 ===================
 
@@ -19,6 +18,13 @@ Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d'ef
 .. image:: Recherche_donnees.png
 
 L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
+
+
+- *>> Catalogue de données DataSud* https://trouver.datasud.fr/dataset
+
+- *>> Liste des contributeurs DataSud* https://trouver.datasud.fr/organization
+
+- *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
 
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
