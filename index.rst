@@ -1,4 +1,4 @@
-Bienvenue dans le draft de la documentation de DataSud.fr
+Bienvenue dans la documentation de DataSud.fr
 =============================================
 
 Cette documentation est organisée en plusieurs guides, chacun correspondant à un usage particulier du catalogue. 
@@ -9,6 +9,7 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
  utilisateurs
  producteurs
  developpeurs/index
+ Ressources
 
 .. seealso::
 
