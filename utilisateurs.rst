@@ -23,31 +23,25 @@ S'inscrire sur DataSud
 
 
 -------------------------------------------
-L’Utilisateur dispose des fonctionnalités suivantes
--------------------------------------------
-
-- créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
-- accéder aux données et services autorisés pour cette organisation,
-- demander à devenir contributeur d’une organisation et éventuellement référent d’une organisation pour maitriser l'ensemble des publications de ladite organisation (voir rubrique dédiée). 
-
-- accéder aux données et services autorisés pour les Utilisateurs inscrits,
-- suivre/s’abonner à un jeu de données, une thématique ou une organisation,
-- partager un jeu de données ou une ressource sur un autre site,
-- contacter directement le producteur ou le diffuseur d'un jeu de données,
-- demander à accéder à des données sur accès restreint et a des services autorisés pour une organisation,
-- contacter les administrateurs de la Plateforme: https://www.datasud.fr/contactez-nous/
-
-
--------------------------------------------
 Comment participer à DataSud?
 -------------------------------------------
 
-L'inscription sur DataSud permet d'accéder à des fonctions participatives :
+L'inscription sur DataSud permet d'accéder à des fonctions participatives / contributives :
 
 - Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
+- Suivre/s’abonner à un jeu de données, une thématique ou une organisation,
+- Demander l'accès aux administrateurs à des données réservées sur accès restreint.
+- Accéder aux données et services autorisés pour une organisation.
+
+- Partager un jeu de données ou une ressource sur un autre site,
 - Commenter une organisation (à venir avec la Version2 de Datasud).
 - Commenter un jeu de données (à venir avec la Version2 de Datasud).
 - Déclarer une réutilisation (à venir avec la Version2 de Datasud).
-- participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
-- Devenir contributeur.
+
+- Contacter directement le producteur ou le diffuseur d'un jeu de données,
+- Contacter les administrateurs de la Plateforme: https://www.datasud.fr/contactez-nous/
+- Participer au contrôle de la qualité de DataSud en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
+
+- Créer une nouvelle Organisation ou demander à être rattaché à une Organisation existante (voir rubrique dédiée),
+- Demander à devenir contributeur d’une organisation et éventuellement référent d’une organisation pour maitriser l'ensemble des publications de ladite organisation (voir rubrique dédiée). 
 - Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
