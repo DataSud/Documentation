@@ -15,7 +15,7 @@ S'inscrire sur DataSud
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation-cgus/>`_
 
- .. note:: T*Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
+ .. note:: *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
 
 - l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
 
