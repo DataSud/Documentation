@@ -1,4 +1,4 @@
- ===================
+===================
 Espace utilisateurs
 ===================
 
@@ -14,8 +14,10 @@ S'inscrire sur DataSud
 - L'utilisateur enregistre son identité qui est distincte de la personne morale qu'il représente.
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation-cgus/>`_
-- *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_*
-- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par mail.
+
+ .. note:: T*Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
+
+- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
 
 .. image:: CaptureDataSudConnect.PNG
 
