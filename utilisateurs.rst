@@ -1,4 +1,4 @@
-===================
+ ===================
 Espace utilisateurs
 ===================
 
@@ -23,7 +23,7 @@ S'inscrire sur DataSud
 
 
 -------------------------------------------
-Comment participer à DataSud?
+Comment participer à DataSud ?
 -------------------------------------------
 
 L'inscription sur DataSud permet d'accéder à des fonctions participatives / contributives :
