@@ -22,5 +22,6 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
 Dans le respect des conditions générales d’utilisation de DataSUD, chaque jeux de données est publié avec une licence, choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation
+
 Voir le passage sur les licences: licences ouvertes, licence odbl, etc...
 
