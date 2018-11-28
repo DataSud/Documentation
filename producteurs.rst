@@ -49,7 +49,7 @@ Publier un jeu de données
 - Pour publier un jeu de donner le Contributeur doit être connecté à l'espace d'administration DATASUD https://publier.datasud.fr
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
 
-.. image:: CaptureDataSudAddOrganizationStatus.PNG
+.. image:: les_organisations.PNG
 
 .. note:: La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
 
