@@ -15,16 +15,15 @@ Table des matières détaillée
 	**Espace producteurs**
 * Devenir Contributeur sur DataSud pour une organisation Productrice de donnée* Comment devenir Contributeur et Réferent ?
 * Publier un jeu de données
-Etape n°1 : Renseigner les métadonnées
-Etape n°2 : Publier une ressource
-Synchroniser une ressource distante
 
-**cgu**
+Etape n°1 : Renseigner les métadonnées / Renseigner les métadonnées INSPIRE
+Etape n°2 : Publier une ressource / Synchroniser une ressource distante
+
 * Le Datastore 
-les types de données ouvertes, intelligentes et géographiques
-Renseigner les métadonnées INSPIRE
-Les Règles éditoriales pour publier vos ressources
-Amélioration des champs descriptifs avec Markdown
+* les types de données ouvertes, intelligentes et géographiques
+
+         **Les Règles éditoriales pour publier vos ressources**
+* Amélioration des champs descriptifs avec Markdown
 
   	**Espace developpeurs/index**
   	
@@ -38,3 +37,6 @@ Support JSONP
 Service WMS
 Service WFS
 Service CSW
+
+
+        **conditions générales**
