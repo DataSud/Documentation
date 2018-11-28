@@ -83,7 +83,7 @@ Les métadonnées facultatives sont les suivantes :
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il existe 3 manières de pousser un jeu de données :
+Il existe 3 manières d'ajouter un jeu de données :
 
 .. image:: CaptureDataSudAddResource.PNG
 
