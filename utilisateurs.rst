@@ -4,6 +4,7 @@ Espace utilisateurs
 
 Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes
 
+.. note:: Toute personne, morale ou physique, publique ou privée, peut s'inscrire sur DataSud et ainsi contribuer à l'ouverture et la mise en commun des données publiques ou privées, en publiant des jeux de données, des textes, des ressources et des commentaires.
 
 -------------------------------------------
 S'inscrire sur DataSud 
