@@ -1,3 +1,4 @@
+
 ==================
 Espace producteurs
 ==================
@@ -6,9 +7,10 @@ Ce guide est à destination des Producteurs de données sur DataSud : https://pu
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires. Un Utilisateur peut demander et obtenir le statut de Contributeur et Référent pour une organisation
 
--------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
 Devenir Contributeur sur DataSud pour une organisation Productrice de donnée
--------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur DataSud : https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
 
@@ -20,8 +22,14 @@ Ces organisations sont le plus souvent de personnes morales (autorités administ
 .. image:: CaptureDataSudFirstConnect.PNG
 
 **Le Contributeur dispose des fonctionnalités suivantes :**
+
 * publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 * accorder le niveau d'accès aux ressources et jeux de données de son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
+
+**Le Référent dispose des fonctionnalités suivantes :**
+
+* éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
+* éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
 ---------------------------------
 Comment devenir Contributeur ?
@@ -30,28 +38,23 @@ Comment devenir Contributeur ?
 .. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**.
 
 - Lors de la création de son compte Utilisateur, il est possible de se rattacher à une Organisation ou non.
-- Demander de devenir Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
-- Les demandes de statut de Contributeur ou de référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
+- Demander de devenir Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription si l' organisation est déjà existante sur DataSud. La demande de statut de Référent peut aussi se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
+- Les demandes de statut de Contributeur ou de Référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 .. image:: CaptureDataSudAddOrganization.PNG
 
----------------------------------
-Devenir Référent
----------------------------------
-
-Le Référent dispose des fonctionnalités suivantes :
-
-- éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
-- éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
+-----------------------------------
+Devenir Référent d'une Organisation
+-----------------------------------
 
 
-- La demande de statut de Référent peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
+
+
+
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-- Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
-*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 .. image:: CaptureDataSudAddOrganizationStatus.PNG
 
