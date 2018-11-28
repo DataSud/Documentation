@@ -1,11 +1,11 @@
-==================
+================
 Espace producteurs
 ==================
+
 
 Ce guide est à destination des Producteurs de données sur DataSud : https://publier.datasud.fr/ 
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires. Un Utilisateur peut demander et obtenir le statut de Contributeur et Référent pour une organisation
-
 
 -----------------------------------------------------------------------------
 Devenir Contributeur sur DataSud pour une organisation Productrice de donnée
@@ -19,13 +19,12 @@ Ces organisations sont le plus souvent de personnes morales (autorités administ
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
-.. note:: **Le Contributeur dispose des fonctionnalités suivantes :**
+**Le Contributeur dispose des fonctionnalités suivantes :**
 
 * publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 * accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
 **Le Référent dispose des fonctionnalités suivantes :**
-
 * éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
 * accorder le niveau d'accès aux ressources et jeux de données de toutes les données de son organisation, y compris ceux qu'il n'a pas crée. Il est le référent pour l'ensemble des données de son organisation.
 * éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
@@ -38,7 +37,7 @@ Comment devenir Contributeur et Réferent ?
 
 - Lors de la création de son compte Utilisateur, il est possible de se rattacher à une Organisation ou non.
 - Demander de devenir Contributeur et Référent peut se faire au moment de son inscription pour une nouvelle organisation ou après l'inscription si l'organisation est déjà existante sur DataSud.
-- Les demandes de statut de Contributeur ou de Référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
+Etape n°1 :- Les demandes de statut de Contributeur ou de Référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
@@ -46,31 +45,33 @@ Comment devenir Contributeur et Réferent ?
 Publier un jeu de données
 ----------------------------------------------
 
-- Pour publier un jeu de donner le Contributeur doit être connecté à l'espace d'administration DATASUD https://publier.datasud.fr
+*- Pour publier un jeu de donner le Contributeur doit être connecté à l'espace d'administration DATASUD https://publier.datasud.fr
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
 
 .. image:: les_organisations.PNG
+
 
 .. note:: La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Renseigner les métadonnées
+Etape n°1 : Renseigner les métadonnées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: CaptureDataSudAddDataset.PNG
 
-
-Les métadonnées obligatoires sont les suivantes :
+**Les métadonnées obligatoires sont les suivantes :**
 
 - Titre
 - Organisation
+- Descriptif
 - Licence
 - Dates (par défaut)
 
+.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation. N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
+
 Les métadonnées facultatives sont les suivantes :
 
-- Descriptif
 - Thématiques
 - Mots-clés
 - Type de données
@@ -78,17 +79,16 @@ Les métadonnées facultatives sont les suivantes :
 - Fréquence de mise à jour
 - Couverture régionale
 
-.. note:: Bien que facultative, le descriptif est un champ incontournable pour garantir une bonne réutilisation. N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Publier une ressource
+Etape n°2 : Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il existe 3 manières d'ajouter un jeu de données :
+Il existe trois manières d'ajouter un jeu de données :
 
 .. image:: CaptureDataSudAddResource.PNG
 
 1.	Téléverser un fichier : soit par téléversement manuel d'un jeu de donnée depuis votre poste local. La ressource s’ajoute dans l’entrepôt de données DataSud ;
-2.	Télécharger depuis une URL : soit en indiquant une URL de téléchargement d'un jeu de donnée depuis une URL. Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données ;
+2.	Télécharger depuis une URL : soit en indiquant une URL de téléchargement d'un jeu de donnée depuis une URL. Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données ; 
 3.	Référencer une URL ! soit en référençant une URL. La ressource n'est alors pas téléchargée dans DATASUD mais vous indiquez où elle peut être téléchargée. Le catalogue indique où télécharger la donnée chez le Producteur.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
