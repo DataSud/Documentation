@@ -1,4 +1,4 @@
-==================
+=================
 Espace producteurs
 ==================
 
@@ -15,10 +15,8 @@ Un producteur de donnée qui souhaite les publier sur DataSud doit préalablemen
 Les Utilisateurs peuvent créer ou rejoindre des Organisations. 
 Ces organisations sont le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également des groupes informels.
 
-.. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
-
-- créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
+.. image:: 
 
 - demander à devenir Contributeur d’une Organisation,
 
