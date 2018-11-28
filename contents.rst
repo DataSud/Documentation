@@ -1,11 +1,9 @@
-* 
 ============================
 Table des matières détaillée
 ============================
 
 .. toctree:
-	Espace consultation  
-	
+	**Espace consultation**  
 * Rechercher des données sur DataSud
 * Faire une demande d’accès à un document administratif ou à des données
 * Les licences
@@ -14,9 +12,8 @@ Table des matières détaillée
 * S’inscrire sur DataSud
 * Comment participer à DataSud ?
   	
-	Espace producteurs
-* Devenir Contributeur sur DataSud pour une organisation Productrice de donnée
-* Comment devenir Contributeur et Réferent ?
+	**Espace producteurs**
+* Devenir Contributeur sur DataSud pour une organisation Productrice de donnée* Comment devenir Contributeur et Réferent ?
 * Publier un jeu de données
 Etape n°1 : Renseigner les métadonnées
 Etape n°2 : Publier une ressource
