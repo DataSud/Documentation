@@ -1,16 +1,16 @@
-==================
+===================
 Espace utilisateurs
 ===================
 
-Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes, cependant  l'inscription permet de disposer de fonctionnalités complémentaires.
+Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes
 
 
 -------------------------------------------
 S'inscrire sur DataSud 
 -------------------------------------------
 
-- Les utilisateurs de DataSud peuvent s’inscrire en nom propre pour avoir leur profil enregistré sur la plateforme DataSud
-https://publier.datasud.fr
+- Le fait de s'enregistrer sur de la plateforme DataSud https://publier.datasud.fr permet de disposer des fonctionnalités complémentaires par rapport à la consultation sans inscription.
+
 - L'utilisateur enregistre son identité qui est distincte de la personne morale qu'il représente.
 - En s’inscrivant, l’Utilisateur crée un profil sur la Plateforme.
 - En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation-cgus/>`_
