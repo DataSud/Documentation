@@ -45,13 +45,7 @@ Comment devenir Contributeur et Réferent ?
 
 .. image:: CaptureDataSudAddOrganization.PNG
 
------------------------------------
-Devenir Référent d'une Organisation
------------------------------------
-
-
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-
 
 .. image:: CaptureDataSudAddOrganizationStatus.PNG
 
