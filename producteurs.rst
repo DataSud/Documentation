@@ -50,13 +50,6 @@ Comment devenir Contributeur et Réferent ?
 .. image:: CaptureDataSudAddOrganizationStatus.PNG
 
 
-- *>> Catalogue de données DataSud* https://trouver.datasud.fr/dataset
-
-- *>> Liste des contributeurs DataSud* https://trouver.datasud.fr/organization
-
-- *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
-
-
 ----------------------------------------------
 Publier un jeu de données
 ----------------------------------------------
