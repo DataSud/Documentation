@@ -9,7 +9,7 @@ Ce guide est à destination des Producteurs de données sur DataSud : https://pu
 
 
 -------------------------------------------------------------------------------------------
-Devenir Contributeur sur DataSud, créer ou rejoindre une organisation Productrice de donnée
+Devenir Contributeur sur DataSud pour une organisation Productrice de donnée
 -------------------------------------------------------------------------------------------
 
 Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur DataSud : https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
