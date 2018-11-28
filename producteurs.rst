@@ -4,9 +4,7 @@ Espace producteurs
 
 Ce guide est à destination des Producteurs de données sur DataSud : https://publier.datasud.fr/ 
 
-.. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
-
-
+.. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires. Un Utilisateur peut demander et obtenir le statut de Contributeur et Référent pour une organisation
 
 -------------------------------------------------------------------------------------------
 Devenir Contributeur sur DataSud pour une organisation Productrice de donnée
@@ -26,7 +24,7 @@ Ces organisations sont le plus souvent de personnes morales (autorités administ
 * accorder le niveau d'accès aux ressources et jeux de données de son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
 ---------------------------------
-Comment devenir Contributeur
+Comment devenir Contributeur ?
 ---------------------------------
 
 .. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**.
@@ -43,14 +41,11 @@ Comment devenir Contributeur
 Devenir Référent
 ---------------------------------
 
-Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Référent pour une organisation.
-
-.. note:: Le Référent dispose des fonctionnalités suivantes ::
+Le Référent dispose des fonctionnalités suivantes :
 
 - éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
 - éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
-.. note:: A noter ::
 
 - La demande de statut de Référent peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
 - Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
