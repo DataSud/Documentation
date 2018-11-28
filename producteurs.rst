@@ -18,27 +18,26 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 
 Ces organisations sont le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également des groupes informels.
 
+
 .. image:: CaptureDataSudFirstConnect.PNG
 
+**Le Contributeur dispose des fonctionnalités suivantes :**
+* publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
+* accorder le niveau d'accès aux ressources et jeux de données de son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
+
 ---------------------------------
-Devenir Contributeur
+Comment devenir Contributeur
 ---------------------------------
 
-.. note:: Le Contributeur dispose des fonctionnalités suivantes :
+.. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**.
 
-- publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
-- autoriser l’accès aux Ressources d’un Jeu de Données dont il est Contributeur à tous les Utilisateurs inscrits, à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
-
-.. note:: A noter ::
-
-- La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription**.
-- La demande de statut de Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
-- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-- Les demandes de statut sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
-
-.. image:: CaptureDataSudAddOrganization.PNG
+- Lors de la création de son compte Utilisateur, il est possible de se rattacher à une Organisation ou non.
+- Demander de devenir Contributeur peut se faire au moment de l'inscription pour une nouvelle organisation ou après l'inscription sur une organisation existante.
+- Les demandes de statut de Contributeur ou de référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
+
+.. image:: CaptureDataSudAddOrganization.PNG
 
 ---------------------------------
 Devenir Référent
@@ -72,6 +71,8 @@ Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander
 ----------------------------------------------
 Publier un jeu de données
 ----------------------------------------------
+
+- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
 
 Une fois connecté à l'espace d'administration DATASUD, le Contributeur et le Référent peuvent ajouter des Jeux de données à leurs Organisations.
 La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
