@@ -6,21 +6,17 @@ Ce guide est à destination des Producteurs de données sur DataSud : https://pu
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
--------------------------------------------------------------------------
-S'inscrire et sur DataSud et créer une organisation Productrice de donnée
--------------------------------------------------------------------------
 
-Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur la Plateforme: https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
 
-Les Utilisateurs peuvent créer ou rejoindre des Organisations. 
+-------------------------------------------------------------------------------------------
+Devenir Contributeur sur DataSud, créer ou rejoindre une organisation Productrice de donnée
+-------------------------------------------------------------------------------------------
+
+Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur DataSud : https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
+
+Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Contributeur pour une organisation existante ou une nouvelle organisation qu'il peut créer. 
+
 Ces organisations sont le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également des groupes informels.
-
-
-.. image:: 
-
-- demander à devenir Contributeur d’une Organisation,
-
-
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
@@ -28,12 +24,7 @@ Ces organisations sont le plus souvent de personnes morales (autorités administ
 Devenir Contributeur
 ---------------------------------
 
-
-
-Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Contributeur pour une organisation existante ou une nouvelle organisation. 
-
 .. note:: Le Contributeur dispose des fonctionnalités suivantes :
-
 
 - publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
 - autoriser l’accès aux Ressources d’un Jeu de Données dont il est Contributeur à tous les Utilisateurs inscrits, à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
