@@ -4,26 +4,25 @@ Espace producteurs
 
 Ce guide est à destination des Producteurs de données sur DataSud : https://publier.datasud.fr/ 
 
----------------------------------
-S'inscrire et publier sur DataSud
----------------------------------
-
 .. note:: Toute personne, morale ou physique, publique ou privée, peut contribuer à la Plateforme, en publiant des jeux de données,  des textes, des ressources et des commentaires.
 
-Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur la Plateforme: https://publier.datasud.fr comme les Utilisateurs (voir rubrique dédiée)
+-------------------------------------------------------------------------
+S'inscrire et sur DataSud et créer une organisation Productrice de donnée
+-------------------------------------------------------------------------
 
+Un producteur de donnée qui souhaite les publier sur DataSud doit préalablement s'inscrire sur la Plateforme: https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
+
+Les Utilisateurs peuvent créer ou rejoindre des Organisations. 
+Ces organisations sont le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également des groupes informels.
 
 .. note:: L’Utilisateur dispose des fonctionnalités suivantes ::
 
 
 - créer ou rejoindre une Organisation, et en devenir Membre (voir rubrique dédiée),
-- accéder aux données et services autorisés pour cette Organisation,
-- accéder aux données et services autorisées pour les Utilisateurs inscrits,
+
 - demander à devenir Contributeur d’une Organisation,
-- suivre/s’abonner à un Jeu de données ou une Organisation ; le partage et l’intégration d’un Jeu de données ou d’une ressource directement sur un autre site.
-- participer au contrôle de la qualité de la Plateforme en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
-- contacter directement le Contributeur ayant publié un Jeu de données.
-- contacter les Administrateurs de la Plateforme.
+
+
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
@@ -31,7 +30,7 @@ Un producteur de donnée qui souhaite les publier sur DataSud doit préalablemen
 Devenir Contributeur
 ---------------------------------
 
-Les Utilisateurs peuvent créer ou rejoindre des Organisations. Il s’agit le plus souvent de personnes morales (autorités administratives, associations, entreprises) mais également de groupes informels.
+
 
 Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut demander et obtenir le statut de Contributeur pour une organisation existante ou une nouvelle organisation. 
 
