@@ -24,7 +24,6 @@ S'inscrire sur DataSud
 
 .. image:: CaptureDataSudSubscribe.PNG 
 
-
 -------------------------------------------
 Comment participer à DataSud ?
 -------------------------------------------
