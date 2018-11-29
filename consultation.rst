@@ -64,5 +64,5 @@ Le refus de communication opposé par l’administration peut être :
 
 La CADA ne peut être saisie qu’à la suite d’un refus de communication, qui peut d’ailleurs ne porter que sur un désaccord quant aux modalités de la communication. Une saisine formée avant l’expiration du délai d’un mois imparti à l’administration pour répondre est donc irrecevable.
 
-En cas de communication insatisfaisante pour le demandeur (document tronqué, dossier ne contenant pas le document recherché…) sans refus exprès, la CADA exige que le demandeur attende l’expiration du délai d’un mois à compter de sa demande (voir site de la CADA : http://www.cada.fr/).
+En cas de communication insatisfaisante pour le demandeur (document tronqué, dossier ne contenant pas le document recherché…) sans refus exprès, la CADA exige que le demandeur attende l’expiration du délai d’un mois à compter de sa demande (voir site de la CADA : http://www.cada.fr/). 
  
