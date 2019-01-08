@@ -29,17 +29,18 @@ Participer à DataSud
 De nombreuses fonctionnalités participatives sont proposées :
 
 - Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
+- Contacter les administrateurs de DataSud : https://www.datasud.fr/contactez-nous/
 - Suivre/s’abonner à un jeu de données, une thématique ou une organisation,
-- Demander l'accès aux administrateurs à des données réservées sur accès restreint.
-- Accéder aux données et services autorisés pour une organisation.
-
 - Partager un jeu de données ou une ressource sur un autre site ou via des réseaux sociaux,
-- Commenter une organisation.
-- Commenter un jeu de données.
-- Déclarer une réutilisation.
+- Demander l'accès aux administrateurs à des données réservées sur accès restreint,
+- Accéder aux données et services autorisés pour une organisation.
+- Contacter directement le producteur ou le diffuseur d'un jeu de données
 
-- Contacter directement le producteur ou le diffuseur d'un jeu de données,
-- Contacter les administrateurs de la Plateforme: https://www.datasud.fr/contactez-nous/
+- Commenter une organisation ou un jeu de données 
+.. image:: 
+
+- Déclarer une réutilisation : https://trouver.datasud.fr/showcase/new
+
 - Participer au contrôle de la qualité de DataSud en signalant les contenus n’ayant pas vocation à y figurer (illicites ou contraires aux CGU).
 
 - Créer une nouvelle Organisation ou demander à être rattaché à une Organisation existante (voir rubrique dédiée),
