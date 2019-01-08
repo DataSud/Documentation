@@ -19,7 +19,7 @@ Ces organisations sont le plus souvent des personnes morales (autorités adminis
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
-.. image:: 
+.. image:: devenir_contributeur.png
 
 **Le Contributeur dispose des fonctionnalités suivantes :**
 
