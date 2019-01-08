@@ -37,7 +37,7 @@ De nombreuses fonctionnalités participatives sont proposées :
 - Contacter directement le producteur ou le diffuseur d'un jeu de données
 
 - Commenter une organisation ou un jeu de données 
-.. image:: Commentaires.png
+.. image:: Commentaires.png 
 
 - Déclarer une réutilisation : https://trouver.datasud.fr/showcase/new
 
