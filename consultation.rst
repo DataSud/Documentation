@@ -22,7 +22,7 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 
 - *>> Catalogue de données DataSud* https://trouver.datasud.fr/dataset
 
-- *>> Liste des contributeurs DataSud* https://trouver.datasud.fr/organization
+- *>> Liste des organisations DataSud* https://trouver.datasud.fr/organization
 
 - *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
 
