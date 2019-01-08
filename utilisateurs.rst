@@ -16,11 +16,11 @@ S'inscrire sur DataSud
 
  .. note:: *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
 
-- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
-
 .. image:: CaptureDataSudConnect.PNG
 
 .. image:: CaptureDataSudSubscribe.PNG 
+
+- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
 
 -------------------------------------------
 Comment participer à DataSud ?
