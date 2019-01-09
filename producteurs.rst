@@ -9,7 +9,7 @@ Ce guide est destiné aux producteurs de données, déjà inscrit en tant que qu
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
 -----------------------------------------------------------------------------
-Devenir Contributeur et Référent sur DataSud pour une organisation
+Devenir Contributeur et Référent pour une organisation
 -----------------------------------------------------------------------------
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
