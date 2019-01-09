@@ -65,7 +65,7 @@ Etape n°1 : Renseigner les métadonnées
 **Les métadonnées obligatoires sont les suivantes :**
 
 - Titre
-- Organisation
+- Organisation à laquelle est rattaché ce jeu de données
 - Descriptif
 - Licence
 - Dates (par défaut)
@@ -92,8 +92,9 @@ Il existe trois manières différentes d'ajouter un jeu de données :
 .. image:: CaptureDataSudAddResource.PNG
 
 1.	**Téléverser manuellement un fichier depuis votre poste local:** 
-Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud ;
-Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée,
+Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud;
+Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée.
+
 Le format du fichier est automatiquement reconnu par DataSud.
 
 2.	**Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
