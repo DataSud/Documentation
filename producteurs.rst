@@ -34,7 +34,7 @@ Il faut donc patienter un peu.
 .. image:: devenir_contributeur.png
 
 
-**Le Référent de l'ensemble des données de l'Organisation à laquelle il appartient dispose des fonctionnalités suivantes :**
+**Un Référent des données de l'Organisation, à laquelle il appartient, dispose des fonctionnalités suivantes :**
 
 * Il peut éditer ou supprimer un jeu de données créé et publié par un autre Contributeur de l'Organisation,
 * Il peut accorder le niveau d'accès aux ressources et jeux de données de toutes les publications de son Organisation,
