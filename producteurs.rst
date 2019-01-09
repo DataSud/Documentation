@@ -14,7 +14,7 @@ Devenir Contributeur et Référent pour une organisation
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
-.. note:: La **création d'une nouvelle organisation doit nécessairement être effectuée au moment de l'inscription individuelle de l'Utilisateur**. 
+.. note:: **La création d'une nouvelle organisation doit nécessairement être effectuée au moment de l'inscription individuelle de l'Utilisateur**. 
 
 Si l'organisation est déjà existante sur DataSud , l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
 
