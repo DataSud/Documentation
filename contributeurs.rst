@@ -139,30 +139,31 @@ Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORG
 Datastore et données intelligentes
 --------------------------------------------------
 
-Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de **services dits "intelligents" sur les données (pour l'instant) tabulaires aux formats CSV et XLS**. L'indexation de vos données dans le datastore permet notamment de transformer vos données en données semi-structurées et de :
+Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de **services dits "intelligents" sur les données tabulaires aux formats CSV et XLS**(pour l'instant).
 
-- visualiser et parcourir ces dernières,
-- les filtrer par champs.
-- créer des datavisualisations simples,
-- automatiser l'accès par API.
+La publication des données sur Datasud, dans un format ouvert et interprétable par une machine, permet leur indexation dans le datastore afin notamment de proposer des apercus, de les filtrer par champs et de les parcourir sans utiliser de tableur dédiés.
 
-Permettre l'accès à vos données par interface de programmation est une condition nécessaire pour massifier, industrialiser les usages qui peuvent être fait de ces dernières. C'est également une exigence de la loi république numérique de diffuser dans un format ouvert et interprétable par une machine. Sur Datasud, le format CSV est le format pivot à privilégier pour transformer vos données tabulaires en données semi-structurées dites "intelligentes". 
+Le format CSV est le format pivot à privilégier pour transformer vos données tabulaires en données semi-structurées dites "intelligentes" afin que le datastore génère des datavisualisations simples sous forme de grille, de graphe ou de carte.
 
-**Dans la version bêta de DataSud cette mécanique est encore sensible.**
+Des données intelligentes permettent également d'en automatiser l'accès par API ( Application Programming Interface) : 
+L'accessibilité des données par interface de programmation est une condition nécessaire pour massifier et industrialiser les usages qui peuvent être fait de ces dernières. 
+
 
 **Vos jeux de données doivent être préparés pour être proprement indexés dans le datastore :**
 
-- Le format CSV à priviliégier doit privilégié avec un ; comme séparateur / délimiteur.
-- Idéalement, passez tous vos jeux de données en UTF-8. Notepad++ fait cela très bien.
-- Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
-- Restreindre vos titres de colonnes à moins de 62 caractères.
-- En théorie les caractères spéciaux ('\:.,( -') sont acceptés, les éviter dans les titres c'est beaucoup mieux.
-- Harmoniser le type de vos données (et oui vos données sont typées) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or si une valeur contient l'entrée N/A, le datastore va générer une erreur. Pour eviter les erreurs de type, une solution amont à l'indexation consiste à soit corriger les erreurs, soit transformer toutes vos cellules en cellules au format TEXTE. Cela n'est pas satisfaisant, mais ca fonctionne.
+* Le format CSV doit être privilégié avec un ; comme séparateur / délimiteur.
+* Idéalement, passez tous vos jeux de données en UTF-8. Pour cela le programme Notepad++ fait cela très bien.
+* Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
+* Restreindre vos titres de colonnes à moins de 62 caractères.
+* Ne pas doublonner le titre d'une colonne.
+* En théorie les caractères spéciaux ('\:.,( -') sont acceptés, mais c'est beaucoup mieux de les éviter dans les titres.
+* Harmoniser le type de vos données (et oui vos données sont typées!) : en effet si une colonne ne comporte que des chiffres, le Datastore autodéterminera le type de cette colonne comme étant un nombre. Or il suffit qu'une cellule de la colonne contienne l'entrée N/A, pour que le datastore génére une erreur. 
+Pour éviter les erreurs de type, il est préférable de les corriger avant d'indexer le jeu de donnée dans DataSud ou bien de transformer la valeur des cellules en cellules au format TEXTE. Cela n'est pas satisfaisant, mais ca fonctionne.
 
 Utilisez des outils appropriés pour nettoyer vos données :
 
 - La méthode infolabs, produire un CSV de qualité : http://infolabs.io/prod-csv 
-- Les outils http://csvlint.io/ https://goodtables.io/ ou http://openrefine.org/
+- Les outils :  http://csvlint.io/ https://goodtables.io/ ou http://openrefine.org/
 
 **Attention :**
 
