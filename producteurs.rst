@@ -16,10 +16,12 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 
 .. note:: **La création d'une nouvelle organisation doit nécessairement être effectuée au moment de l'inscription individuelle de l'Utilisateur**. 
 
-Si l'organisation est déjà existante sur DataSud , l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
+Si l'organisation est déjà existante sur DataSud, l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
 
 Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
 Il faut donc patienter un peu. 
+
+Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail, hotmail,...) et dont le nom de domaine ne peut correspondre à l'organisation pour laquelle il demande de contribuer, ne peut se rattacher, contribuer ou devenir référent d'une Organisation.
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
