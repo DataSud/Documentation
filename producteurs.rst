@@ -3,7 +3,7 @@ Espace Contributeurs
 ====================
 
 
-Ce guide est destiné aux producteurs de données, déjà inscrit en tant que qu'Utilisateurs https://publier.datasud.fr/ 
+Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Utilisateurs https://publier.datasud.fr/ 
 (voir Espace Utilisateur) et souhaitant contribuer à l'enrichissement des publications sur la plateforme : 
 
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
