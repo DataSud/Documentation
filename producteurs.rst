@@ -46,10 +46,7 @@ Il faut donc patienter un peu.
 Publier un jeu de données
 ----------------------------------------------
 
-*- Pour publier un jeu de donner le Contributeur doit être connecté à l'espace d'administration DATASUD https://publier.datasud.fr
-- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
-
-.. image:: les_organisations.PNG
+*- Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
 
 
 .. note:: La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
@@ -107,6 +104,14 @@ Par exemple, vous indiquer l'URL de téléchargement un fichier transport.zip qu
 * votre fichier doit être accessible par DATASUD sur une URL fixe : évitez les liens temporaires.::
 
 En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer que la synchronisation ne fonctionne pas ou plus.
+
+----------------------------------------------
+Editer la page d'une Organisation
+----------------------------------------------
+
+*- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
+
+.. image:: les_organisations.PNG
 
 --------------------------------------------------
 Datastore et données intelligentes
