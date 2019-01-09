@@ -139,7 +139,7 @@ Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORG
 Datastore et données intelligentes
 --------------------------------------------------
 
-Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre un certain niveau de **services dits "intelligents" sur les données tabulaires aux formats CSV et XLS**(pour l'instant).
+Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre des **services dits "intelligents" sur les données tabulaires aux formats CSV, XLS, GeoJSON, SHP**.
 
 La publication des données sur Datasud, dans un format ouvert et interprétable par une machine, permet leur indexation dans le datastore afin notamment de proposer des apercus, de les filtrer par champs et de les parcourir sans utiliser de tableur dédiés.
 
