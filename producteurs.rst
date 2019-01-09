@@ -14,16 +14,15 @@ Devenir Contributeur et Référent pour une organisation
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
-Un Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur ou Référent pour une organisation déjà existante sur DataSud.
+.. note:: La **création d'une nouvelle organisation doit nécessairement être effectuée au moment de l'inscription individuelle de l'Utilisateur**. 
 
-Devenir Contributeur et Référent peut se faire au moment de son inscription pour une nouvelle organisation ou après l'inscription si l'organisation est déjà existante sur DataSud.
+Si l'organisation est déjà existante sur DataSud , l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
 
-Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs.
+Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
 Il faut donc patientier un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
-.. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**. 
 
 **Un Contributeur dispose des fonctionnalités suivantes :**
 
@@ -37,9 +36,11 @@ Il faut donc patientier un peu.
 
 **Le Référent dispose des fonctionnalités suivantes :**
 
-* Il peut éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
-* accorder le niveau d'accès aux ressources et jeux de données de toutes les données de son organisation, y compris ceux qu'il n'a pas crée. Il est le référent pour l'ensemble des données de son organisation.
-* éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
+* Il est le Réferent pour l'ensemble des données de l'Organisation à laquelle il appartient.
+* Il peut éditer ou supprimer un jeu de Données créé et publié par un autre Contributeur de l'Organisation,
+* Il peut accorder le niveau d'accès aux ressources et jeux de données de toutes les données de son organisation,
+* Il peut éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur.
+* Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
 
 
 ----------------------------------------------
