@@ -11,7 +11,7 @@ Le catalogue des données et des ressources disponibles sont amenés à évoluer
  contributeurs
  developpeurs/index
  cadre_legal
- regles editoriales
+ regles_editoriales
 
 .. seealso::
 
