@@ -1,18 +1,21 @@
-=======================
-Ressources pédagoqiques
-=======================
+============================
+Cadre légal et réglementaire
+============================
 
-----------------------
-Connaître les Licences
-----------------------
+----------------------------------------------------
+Le statut juridique des données publiées sur DataSud
+----------------------------------------------------
 
-Dans le cadre de leurs démarches d’ouverture des données publiques, la Région Sud Provence Alpes Côte-d'Azur et le CRIGE ont fait le choix de licences de réutilisation à titre gratuit. 
+Dans le cadre de leurs démarches d’ouverture des données publiques, la RégionProvence Alpes Côte-d'Azur et le CRIGE ont fait le choix de licences de réutilisation à titre gratuit. 
 Ce choix est conforme au décret n°2017-638 prévu par l’article L323-2 du Code des Relations entre le Public et l’Administration (CRPA) dans lequel la licence Open Data Base License (ODbL) de l'Open Knowledge Foundation et la licence ouverte / open licence sont promues.
 
 Conformément aux objectifs d’une politique d’accès libre aux données publiques, ces licences définissent les droits et les devoirs des réutilisateurs des données du portail DataSud.
 Le type de licence applicable (ODbL ou licence ouverte/open licence) est précisé sur chaque jeu de données. L’accès à un jeu de données vaut validation des conditions de la licence associé à ce jeu.
 A noter que seuls les textes complets des contrats de licence font foi. 
-Voir les liens ci-dessous :
+
+----------------------
+Connaître les Licences
+----------------------
 
 **licence ODbL**
 
@@ -50,12 +53,14 @@ Vous mentionnez la paternité : vous devez mentionner la paternité de « l’in
 Avec cette licence, vous êtes détenteur d’un droit personnel, non exclusif et gratuit de réutilisation des données mises à disposition, pour une durée illimitée dans le monde entier, exempte de droits de propriété intellectuelle appartenant à des tiers. Le droit français est applicable.
 
 Vous êtes le seul responsable de la réutilisation de « l’information » conformément aux libertés et conditions définies par la Licence Ouverte/Open Licence. La réutilisation ne doit pas induire en erreur des tiers quant au contenu de « l’information », sa source et sa date de mise à jour.
-Si vous débutez en matière de réutilisation de données …. publiques, ouvertes, personnelles, sensibles, géographiques… 
+
+Si vous débutez en matière de réutilisation de données publiques, ouvertes, personnelles, sensibles, géographiques… 
 Alors nous vous invitons à commencer par découvrir la documentation produite par OpenDataFrance : 
 
 [Ressources Opendatalocale](http://opendatalocale.net/ressources) 
 
 [module de eLearning proposé par le portail européen de l’OpenData](https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01 https://player.vimeo.com/video/153271129)
+
 
 ----------------------------------------------------------------------
 Faire une demande d'accès à un document administratif ou à des données
