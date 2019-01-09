@@ -51,7 +51,9 @@ Publier un jeu de données
 * Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
 
 
-.. note:: La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
+**La publication se fait en deux étapes successives:** 
+
+Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, quel que soit son support, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
