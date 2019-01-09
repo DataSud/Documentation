@@ -70,8 +70,7 @@ Etape n°1 : Renseigner les métadonnées
 - Licence
 - Dates (par défaut)
 
-.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation. 
-N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
+.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée ! ::
 
 **Les métadonnées facultatives sont les suivantes :**
 
