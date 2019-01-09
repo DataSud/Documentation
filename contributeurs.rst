@@ -44,9 +44,9 @@ Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail,
 * Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
 
 
-----------------------------------------------
+--------------------------
 Publier un jeu de données
-----------------------------------------------
+--------------------------
 
 * Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
 
@@ -70,9 +70,10 @@ Etape n°1 : Renseigner les métadonnées
 - Licence
 - Dates (par défaut)
 
-.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation. N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
+.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation. 
+N'oubliez pas, une donnée bien décrite est une donnée bien réutilisée ! ::
 
-Les métadonnées facultatives sont les suivantes :
+**Les métadonnées facultatives sont les suivantes :**
 
 - Thématiques
 - Mots-clés
@@ -85,13 +86,28 @@ Les métadonnées facultatives sont les suivantes :
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Etape n°2 : Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il existe trois manières d'ajouter un jeu de données :
+
+Il existe trois manières différentes d'ajouter un jeu de données :
 
 .. image:: CaptureDataSudAddResource.PNG
 
-1.	Téléverser un fichier : soit par téléversement manuel d'un jeu de donnée depuis votre poste local. La ressource s’ajoute dans l’entrepôt de données DataSud ;
-2.	Télécharger depuis une URL : soit en indiquant une URL de téléchargement d'un jeu de donnée depuis une URL. Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données ; 
-3.	Référencer une URL ! soit en référençant une URL. La ressource n'est alors pas téléchargée dans DATASUD mais vous indiquez où elle peut être téléchargée. Le catalogue indique où télécharger la donnée chez le Producteur.
+1.	**Téléverser manuellement un fichier depuis votre poste local:** 
+Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud ;
+Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée,
+Le format du fichier est automatiquement reconnu par DataSud.
+
+2.	**Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
+Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
+Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière : 
+* Quotidienne (tous les jours à minuit)
+* Hebdomadaire (tous les lundis)
+* Bimensuelle (1er et 15 de chaque mois)
+* Trimestrielle ( 1er des mois de Janvier, Avril, Juillet et  Octobre)
+* Annuelle (1er Janvier)
+
+3.	**Référencer une URL:**
+La ressource n'est alors pas téléchargée dans DataSud et vous indiquez l'adresse URL précise de téléchargement de la donnée, qui reste hebergée chez son producteur. Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Synchroniser une ressource distante
