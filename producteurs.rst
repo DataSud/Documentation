@@ -16,8 +16,8 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 
 **Un Contributeur dispose des fonctionnalités suivantes :**
 
-* publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
-* accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
+* il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
+* il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
