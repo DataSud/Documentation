@@ -19,7 +19,7 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 Si l'organisation est déjà existante sur DataSud , l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
 
 Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
-Il faut donc patientier un peu. 
+Il faut donc patienter un peu. 
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
