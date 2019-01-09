@@ -1,12 +1,12 @@
-==================
-Espace producteurs
-==================
+====================
+Espace Contributeurs
+====================
 
 
-Ce guide est destiné aux Producteurs de données sur DataSud, déjà inscrit en tant que qu'Utilisateurs https://publier.datasud.fr/ 
-(voir Espace Utilisateur): 
+Ce guide est destiné aux producteurs de données, déjà inscrit en tant que qu'Utilisateurs https://publier.datasud.fr/ 
+(voir Espace Utilisateur) et souhaitant contribuer à l'enrichissement des publications sur la plateforme : 
 
-.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles. Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur pour une organisation déjà existante sur DataSud.
+.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles. Un Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur pour une organisation déjà existante sur DataSud.
 
 -----------------------------------------------------------------------------
 Devenir Contributeur sur DataSud pour une organisation
@@ -14,14 +14,16 @@ Devenir Contributeur sur DataSud pour une organisation
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
+**Un Contributeur dispose des fonctionnalités suivantes :**
+
+* publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
+* accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
+
 .. image:: CaptureDataSudFirstConnect.PNG
 
 .. image:: devenir_contributeur.png
 
-**Le Contributeur dispose des fonctionnalités suivantes :**
 
-* publier un Jeu de données et y ajouter des Ressources, sous la forme d’un fichier téléchargeable, d’un lien ou d’une API,
-* accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut les rendre soit accessible à tous, soit uniquement aux Utilisateurs inscrits, soit les restreindre à un Utilisateur, une Organisation ou uniquement l’Organisation propriétaire du Jeu de données.
 
 **Le Référent dispose des fonctionnalités suivantes :**
 * éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
