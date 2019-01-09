@@ -6,13 +6,24 @@ Espace Contributeurs
 Ce guide est destiné aux producteurs de données, déjà inscrit en tant que qu'Utilisateurs https://publier.datasud.fr/ 
 (voir Espace Utilisateur) et souhaitant contribuer à l'enrichissement des publications sur la plateforme : 
 
-.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles. Un Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur pour une organisation déjà existante sur DataSud.
+.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
 -----------------------------------------------------------------------------
-Devenir Contributeur sur DataSud pour une organisation
+Devenir Contributeur et Référent sur DataSud pour une organisation
 -----------------------------------------------------------------------------
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
+
+Un Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur ou Référent pour une organisation déjà existante sur DataSud.
+
+Devenir Contributeur et Référent peut se faire au moment de son inscription pour une nouvelle organisation ou après l'inscription si l'organisation est déjà existante sur DataSud.
+
+Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs.
+Il faut donc patientier un peu. 
+
+*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
+
+.. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**. 
 
 **Un Contributeur dispose des fonctionnalités suivantes :**
 
@@ -24,23 +35,12 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 .. image:: devenir_contributeur.png
 
 
-
 **Le Référent dispose des fonctionnalités suivantes :**
-* éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
+
+* Il peut éditer ou supprimer un Jeu de Données publié par un Contributeur de l’Organisation dont il est Référent
 * accorder le niveau d'accès aux ressources et jeux de données de toutes les données de son organisation, y compris ceux qu'il n'a pas crée. Il est le référent pour l'ensemble des données de son organisation.
 * éditer ou supprimer un statut de Membre ou de Contributeur d’un Utilisateur d’une Organisation à laquelle il appartient
 
-------------------------------------------
-Comment devenir Contributeur et Réferent ?
-------------------------------------------
-
-.. note:: La demande de **création d'une nouvelle organisation doit se faire au moment de l'inscription individuelle**.
-
-- Lors de la création de son compte Utilisateur, il est possible de se rattacher à une Organisation ou non.
-- Demander de devenir Contributeur et Référent peut se faire au moment de son inscription pour une nouvelle organisation ou après l'inscription si l'organisation est déjà existante sur DataSud.
-Etape n°1 :- Les demandes de statut de Contributeur ou de Référent sont soumis à la validation des Administrateurs *à priori*. Il faut donc patientier un peu. 
-
-*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 ----------------------------------------------
 Publier un jeu de données
