@@ -163,10 +163,10 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 
 * ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
 
-.. Attention avec Excel 
+.. Note:: **Attention avec Excel** 
 * lorque le fichier contient plusieurs feuillet (ou onglet), seule la dernière feuille de calcul est indexée dans le datastore. Il est donc nécessaire de déplacer la feuille de calcul contenant le données que vous souhaitez indexer dans le datastore en dernière place de votre tableur.
 
-* si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur.::
+* si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur.
 
 
 -----------------------------------------------------
