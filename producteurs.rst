@@ -3,7 +3,8 @@ Espace producteurs
 ==================
 
 
-Ce guide est destiné aux Producteurs de données sur DataSud : https://publier.datasud.fr/ 
+Ce guide est destiné aux Producteurs de données sur DataSud, déjà inscrit en tant que qu'Utilisateurs https://publier.datasud.fr/ 
+(voir Espace Utilisateur): 
 
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles. Toute personne inscrite sur la plateforme en tant qu’Utilisateur peut créer une nouvelle organisation ou demander et obtenir le statut de Contributeur pour une organisation déjà existante sur DataSud.
 
@@ -11,11 +12,7 @@ Ce guide est destiné aux Producteurs de données sur DataSud : https://publier.
 Devenir Contributeur sur DataSud pour une organisation
 -----------------------------------------------------------------------------
 
-Un producteur de donnée qui souhaite les publier sur DataSud doit nécessairement s'inscrire : https://publier.datasud.fr comme les Utilisateurs (voir Espace Utilisateur)
-
- 
-
-Ces organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) mais également des groupes informels.
+Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
