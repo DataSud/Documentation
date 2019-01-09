@@ -1,6 +1,6 @@
-==================================
-Espace Usagers
-==================================
+=======================
+Ressources pédagoqiques
+=======================
 
 ----------------------------------------------------------------------
 Faire une demande d'accès à un document administratif ou à des données
@@ -8,7 +8,10 @@ Faire une demande d'accès à un document administratif ou à des données
 
 L'article 15 de la Déclaration Universelle des droits de l'homme et du citoyen précise que "la société a le droit de demander compte à tout agent public de son administration".
 
-La politique du Gouvernement s'appuie notamment sur le droit d'accès aux documents administratifs (loi CADA du 17 juillet 1978) qui considère que les données produites ou détenues par les administrations, dans le cadre de leurs missions de service public, doivent être mises à disposition du public. Cela ne concerne ni les informations personnelles, ni celles touchant à la sécurité nationale, ni celles couvertes par les différents secrets légaux.
+Ce droit d’accès aux documents administratifs est régie par la loi CADA du 17 juillet 1978 qui considère que « les données produites ou détenues par les administrations, dans le cadre de leurs missions de service public, doivent être mises à disposition du public».
+Cela ne concerne pas les informations personnelles, ni celles touchant à la sécurité nationale, ou celles couvertes par les différents secrets légaux.
+
+Le formalisme d'accès ainsi que vos droits à ce sujet sont précisés sur le site officiel de l'administration française : https://www.service-public.fr/particuliers/vosdroits/F2467
 
 Par ailleurs, conformément à la mise en oeuvre de la loi Numérique, la Commission d’accès aux documents administratifs (CADA) considère que tous les fichiers dont la communication a été sollicitée à partir du 8 avril 2017 doivent être publiés en Open Data « par défaut ».
 Vous pouvez donc avoir accès, sans avoir à motiver votre demande, à de très nombreux documents administratifs qui ne figurent pas encore sur les sites web des administrations ou sur les portails OpenData.
@@ -31,7 +34,6 @@ La CADA ne peut être saisie qu’à la suite d’un refus de communication, qui
 
 En cas de communication insatisfaisante pour le demandeur (document tronqué, dossier ne contenant pas le document recherché…) sans refus exprès, la CADA exige que le demandeur attende l’expiration du délai d’un mois à compter de sa demande (voir site de la CADA : http://www.cada.fr/).
  
-Le formalisme d'accès ainsi que vos droits à ce sujet sont précisés sur le site officiel de l'administration française : https://www.service-public.fr/particuliers/vosdroits/F2467
 
 ----------------------
 Connaître les Licences
