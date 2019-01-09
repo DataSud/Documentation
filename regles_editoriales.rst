@@ -89,3 +89,18 @@ https://fr.wikipedia.org/wiki/Markdown
 https://guides.github.com/features/mastering-markdown/
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+
+--------------------------------------
+Les outils  pour nettoyer vos données 
+--------------------------------------
+
+* [La méthode infolabs pour produire un CSV de qualité](http://infolabs.io/prod-csv)
+
+* [l'Outil de validation des données ouvertes : Validata](https://validata.fr/)
+
+* [Nettoyer les CSV avec CSVLint (en Anglais)](http://csvlint.io) 
+
+* https://goodtables.io/ 
+
+* http://openrefine.org/
