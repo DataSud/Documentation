@@ -1,5 +1,5 @@
 ====================
-Espace Contributeurs
+Espace contributeurs
 ====================
 
 
@@ -48,7 +48,7 @@ Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail,
 Publier un jeu de données
 ----------------------------------------------
 
-*- Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
+* Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
 
 
 .. note:: La publication se fait en deux étapes : renseigner les métadonnées de son Jeu de Données (dataset) et publier une ou plusieurs Ressources.
