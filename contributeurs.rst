@@ -174,9 +174,10 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 
 -----------------------------------------------------
 Géolocalisation des données tabulaires (XLS et CSV)
-------------------------------------------------------
+-----------------------------------------------------
 
-Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. Pour cela vous devez intulité vos deux colonnes "latitude" et "longitude".
+Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. 
+Pour cela vous devez intituler deux colonnes du tableau "latitude" et "longitude".
 
 Projections : en cours de rédaction.
 
