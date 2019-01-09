@@ -92,39 +92,39 @@ Il existe trois manières différentes d'ajouter un jeu de données :
 .. image:: CaptureDataSudAddResource.PNG
 
 1.	**Téléverser manuellement un fichier depuis votre poste local:** 
+
 Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud;
 Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée.
 
 Le format du fichier est automatiquement reconnu par DataSud.
 
 2.	**Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
+
 Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
-Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière : 
+
+.. image:: CaptureDataSudAddResourceSync.PNG
+
+Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière à indiquer : 
+
 * Quotidienne (tous les jours à minuit)
 * Hebdomadaire (tous les lundis)
 * Bimensuelle (1er et 15 de chaque mois)
 * Trimestrielle ( 1er des mois de Janvier, Avril, Juillet et  Octobre)
 * Annuelle (1er Janvier)
 
+Par exemple, un fichier transport.zip peut-être synchronisé sur DataSud directement grace à son URL de téléchargement.
+
+.. note:: Quelques précautions à prendre pour que la synchronisation s'active correctement : 
+
+* le nom de votre fichier doit avoir **exactement** le même nommage de fichier pour toute la synchronisation : si un script modifie le nom du fichier (pour rajouter une date ou autre par exemple), la synchronisation ne fonctionnera pas.
+
+* votre fichier doit être accessible via une URL fixe : évitez les liens temporaires.::
+
+En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer que la synchronisation ne fonctionne pas ou plus.
+
 3.	**Référencer une URL:**
 La ressource n'est alors pas téléchargée dans DataSud et vous indiquez l'adresse URL précise de téléchargement de la donnée, qui reste hebergée chez son producteur. Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Synchroniser une ressource distante
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Si vous choisissez le téléchargement par URL distante (option 2 ci-dessus), vous avez la possibilité de synchroniser votre donnée, selon une périodicité à indiquer.
-Datasud va alors chercher la ressource pour la télécharger et l'ajouter dans l’entrepôt de données au pas de temps donnée (tous les jours à tous les ans).
-
-.. image:: CaptureDataSudAddResourceSync.PNG
-
-Par exemple, vous indiquer l'URL de téléchargement un fichier transport.zip que vous souhaitez synchroniser tous les mois sur DATASUD. 
-
-.. note:: Quelques précautions pour que la synchronisation s'active : 
-* votre fichier doit avoir **exactement** le même nom de fichier pour toute la synchronisation : si un script modifie le nom de fichiers, pour rajouter une date ou autre par exemple, la synchronisation ne fonctionnera pas.  ;
-* votre fichier doit être accessible par DATASUD sur une URL fixe : évitez les liens temporaires.::
-
-En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer que la synchronisation ne fonctionne pas ou plus.
 
 ----------------------------------------------
 Editer la page d'une Organisation
