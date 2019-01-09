@@ -90,14 +90,14 @@ Il existe trois manières différentes d'ajouter un jeu de données :
 
 .. image:: CaptureDataSudAddResource.PNG
 
-1.	**Téléverser manuellement un fichier depuis votre poste local:** 
+**1.	Téléverser manuellement un fichier depuis votre poste local:** 
 
 Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud;
 Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée.
 
 Le format du fichier est automatiquement reconnu par DataSud.
 
-2.	**Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
+**2.	Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
 
 Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
 
@@ -121,15 +121,17 @@ Par exemple, un fichier transport.zip peut-être synchronisé sur DataSud direct
 
 En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer que la synchronisation ne fonctionne pas ou plus.
 
-3.	**Référencer une URL:**
-La ressource n'est alors pas téléchargée dans DataSud et vous indiquez l'adresse URL précise de téléchargement de la donnée, qui reste hebergée chez son producteur. Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
+**3.	Référencer une URL:**
+
+Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez précisement l'adresse URL de téléchargement de la donnée. qui reste hebergée chez son producteur. 
+Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
 
 ----------------------------------------------
 Editer la page d'une Organisation
 ----------------------------------------------
 
-*- Pour retrouver ses organisations le Contributeur doit cliquer sur l'onglet *mes organisations* dans son espace d'administration. 
+Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATION dans son espace d'administration. 
 
 .. image:: les_organisations.PNG
 
