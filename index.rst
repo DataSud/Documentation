@@ -10,6 +10,7 @@ Le catalogue des données et des ressources disponibles sont amenés à évoluer
  Utilisateurs
  Contributeurs
  Developpeurs/index
+ Règles Editoriales
 
 .. seealso::
 
