@@ -136,8 +136,7 @@ Editer la page d'une Organisation
 
 Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATION dans son espace d'administration. 
 
-.. image:: les_organisations.PNG
-
+.. image:: Onglet_organisations.PNG
 
 
 --------------------------------------------------
