@@ -134,7 +134,7 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 Editer la page d'une Organisation
 ----------------------------------------------
 
-Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATION dans son espace d'administration. 
+Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
 
 .. image:: Onglet_organisation.PNG
 
