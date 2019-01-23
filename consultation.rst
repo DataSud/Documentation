@@ -32,7 +32,7 @@ Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux 
 
 Dans le respect des conditions généra recensées à partir des données publiéesles d’utilisation de DataSud, chaque jeux de données est publié avec une licence, choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation
 
-(Voir le passage sur les licences: licences ouvertes, licence odbl, etc...)
+(Voir le passage sur le Cadre légal et réglementaire : les licences: licences ouvertes, licence odbl, etc...)
 
 Si vous recherchez un jeu de donnée qui ne figure pas au catalogue de DataSud, vous pouvez nous saisir à ce sujet, par le service de "demande de données".
 
