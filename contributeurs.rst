@@ -54,8 +54,7 @@ La dénomination sociale est obligatoire
 
 .. image:: Creation_orga1.PNG
 
-La description est facultative mais fortement conseillée, pour permettre de qualifier l'organisation et sa démarche en matière d'ouverture des données publiques et géographiques.
-De plus, si le champ "description" n'est pas renseignée, il ne pourra y avoir d'implementation automatique d'une page web spécifique à propos de l'organisation
+La description est facultative mais fortement conseillée, pour d'une permettre de qualifier l'Organisation et sa démarche en matière d'ouverture des données publiques et géographiques et d'autre part pour permettre l'implementation automatique d'une page web spécifique à propos de l'organisation.
 
 .. image:: Creation_orga2.PNG
 
@@ -203,6 +202,6 @@ Projections : en cours de rédaction.
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Cette partie de la documentation est en cours de rédaction.
+Cette partie de la documentation est en cours de rédaction par le CRIGE
 
 
