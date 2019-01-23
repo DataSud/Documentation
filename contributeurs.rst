@@ -23,7 +23,7 @@ Il faut donc patienter un peu.
 
 .. note:: **Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail, hotmail,...) et dont le nom de domaine ne peut correspondre à l'organisation pour laquelle il demande de contribuer, ne peut se rattacher, contribuer ou devenir référent d'une Organisation**
 
-*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
+*Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, une organisation, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 
 **Un Contributeur dispose des fonctionnalités suivantes :**
@@ -44,10 +44,22 @@ Il faut donc patienter un peu.
 * Il peut autoriser ou supprimer le statut de Contributeur aux Utilisateurs,
 * Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
 
+----------------------------------------------
+Créer une Organisation
+----------------------------------------------
+
+Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
+
+.. image:: Creation_orga1.PNG
+
+
+.. image:: Creation_orga2.PNG
+
 
 ----------------------------------------------
 Editer la page d'une Organisation
 ----------------------------------------------
+
 
 Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
 
