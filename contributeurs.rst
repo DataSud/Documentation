@@ -28,8 +28,8 @@ Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail,
 
 **Un Contributeur dispose des fonctionnalités suivantes :**
 
-* il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
-* il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : il peut décider de les rendre accessible à tous, ou uniquement aux Utilisateurs inscrits, ou bien les restreindre à un Utilisateur inscrit, une Organisation ou uniquement sa propre Organisation propriétaire du Jeu de données.
+* Il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
+* Il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : soit décider de les rendre accessible à tous, soit en restre l'accès uniquement  à un ou plusieurs Utilisateurs inscrits ou bien à une Organisation choisie comme sa propre Organisation propriétaire du Jeu de données.
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
