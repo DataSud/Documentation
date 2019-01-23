@@ -69,6 +69,9 @@ Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORG
 
 .. image:: Onglet_organisation.PNG
 
+La première fois que le contributeur édite la page de son organisation, il lui sera demandé de rattacher l'organisation à un Territoire de compétence. La création de ce territoire de compétences permet de bénéficier de fonctionnalités spatiales supplémentaires dans DataSud
+
+.. image:: Territoire_competence.PNG
 
 --------------------------
 Publier un jeu de données
