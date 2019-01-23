@@ -14,9 +14,7 @@ Devenir Contributeur et Référent pour une organisation
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
-.. note:: **La création d'une nouvelle organisation doit nécessairement être effectuée au moment de l'inscription individuelle de l'Utilisateur**. 
-
-Si l'organisation est déjà existante sur DataSud, l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
+.. note:: **La création d'une nouvelle organisation peut-être effectuée soit au moment de son inscription comme utilisateur de DataSud, soit après la validation de son profil Utilisateur par les Administrateurs de DataSud**.
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
@@ -45,6 +43,15 @@ Il faut donc patienter un peu.
 * Il peut accorder le niveau d'accès aux ressources et jeux de données de toutes les publications de son Organisation,
 * Il peut autoriser ou supprimer le statut de Contributeur aux Utilisateurs,
 * Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
+
+
+----------------------------------------------
+Editer la page d'une Organisation
+----------------------------------------------
+
+Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
+
+.. image:: Onglet_organisation.PNG
 
 
 --------------------------
@@ -130,13 +137,7 @@ Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez
 Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
 
-----------------------------------------------
-Editer la page d'une Organisation
-----------------------------------------------
 
-Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
-
-.. image:: Onglet_organisation.PNG
 
 
 --------------------------------------------------
