@@ -33,7 +33,7 @@ Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail,
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
-.. image:: devenir_contributeur.png
+.. image:: devenir_contributeur.PNG
 
 
 **Un Référent des données de l'Organisation, à laquelle il appartient, dispose des fonctionnalités suivantes :**
