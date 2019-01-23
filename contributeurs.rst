@@ -50,8 +50,12 @@ Créer une Organisation
 
 Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
 
+La dénomination sociale est obligatoire
+
 .. image:: Creation_orga1.PNG
 
+La description est facultative mais fortement conseillée, pour permettre de qualifier l'organisation et sa démarche en matière d'ouverture des données publiques et géographiques.
+De plus, si le champ "description" n'est pas renseignée, il ne pourra y avoir d'implementation automatique d'une page web spécifique à propos de l'organisation
 
 .. image:: Creation_orga2.PNG
 
