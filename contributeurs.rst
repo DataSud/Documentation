@@ -138,6 +138,8 @@ Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORG
 
 .. image:: les_organisations.PNG
 
+
+
 --------------------------------------------------
 Datastore et données intelligentes
 --------------------------------------------------
