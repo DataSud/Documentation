@@ -26,9 +26,11 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 
 - *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
 
+- *>> Liste des réutilisations recensées à partir des données publiées DataSud* https://trouver.datasud.fr/showcase
+
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
-Dans le respect des conditions générales d’utilisation de DataSud, chaque jeux de données est publié avec une licence, choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation
+Dans le respect des conditions généra recensées à partir des données publiéesles d’utilisation de DataSud, chaque jeux de données est publié avec une licence, choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation
 
 (Voir le passage sur les licences: licences ouvertes, licence odbl, etc...)
 
