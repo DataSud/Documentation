@@ -18,10 +18,12 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 
 Si l'organisation est déjà existante sur DataSud, l'Utilisateur peut demander et obtenir le statut de Contributeur ou Référent après son inscription.
 
+.. image:: CaptureDataSudFirstConnect.PNG
+
 Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
 Il faut donc patienter un peu. 
 
-Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail, hotmail,...) et dont le nom de domaine ne peut correspondre à l'organisation pour laquelle il demande de contribuer, ne peut se rattacher, contribuer ou devenir référent d'une Organisation.
+.. note:: **Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail, hotmail,...) et dont le nom de domaine ne peut correspondre à l'organisation pour laquelle il demande de contribuer, ne peut se rattacher, contribuer ou devenir référent d'une Organisation**
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, un statut de Contributeur ou de Référent, sans avis préalable.*
 
@@ -31,7 +33,8 @@ Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail,
 * Il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
 * Il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : soit décider de les rendre accessible à tous, soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits ou bien à une Organisation choisie comme sa propre Organisation propriétaire du Jeu de données.
 
-.. image:: CaptureDataSudFirstConnect.PNG
+
+.. image:: InscriptionDataSud.PNG
 
 .. image:: devenir_contributeur.PNG
 
