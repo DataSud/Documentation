@@ -1,8 +1,7 @@
 ===================
 Espace utilisateurs
-====================
+===================
 
-<<<<<<< HEAD
 S'il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes, le fait de s'enregistrer sur DataSud https://publier.datasud.fr permet de disposer des fonctionnalités complémentaires par rapport à la consultation sans inscription.
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut s'inscrire sur DataSud et ainsi contribuer à l'ouverture et la mise en commun des données publiques ou privées, en publiant des jeux de données, des textes, des ressources et des commentaires.
@@ -32,7 +31,6 @@ DataSud propose cependant un certain nombre de services (amenés à être renfor
 S'inscrire sur DataSud 
 -------------------------------------------
 
-<<<<<<< HEAD
 - L'utilisateur enregistre son identité qui est distincte de la personne morale qu'il représente.
 =======
 Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes. L'inscription permet cependant à l'utilisateur de disposer de fonctionnalités complémentaires.
@@ -47,19 +45,16 @@ Il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catal
 
 .. image:: CaptureDataSudConnect.PNG
 
-<<<<<<< HEAD
 .. image:: CaptureDataSudSubscribe.PNG 
 
 - l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
 =======
 .. image:: CaptureDataSudSubscribe.PNG
->>>>>>> master
 
 -------------------------------------------
 Participer à DataSud
 -------------------------------------------
 
-<<<<<<< HEAD
 De nombreuses fonctionnalités participatives sont proposées :
 
 - Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
