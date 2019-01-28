@@ -1,4 +1,4 @@
-===================
+==================
 Espace consultation
 ===================
 
@@ -14,8 +14,11 @@ Rechercher des données sur DataSud
 -------------------------------------------
 
 Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d'effectuer des recherches par thématique, selon la fréquence de mise à jour, par format ou uniquement les jeux de données associés à une organisation.
+<<<<<<< HEAD
 
 .. image:: Trouver_donnees.png
+=======
+>>>>>>> master
 
 L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
 

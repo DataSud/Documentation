@@ -1,4 +1,4 @@
-Bienvenue dans la documentation de DataSud.fr
+Bienvenue dans la documentation de DataSud
 =============================================
 
 Cette documentation est organisée en plusieurs guides, chacun correspondant à un usage particulier de la plateforme.
@@ -6,7 +6,6 @@ Le catalogue des données et des ressources disponibles sont amenés à évoluer
 
 .. toctree::
   :maxdepth: 3
- consultation
  utilisateurs
  contributeurs
  developpeurs/index
