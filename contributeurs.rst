@@ -88,7 +88,7 @@ Etape n°1 : Renseigner les métadonnées
 
 .. image:: Edit_newdataset1.PNG
 
-.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau mot pour lier votre jeu de donnée à d'autres jeux similaires.
+.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau afin de permettre de relier votre jeu de donnée à d'autres jeux similaires inscrit au catalogue de DataSud.
 
 .. image:: Edit_newdataset2.PNG
 
