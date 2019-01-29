@@ -32,10 +32,6 @@ Il faut donc patienter un peu.
 * Il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : soit décider de les rendre accessible à tous, soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits ou bien à une Organisation choisie comme sa propre Organisation propriétaire du Jeu de données.
 
 
-.. image:: InscriptionDataSud.PNG
-
-
-
 **Un Référent des données de l'Organisation, à laquelle il appartient, dispose des fonctionnalités suivantes :**
 
 * Il peut éditer ou supprimer un jeu de données créé et publié par un autre Contributeur de l'Organisation,
@@ -77,12 +73,13 @@ La première fois que le contributeur édite la page de son organisation, il lui
 Publier un jeu de données
 --------------------------
 
-* Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
+* Pour publier un jeu de donner le Contributeur se connecte avec son identifiant et mot de passe sur https://publier.datasud.fr
 
+.. image:: InscriptionDataSud.PNG
 
 **La publication se fait en deux étapes successives:** 
 
-Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, quel que soit son support, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
+Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
