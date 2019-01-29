@@ -86,7 +86,7 @@ Tout d'abord on renseigne les métadonnées servant à définir ou décrire le j
 Etape n°1 : Renseigner les métadonnées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: CaptureDataSudAddDataset.PNG
+.. image:: Edit_newdataset1.PNG
 
 **Les métadonnées obligatoires sont les suivantes :**
 
