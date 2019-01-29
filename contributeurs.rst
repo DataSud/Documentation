@@ -108,6 +108,8 @@ Etape n°1 : Renseigner les métadonnées
 
 - Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
 - Mots-clés
+- Fréquence de mise à jour à choisir dans le liste déroulante : 
+"Lorsque nécessaire; Non planifiée; Irrégulière; Continue; Temps réel; Journalière; Hebdomadaire; Bi-mensuelle; Mensuelle; Trimestrielle; Bi-annuelle; Annuelle; Inconnue"
 - Type de données
 - Meta-données INSPIRE
 - Fréquence de mise à jour
