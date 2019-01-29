@@ -61,7 +61,7 @@ Editer la page d'une Organisation
 ----------------------------------------------
 
 
-Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
+Pour éditer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
 
 .. image:: Onglet_organisation.PNG
 
@@ -87,6 +87,10 @@ Etape n°1 : Renseigner les métadonnées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: Edit_newdataset1.PNG
+
+.. image:: Edit_newdataset2.PNG
+
+.. image:: Edit_newdataset3.PNG
 
 **Les métadonnées obligatoires sont les suivantes :**
 
