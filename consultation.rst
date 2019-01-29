@@ -39,4 +39,7 @@ Si vous recherchez un jeu de donnée qui ne figure pas au catalogue de DataSud, 
 
   **Vous pouvez déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional à l'adresse suivante : https://www.datasud.fr/demande-de-donnees**   
 
-`« Voir le passage sur la demande de documents administratif »<https://datasud.readthedocs.io/fr/latest/cadre_legal.html#faire-une-demande-d-acces-a-un-document-administratif-ou-a-des-donnees/>`_
+`« Voir le passage sur la demande de documents administratif » <https://datasud.readthedocs.io/fr/latest/cadre_legal.html#faire-une-demande-d-acces-a-un-document-administratif-ou-a-des-donnees/>`_
+
+
+`« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
