@@ -33,13 +33,10 @@ Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux 
 
 Dans le respect des conditions générales d’utilisation de DataSud, chaque jeux de données est publié avec une licence ( licences ouvertes, licence odbl, etc...), choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation. 
 
-`« Voir le passage sur le Cadre légal et réglementaire  »<https://datasud.readthedocs.io/fr/latest/cadre_legal.html/>`
+`« Voir le passage sur le Cadre légal et réglementaire » <https://datasud.readthedocs.io/fr/latest/cadre_legal.html/>`_
 
 Si vous recherchez un jeu de donnée qui ne figure pas au catalogue de DataSud, vous pouvez utiliser le service de "demande de données" Toute demande sera étudiée et une réponse vous sera apportée. Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
 
   **Vous pouvez déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional à l'adresse suivante : https://www.datasud.fr/demande-de-donnees**   
 
 `« Voir le passage sur la demande de documents administratif » <https://datasud.readthedocs.io/fr/latest/cadre_legal.html#faire-une-demande-d-acces-a-un-document-administratif-ou-a-des-donnees>`_
-
-
-`« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
