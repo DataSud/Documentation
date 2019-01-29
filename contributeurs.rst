@@ -88,6 +88,8 @@ Etape n°1 : Renseigner les métadonnées
 
 .. image:: Edit_newdataset1.PNG
 
+.. note::  :: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau mot pour lier votre jeu de donnée à d'autres jeux similaires.
+
 .. image:: Edit_newdataset2.PNG
 
 .. image:: Edit_newdataset3.PNG
@@ -96,11 +98,11 @@ Etape n°1 : Renseigner les métadonnées
 
 - Titre
 - Organisation à laquelle est rattaché ce jeu de données
-- Descriptif
-- Licence
+- Descriptif  : C'est est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
 - Dates (par défaut)
+- Licence
 
-.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée ! ::
+
 
 **Les métadonnées facultatives sont les suivantes :**
 
