@@ -31,11 +31,9 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
-Dans le respect des conditions générales d’utilisation de DataSud, chaque jeux de données est publié avec une licence, choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation. 
+Dans le respect des conditions générales d’utilisation de DataSud, chaque jeux de données est publié avec une licence ( licences ouvertes, licence odbl, etc...), choisie par le producteur de la donnée, dans le but de définir les conditions de leur réutilisation. 
 
-([Voir le passage sur le Cadre légal et réglementaire](https://datasud.readthedocs.io/fr/latest/cadre_legal.html) 
-licences ouvertes, licence odbl, etc...)
-
+`« Voir le passage sur le Cadre légal et réglementaire  »<https://datasud.readthedocs.io/fr/latest/cadre_legal.html/>`
 
 Si vous recherchez un jeu de donnée qui ne figure pas au catalogue de DataSud, vous pouvez utiliser le service de "demande de données" Toute demande sera étudiée et une réponse vous sera apportée. Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
 
