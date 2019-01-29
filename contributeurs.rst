@@ -99,14 +99,14 @@ Etape n°1 : Renseigner les métadonnées
 - Titre
 - Organisation à laquelle est rattaché ce jeu de données
 - Descriptif  : C'est est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
-- Dates (par défaut)
+- Dates de création , de dernière modification et de publication (par défaut, c'est la date du jour qui s'affiche); la date de modification se met à jour automatiquement lorsque vous enregistrer des modifications sur les ressources.
 - Licence
 
 
 
 **Les métadonnées facultatives sont les suivantes :**
 
-- Thématiques
+- Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
 - Mots-clés
 - Type de données
 - Meta-données INSPIRE
