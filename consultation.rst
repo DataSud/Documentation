@@ -39,6 +39,6 @@ licences ouvertes, licence odbl, etc...)
 
 Si vous recherchez un jeu de donnée qui ne figure pas au catalogue de DataSud, vous pouvez utiliser le service de "demande de données" Toute demande sera étudiée et une réponse vous sera apportée. Nous relayerons le cas échéant votre demande à la collectivité ou à l'organisme concerné.
 
-  **Vous pouvez déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional à l'adresse suivante : [https://www.datasud.fr/demande-de-donnees](https://www.datasud.fr/demande-de-donnees)**   
+  **Vous pouvez déposer une demande d'accès à un document administratif ou à un jeu de données relatif au territoire régional à l'adresse suivante : https://www.datasud.fr/demande-de-donnees**   
 
 [Voir le passage sur la demande de documents administratif](https://datasud.readthedocs.io/fr/latest/cadre_legal.html#faire-une-demande-d-acces-a-un-document-administratif-ou-a-des-donnees)
