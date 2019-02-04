@@ -143,6 +143,7 @@ Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entre
 
 Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière à indiquer : 
 
+* Jamais
 * Quotidienne (tous les jours à minuit)
 * Hebdomadaire (tous les lundis)
 * Bimensuelle (1er et 15 de chaque mois)
@@ -168,7 +169,7 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 **4.	Dépot FTP:**
 
-il faut pour activer au préalble le compte FTP en clilquant sur le lien "ciquez ici"
+il faut pour activer au préalable le compte FTP en cliquant sur le lien "cliquez ici"
 
 .. image:: Upload_ressources_FTP.PNG
 
