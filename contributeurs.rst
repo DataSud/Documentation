@@ -3,8 +3,8 @@ Espace contributeurs
 ====================
 
 
-Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Utilisateurs https://publier.datasud.fr/ 
-(voir Espace Utilisateur) et souhaitant contribuer à l'enrichissement des publications sur la plateforme : 
+Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Utilisateurs https://publier.datasud.fr/ et souhaitant contribuer à l'enrichissement des publications sur la plateforme.
+`« voir la documentation sur les Utilisateurs » <https://datasud.readthedocs.io/fr/latest/utilisateurs.html/>`_ 
 
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
@@ -30,10 +30,6 @@ Il faut donc patienter un peu.
 
 * Il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
 * Il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : soit décider de les rendre accessible à tous, soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits ou bien à une Organisation choisie comme sa propre Organisation propriétaire du Jeu de données.
-
-
-.. image:: InscriptionDataSud.PNG
-
 
 
 **Un Référent des données de l'Organisation, à laquelle il appartient, dispose des fonctionnalités suivantes :**
@@ -65,7 +61,7 @@ Editer la page d'une Organisation
 ----------------------------------------------
 
 
-Pour editer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
+Pour éditer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
 
 .. image:: Onglet_organisation.PNG
 
@@ -77,34 +73,42 @@ La première fois que le contributeur édite la page de son organisation, il lui
 Publier un jeu de données
 --------------------------
 
-* Pour publier un jeu de donner le Contributeur se connecte sur DataSud https://publier.datasud.fr
+* Pour publier un jeu de donner le Contributeur se connecte avec son identifiant et mot de passe sur https://publier.datasud.fr
 
+.. image:: InscriptionDataSud.PNG
 
 **La publication se fait en deux étapes successives:** 
 
-Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, quel que soit son support, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
+Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Etape n°1 : Renseigner les métadonnées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: CaptureDataSudAddDataset.PNG
+.. image:: Edit_newdataset1.PNG
+
+.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau afin de permettre de relier votre jeu de donnée à d'autres jeux similaires inscrit au catalogue de DataSud.
+
+.. image:: Edit_newdataset2.PNG
+
+.. image:: Edit_newdataset3.PNG
 
 **Les métadonnées obligatoires sont les suivantes :**
 
 - Titre
 - Organisation à laquelle est rattaché ce jeu de données
-- Descriptif
-- Licence
-- Dates (par défaut)
+- Descriptif  : C'est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
+- Dates de création, de dernière modification et de publication : la valeur par défaut indique la date du jour et la date de modification se met à jour automatiquement lorsque vous enregistrez des modifications sur les ressources.
+- Licence : Selectionner une licence parmi celles qui sont proposées: Creative Commons attribution 4.0; Licence ouverte V2.0; Creative Commons cc-by-nc-nd 3.0, Open data base Licence V1.0 ou une Licence Spécifique.
 
-.. note:: le descriptif est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée ! ::
+
 
 **Les métadonnées facultatives sont les suivantes :**
 
-- Thématiques
+- Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
 - Mots-clés
+- Fréquence de mise à jour à choisir dans le liste déroulante : Lorsque nécessaire; Non planifiée; Irrégulière; Continue; Temps réel; Journalière; Hebdomadaire; Bi-mensuelle; Mensuelle; Trimestrielle; Bi-annuelle; Annuelle; Inconnue.
 - Type de données
 - Meta-données INSPIRE
 - Fréquence de mise à jour
@@ -207,5 +211,6 @@ Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE
+
 
 
