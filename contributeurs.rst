@@ -139,7 +139,7 @@ il faut préciser si le jeu de donnée est disponible en tant que Données brute
 
 Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
 
-.. image:: CaptureDataSudAddResourceSync.PNG
+.. image:: Upload_ressources_URL.PNG
 
 Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière à indiquer : 
 
@@ -164,9 +164,13 @@ En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer q
 Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez précisement l'adresse URL de téléchargement de la donnée. qui reste hebergée chez son producteur. 
 Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
+.. image:: Upload_ressources_ref_URL.PNG
 
+**4.	Dépot FTP:**
 
+il faut pour activer au préalble le compte FTP en clilquant sur le lien "ciquez ici"
 
+.. image:: Upload_ressources_FTP.PNG
 
 --------------------------------------------------
 Datastore et données intelligentes
