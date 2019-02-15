@@ -222,8 +222,7 @@ Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE.
-Utilisation du formulaire mdEdit
-Formulaire GEO
+Afin d'être conforme avec la règlementation INSPIRE, les contributeurs ont la possibilité de renseigner un plus grand nombre d'informations sur leur jeu de données. 
 
 
 
