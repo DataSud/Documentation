@@ -119,7 +119,7 @@ Etape n°1 : Renseigner les métadonnées
 Etape n°2 : Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il existe quatre manières différentes d'ajouter un jeu de données :
+Il existe trois manières différentes d'ajouter un jeu de données :
 
 **1.	Téléverser manuellement un fichier depuis votre poste local:** 
 
