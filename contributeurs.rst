@@ -119,10 +119,10 @@ Etape n°1 : Renseigner les métadonnées
 Etape n°2 : Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Lors de la publication d'une ressource il faut préciser s'il s'agit de Données brutes ou d'une documentation associée au jeu de donnée pour permettre aux visiteurs de DataSud d'avoir des informations complémentaires (plaquettes de communications, affiches, photographie, site internet....). 
+Lors de la publication, le type de ressource doit être précisé. Il peut s'agir de **données brutes** du jeu de données, proposées dans un format permettant la modification, ou de **documentations associées** au jeu de donnée, qui permettent aux visiteurs de DataSud d'obtenir plus d'informations (plaquettes de communications, affiches, photographie, site internet....). 
 
 Datasud détecte automatiquement le format des ressources publiées. 
-Si il s'agit de données géographiques (GeoJSON, Shapfiles, MapInfo, ...) des services géographiques associés à ces données sont automatiquement déclenchés tels que l'emission de flux WMS et WFS, l'accessibilité à ces ressources via l'extracteur de données du CRIGE ou encore la publication de fait de la ressource au format GeoJSON. *Les données au format Shapefiles ou MapInfo devront être poussées dans un zip, déclaré sur Datasud comme 'Shapefile (Fichier Zip)' ou 'Mapinfo (Fichier ZIP)'*. 
+Si il s'agit de **données géographiques (GeoJSON, Shapfiles, MapInfo, ...)** des services géographiques associés à ces données sont automatiquement déclenchés tels que l'emission de flux WMS et WFS, l'accessibilité à ces ressources via l'extracteur de données du CRIGE ou encore la publication de fait de la ressource au format GeoJSON. Les données au format Shapefiles ou MapInfo devront être poussées dans **un zip, déclaré sur Datasud comme 'Shapefile (Fichier Zip)' ou 'Mapinfo (Fichier ZIP)'**. 
 
 Il existe quatre manières différentes d'ajouter un jeu de données :
 
