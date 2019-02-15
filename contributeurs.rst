@@ -222,6 +222,7 @@ Renseigner les métadonnées INSPIRE
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE.
 Utilisation du formulaire mdEdit
+Formulaire GEO
 
 
 
