@@ -9,6 +9,12 @@ Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Uti
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
 -----------------------------------------------------------------------------
+Qu'est-ce qu'un contributeur ?
+-----------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------
 Devenir Contributeur et Référent pour une organisation
 -----------------------------------------------------------------------------
 
