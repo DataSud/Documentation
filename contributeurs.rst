@@ -165,6 +165,10 @@ il faut pour activer au préalable le compte FTP en cliquant sur le lien "clique
 
 .. image:: Upload_ressources_FTP.PNG
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Etape n°3 (optionnelle) : Publier une métadonnée INSPIRE
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 --------------------------------------------------
 Datastore et données intelligentes
 --------------------------------------------------
@@ -204,9 +208,10 @@ Géolocalisation des données tabulaires (XLS et CSV)
 -----------------------------------------------------
 
 Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. 
-Pour cela vous devez intituler deux colonnes du tableau "latitude" et "longitude".
+Pour cela vous devez intituler deux colonnes du tableau "latitude" et "longitude" OU "lat" et "lon" OU "Y" et "X".
 
-Projections : en cours de rédaction.
+Celles-ci doivent être en exprimées en angles, avec des décimales séparées par un point et non une virgule, avec pour référentiel le système géodésique mondiale (`WGS84<https://fr.wikipedia.org/wiki/WGS_84>`_) pour être interprétées par DATASUD. À titre d'exemple, le centre de Marseille a pour coordonnées "43.2803692" et "5.31045872".
+
 
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
