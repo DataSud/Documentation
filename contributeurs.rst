@@ -168,6 +168,12 @@ il faut pour activer au préalable le compte FTP en cliquant sur le lien "clique
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Etape n°3 (optionnelle) : Publier une métadonnée INSPIRE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les jeux de données rentrant dans le champ de la Directive INSPIRE doivent faire l'objet d'une description standardisée. Cette description suit dans les grandes lignes le standard ISO19115 : https://www.iso.org/standard/53798.html.
+
+Afin d'être conforme avec la règlementation INSPIRE, tous les contributeurs ont la possibilité de renseigner un plus grand nombre d'informations sur leur jeu de données grâce à un formulaire spécifique. 
+
+Ce formulaire est accessible dans votre Espace Utilisateur https://publier.datasud.fr/ depuis l'onglet "Mes jeux de données" en sélectionnant un jeu de données à éditer et en sélectionnant "Editer la métadonnée INSPIRE" dans le menu qui s'affiche.
+
 
 --------------------------------------------------
 Datastore et données intelligentes
@@ -212,13 +218,11 @@ Pour cela vous devez intituler deux colonnes du tableau "latitude" et "longitude
 
 Celles-ci doivent être en exprimées en angles, avec des décimales séparées par un point et non une virgule, avec pour référentiel le système géodésique mondiale (`WGS84<https://fr.wikipedia.org/wiki/WGS_84>`_) pour être interprétées par DATASUD. À titre d'exemple, le centre de Marseille a pour coordonnées "43.2803692" et "5.31045872".
 
-
 -------------------------------------------------------
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Cette partie de la documentation est en cours de rédaction par le CRIGE.
-Afin d'être conforme avec la règlementation INSPIRE, les contributeurs ont la possibilité de renseigner un plus grand nombre d'informations sur leur jeu de données. 
+
 
 
 
