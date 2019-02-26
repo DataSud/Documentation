@@ -4,7 +4,7 @@
 Espace développeurs
 -------------------------------
 
-Service API Ckan
+Service API CKAN
 ================
 
 Le site **https://trouver.datasud.fr** est construit à partir du système d'information OpenSource dédié à la gestion de catalogues de données `CKAN <http://www.ckan.org/>`_. 
@@ -248,11 +248,10 @@ https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&c
 Service API OGC
 ================
 
-Le site **https://trouver.datasud.fr** intègre des API OGC pour toutes les organisations publiant des données géographiques. Les API OGC sont des API standardisé par l'Open Geospatial Consortium <http://www.opengeospatial.org/> (OGC). Les standards utilisés dans DATASUD sont le `WMS<http://www.opengeospatial.org/standards/wms>`_ (Web Mapping Service), le WFS (Web Feature Service) et le CSW (Catalog Service for the Web) 
+Le site **https://trouver.datasud.fr** intègre des API OGC pour toutes les organisations publiant des données géographiques. Les API OGC sont des API standardisé par l'Open Geospatial Consortium <http://www.opengeospatial.org/> (OGC). Les standards utilisés dans DATASUD sont le `WMS <http://www.opengeospatial.org/standards/wms/>`_(Web Mapping Service), le WFS (Web Feature Service) et le CSW (Catalog Service for the Web) 
 
 Service WMS
 ===========
-
 En cours.
 
 
