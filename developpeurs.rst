@@ -103,7 +103,7 @@ http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
 .. note:: le mot "package" qu'on trouve dans certaines requête et dans la documentation CKAN correspond à un jeu de donnée.
 
 
-Construire une requête pour l'API
+Construire une requête pour l'API CKAN DATA
 =================================
 
 Pour appeler l'API CKAN, postez un dictionnaire JSON dans une requête HTTP POST sur l'une des URL d'API de CKAN. Les paramètres de la fonction API doivent être indiqués dans le dictionnaire JSON. CKAN retournera également sa réponse dans un dictionnaire JSON.
@@ -185,7 +185,7 @@ avec ce code Python ::
 
 
 
-Versions de l'API
+Versions de l'API CKAN
 =================
 Les API CKAN sont versionnées. Si vous faites une demande à une URL d'API sans
 numéro de version, CKAN choisira la dernière version de l'API::
@@ -244,6 +244,11 @@ https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&c
 
 .. note :: Cela ne fonctionne qu'avec les requêtes GET
 
+
+Service API OGC
+================
+
+Le site **https://trouver.datasud.fr** intègre des API OGC pour toutes les organisations publiant des données géographiques. Les API OGC sont des API standardisé par l'Open Geospatial Consortium<http://www.opengeospatial.org/> (OGC). Les standards utilisés dans DATASUD sont le WMS<http://www.opengeospatial.org/standards/wms> (Web Mapping Service), le WFS (Web Feature Service) et le CSW (Catalog Service for the Web) 
 
 Service WMS
 ===========
