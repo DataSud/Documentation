@@ -6,21 +6,38 @@ Espace contributeurs
 Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Utilisateurs https://publier.datasud.fr/ et souhaitant contribuer à l'enrichissement des publications sur la plateforme.
 `« voir la documentation sur les Utilisateurs » <https://datasud.readthedocs.io/fr/latest/utilisateurs.html/>`_ 
 
-.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
+.. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut publier des données sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
+
+Plus précisément, vous pouvez publier des données sur datasud.fr :
+
+    * Si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas de secrets.
+    * Si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre.
+   *  Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
+   * + publication des données pribées ?
 
 -----------------------------------------------------------------------------
-Qu'est-ce qu'un contributeur ?
+Qu'est-ce qu'un Contributeur ?
 -----------------------------------------------------------------------------
 
+Un Contributeur dispose des fonctionnalités suivantes :
 
+* il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
+* il peut définir le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation :
+** soit décider de les rendre accessible à tous (Tous les utilisateurs) - solution par défaut, 
+** soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits,
+** soit en restreindre l'accès à une ou plusieurs Organisations choisies,
+** soit en restreint l'accès aux Membres de l'Organisation propriétaire du Jeu de données.
 
 -----------------------------------------------------------------------------
-Devenir Contributeur et Référent pour une organisation
+Devenir Contributeur pour une Organisation
 -----------------------------------------------------------------------------
 
-Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
+Un Contributeur est un Utilisateur inscrit à DATASUD. Un Contributeur peut demander à contribuer pour une ou plusieurs Organisations.
+Il peut le faire 
+* soit au moment de l'inscription en tant qu'utilisateur de DATASUD en cochant la case "Devenir un contributeur",
+* soit dans son Espace utilisateur, rubrique Organisation
 
-.. note:: **La création d'une nouvelle organisation peut-être effectuée soit au moment de l'inscription comme utilisateur de DataSud, soit après la validation du profil Utilisateur par les Administrateurs de DataSud**.
+À la première connexion,...
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
@@ -32,48 +49,16 @@ Il faut donc patienter un peu.
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, une organisation, un statut de Contributeur ou de Référent, sans avis préalable.*
 
 
-**Un Contributeur dispose des fonctionnalités suivantes :**
+Qui peut publier
 
-* Il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
-* Il peut accorder le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation : soit décider de les rendre accessible à tous, soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits ou bien à une Organisation choisie comme sa propre Organisation propriétaire du Jeu de données.
+Tout le monde peut publier des données sur data.gouv.fr, du moment qu’il s’agit de données d’intérêt public.
 
+Plus précisément, vous pouvez publier des données sur data.gouv.fr :
 
-**Un Référent des données de l'Organisation, à laquelle il appartient, dispose des fonctionnalités suivantes :**
+    Si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas de secrets.
+    Si vous enrichissez ou complétez des données publiques pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre.
+    Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
 
-* Il peut éditer ou supprimer un jeu de données créé et publié par un autre Contributeur de l'Organisation,
-* Il peut accorder le niveau d'accès aux ressources et jeux de données de toutes les publications de son Organisation,
-* Il peut autoriser ou supprimer le statut de Contributeur aux Utilisateurs,
-* Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
-
-----------------------------------------------
-Créer une Organisation
-----------------------------------------------
-
-Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
-
-.. image:: Creation_orga.PNG
-
-La dénomination sociale est obligatoire
-
-.. image:: Creation_orga1.PNG
-
-La description est facultative mais fortement conseillée, d'une part pour permettre de qualifier l'Organisation et sa démarche en matière d'ouverture des données publiques et géographiques et d'autre part pour permettre l'implementation automatique d'une page web spécifique à propos de l'organisation.
-
-.. image:: Creation_orga2.PNG
-
-
-----------------------------------------------
-Editer la page d'une Organisation
-----------------------------------------------
-
-
-Pour éditer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
-
-.. image:: Onglet_organisation.PNG
-
-La première fois que le contributeur édite la page de son organisation, il lui sera demandé de définir le territoire de compétence de l'organisation. La création de ce territoire de compétences permet de bénéficier de fonctionnalités spatiales supplémentaires dans DataSud. Cette demande est traitée par un administrateur du CRIGE.
-
-.. image:: Territoire_competence.PNG
 
 --------------------------
 Publier un jeu de données
