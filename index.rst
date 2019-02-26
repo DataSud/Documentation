@@ -11,7 +11,7 @@ La version 2 de DATASUD est disponible depuis le 13 mars 2018.
  utilisateurs
  contributeurs
  referents
- developpeurs/index
+ developpeurs
  cadre_legal
  regles_editoriales
 
