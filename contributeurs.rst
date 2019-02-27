@@ -160,7 +160,7 @@ Les données au format Shapefiles ou MapInfo devront être poussées dans **un z
 
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Publier une métadonnée INSPIRE
+Renseigner une métadonnée INSPIRE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Les jeux de données rentrant dans le champ de la Directive INSPIRE doivent faire l'objet d'une description standardisée. Cette description suit dans les grandes lignes le standard ISO19115 : https://www.iso.org/standard/53798.html.
 
@@ -170,8 +170,12 @@ Ce formulaire est accessible dans votre Espace Utilisateur https://publier.datas
 
 
 --------------------------------------------------
-Datastore et données intelligentes
+Les services ajoutés
 --------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Datastore et données intelligentes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre des **services dits "intelligents" sur les données tabulaires aux formats CSV, XLS, GeoJSON, SHP**.
 
@@ -203,20 +207,34 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 * si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur. ::
 
 
------------------------------------------------------
-Géolocalisation des données tabulaires (XLS et CSV)
------------------------------------------------------
+**Géolocalisation des données tabulaires (XLS et CSV)**
 
 Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. 
 Pour cela vous devez intituler deux colonnes du tableau "latitude" et "longitude" OU "lat" et "lon" OU "Y" et "X".
 
 Celles-ci doivent être en exprimées en angles, avec des décimales séparées par un point et non une virgule, avec pour référentiel le système géodésique mondiale (`WGS84<https://fr.wikipedia.org/wiki/WGS_84>`_) pour être interprétées par DATASUD. À titre d'exemple, le centre de Marseille a pour coordonnées "43.2803692" et "5.31045872".
 
--------------------------------------------------------
-Renseigner les métadonnées INSPIRE
--------------------------------------------------------
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le paramétrage des vues
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Un contributeur a la possibilité de paramétrer les vues (la vue par défaut et des vues supplémentaires) visibles par un utilisateur du catalogue. 
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les Géo-Services 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lors de la publication d'un jeu de données géographique, si le format est bien perçu par Datasud comme étant un format géographique, des flux WMS et WFS sont automatiquement déclenchés. Côté catalogue, ils sont disponibles depuis le dataset, dans la partie "services". 
 
+Le contributeur a la possibilité de paramétrer le style des flux WMS. Il peut éditer le flux par défaut, utilisé dans l'affichage du flux côté catalogue.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+L'extracteur Géographique 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La publication d'un jeu de données géographique induit la disponibilité de cette données via l'extracteur de données. 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le moissonnage de données 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
