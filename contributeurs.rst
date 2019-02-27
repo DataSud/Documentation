@@ -36,20 +36,20 @@ Un Contributeur est un Utilisateur inscrit à DATASUD. Un Contributeur peut dema
 Il peut le faire :
 
 * soit au moment de l'inscription en tant qu'utilisateur de DATASUD en cochant la case "Devenir un contributeur",
-* soit dans son Espace utilisateur, rubrique Organisation
+* soit dans son Espace utilisateur, dans la rubrique Organisation en cochant la case "Je souhaite devenir contributeur" après avoir sélectionner l'organisation concernée dans la liste déroulante.
 
 À la première connexion,...
 
 .. image:: CaptureDataSudFirstConnect.PNG
 
-Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
-Il faut donc patienter un peu. 
+Les demandes de statut de Contributeur sont soumises à la validation des Administrateurs de la plateforme ou des Référents des organisations.
+Un mail de confirmation est envoyée lorsque la demande est acceptée.
 
 .. note:: **Par défaut, un Utilisateur qui s'inscrit avec un email personnel (gmail, ymail, hotmail,...) et dont le nom de domaine ne peut correspondre à l'organisation pour laquelle il demande de contribuer, ne peut se rattacher, contribuer ou devenir référent d'une Organisation**
 
 *Les Administrateurs de la Plateforme se réservent la possibilité de révoquer une inscription, une organisation, un statut de Contributeur ou de Référent, sans avis préalable.*
 
-
+--
 Qui peut publier
 
 Tout le monde peut publier des données sur data.gouv.fr, du moment qu’il s’agit de données d’intérêt public.
@@ -65,47 +65,32 @@ Plus précisément, vous pouvez publier des données sur data.gouv.fr :
 Publier un jeu de données
 --------------------------
 
-* Pour publier un jeu de donner le Contributeur se connecte avec son identifiant et mot de passe sur https://publier.datasud.fr
-
-.. image:: InscriptionDataSud.PNG
-
-**La publication se fait en deux étapes successives:** 
-
-Tout d'abord on renseigne les métadonnées servant à définir ou décrire le jeu de données qui sera publié, puis on ajoute des jeux de données brutes ou des ressources complémentaires.
-
+Pour publier un jeu de données, le Contributeur se connecte avec son identifiant et mot de passe sur https://publier.datasud.fr
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Etape n°1 : Renseigner les métadonnées
+Renseigner les métadonnées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: Edit_newdataset1.PNG
-
-.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau afin de permettre de relier votre jeu de donnée à d'autres jeux similaires inscrit au catalogue de DataSud.
-
-.. image:: Edit_newdataset2.PNG
-
-.. image:: Edit_newdataset3.PNG
 
 **Les métadonnées obligatoires sont les suivantes :**
 
 - Titre
 - Organisation à laquelle est rattaché ce jeu de données
 - Descriptif  : C'est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
-- Dates de création, de dernière modification et de publication : la valeur par défaut indique la date du jour et la date de modification se met à jour automatiquement lorsque vous enregistrez des modifications sur les ressources.
+- Dates de création, de dernière modification et de publication : La valeur par défaut indique la date du jour. La date de modification se met à jour automatiquement lorsque des modifications sont effectuées sur les ressources.
 - Licence : Selectionner une licence parmi celles qui sont proposées: Creative Commons attribution 4.0; Licence ouverte V2.0; Creative Commons cc-by-nc-nd 3.0, Open data base Licence V1.0 ou une Licence Spécifique.
-
-
 
 **Les métadonnées facultatives sont les suivantes :**
 
 - Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
-- Mots-clés
+- Mots-clés : Plus le nombre de mots clés est important et mieux le jeu de donnée est indexé dans le catalogue
 - Fréquence de mise à jour à choisir dans le liste déroulante : Lorsque nécessaire; Non planifiée; Irrégulière; Continue; Temps réel; Journalière; Hebdomadaire; Bi-mensuelle; Mensuelle; Trimestrielle; Bi-annuelle; Annuelle; Inconnue.
 - Type de données
 - Meta-données INSPIRE
 - Fréquence de mise à jour
 - Couverture régionale
+- Granularité
 
+.. note:: De nombreux mots-clés sont déjà répertoriés et apparaissent dans une liste déroulante dès la saisie des premières lettres du mot. Mieux vaut choisir un mot clés existant plutot que d'en créer un nouveau afin de relier les jeux de données similaires.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Etape n°2 : Publier une ressource
