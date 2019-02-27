@@ -12,8 +12,8 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 
     * Si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas de secrets.
     * Si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre.
-   *  Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
-   * + publication des données pribées ?
+    * Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
+    * + publication des données privées ?
 
 -----------------------------------------------------------------------------
 Qu'est-ce qu'un Contributeur ?
@@ -23,17 +23,18 @@ Un Contributeur dispose des fonctionnalités suivantes :
 
 * il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
 * il peut définir le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation :
-** soit décider de les rendre accessible à tous (Tous les utilisateurs) - solution par défaut, 
-** soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits,
-** soit en restreindre l'accès à une ou plusieurs Organisations choisies,
-** soit en restreint l'accès aux Membres de l'Organisation propriétaire du Jeu de données.
+   * soit décider de les rendre accessible à tous (Tous les utilisateurs) - solution par défaut, 
+   * soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits,
+   * soit en restreindre l'accès à une ou plusieurs Organisations choisies,
+   * soit en restreint l'accès aux Membres de l'Organisation propriétaire du Jeu de données.
 
 -----------------------------------------------------------------------------
 Devenir Contributeur pour une Organisation
 -----------------------------------------------------------------------------
 
 Un Contributeur est un Utilisateur inscrit à DATASUD. Un Contributeur peut demander à contribuer pour une ou plusieurs Organisations.
-Il peut le faire 
+Il peut le faire :
+
 * soit au moment de l'inscription en tant qu'utilisateur de DATASUD en cochant la case "Devenir un contributeur",
 * soit dans son Espace utilisateur, rubrique Organisation
 
