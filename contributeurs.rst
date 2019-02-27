@@ -73,33 +73,30 @@ Renseigner les métadonnées
 
 **Les métadonnées obligatoires sont les suivantes :**
 
-- Titre
-- Organisation à laquelle est rattaché ce jeu de données
-- Descriptif  : C'est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
-- Dates de création, de dernière modification et de publication : La valeur par défaut indique la date du jour. La date de modification se met à jour automatiquement lorsque des modifications sont effectuées sur les ressources.
-- Licence : Selectionner une licence parmi celles qui sont proposées: Creative Commons attribution 4.0; Licence ouverte V2.0; Creative Commons cc-by-nc-nd 3.0, Open data base Licence V1.0 ou une Licence Spécifique.
+- **Titre**
+- **Organisation** à laquelle est rattaché ce jeu de données
+- **Descriptif**  : C'est un champ incontournable pour garantir une bonne réutilisation, car une donnée bien décrite est une donnée bien réutilisée !
+- **Dates de création, de dernière modification et de publication** : La valeur par défaut indique la date du jour. La date de modification se met à jour automatiquement lorsque des modifications sont effectuées sur les ressources.
+- **Licence**
 
 **Les métadonnées facultatives sont les suivantes :**
 
-- Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
-- Mots-clés : Plus le nombre de mots clés est important et mieux le jeu de donnée est indexé dans le catalogue
-- Fréquence de mise à jour à choisir dans le liste déroulante : Lorsque nécessaire; Non planifiée; Irrégulière; Continue; Temps réel; Journalière; Hebdomadaire; Bi-mensuelle; Mensuelle; Trimestrielle; Bi-annuelle; Annuelle; Inconnue.
-- Type de données
-- Meta-données INSPIRE
-- Fréquence de mise à jour
-- Couverture régionale
-- Granularité
+- **Thématiques** : Un jeu de donnée peut-être associé à une ou plusieurs thématiques
+- **Mots-clés** : Plus le nombre de mots clés est important et mieux le jeu de donnée est indexé dans le catalogue
+- **Fréquence de mise à jour**
+- **Type de données**
+- **Meta-données INSPIRE**
+- **Fréquence de mise à jour**
+- **Couverture régionale**
+- **Granularité**
 
 .. note:: De nombreux mots-clés sont déjà répertoriés et apparaissent dans une liste déroulante dès la saisie des premières lettres du mot. Mieux vaut choisir un mot clés existant plutot que d'en créer un nouveau afin de relier les jeux de données similaires.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Etape n°2 : Publier une ressource
+Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Lors de la publication, le type de ressource doit être précisé. Il peut s'agir de **données brutes** du jeu de données, proposées dans un format permettant la modification, ou de **documentations associées** au jeu de donnée, qui permettent aux visiteurs de DataSud d'obtenir plus d'informations (plaquettes de communications, affiches, photographie, site internet....). 
-
-Datasud détecte automatiquement le format des ressources publiées. 
-Si il s'agit de **données géographiques (GeoJSON, Shapfiles, MapInfo, ...)** des services géographiques associés à ces données sont automatiquement déclenchés tels que l'emission de flux WMS et WFS, l'accessibilité à ces ressources via l'extracteur de données du CRIGE ou encore la publication de fait de la ressource au format GeoJSON. Les données au format Shapefiles ou MapInfo devront être poussées dans **un zip, déclaré sur Datasud comme 'Shapefile (Fichier Zip)' ou 'Mapinfo (Fichier ZIP)'**. 
 
 Il existe quatre manières différentes d'ajouter un jeu de données :
 
@@ -151,8 +148,19 @@ il faut pour activer au préalable le compte FTP en cliquant sur le lien "clique
 
 .. image:: Upload_ressources_FTP.PNG
 
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Etape n°3 (optionnelle) : Publier une métadonnée INSPIRE
+Publier une donnée géographique
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Datasud détecte automatiquement le format des ressources publiées.
+
+Si il s'agit de **données géographiques (GeoJSON, Shapfiles, MapInfo, ...)** des services géographiques associés à ces données sont automatiquement déclenchés tels que l'emission de flux WMS et WFS, l'accessibilité à ces ressources via l'extracteur de données du CRIGE ou encore la publication de fait de la ressource au format GeoJSON. 
+
+Les données au format Shapefiles ou MapInfo devront être poussées dans **un zip, déclaré sur Datasud comme 'Shapefile (Fichier Zip)' ou 'Mapinfo (Fichier ZIP)'**. 
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Publier une métadonnée INSPIRE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Les jeux de données rentrant dans le champ de la Directive INSPIRE doivent faire l'objet d'une description standardisée. Cette description suit dans les grandes lignes le standard ISO19115 : https://www.iso.org/standard/53798.html.
 
