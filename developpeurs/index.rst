@@ -267,58 +267,60 @@ Marque blanche
 
 DataSud permet d'intégrer un **catalogue de données en marque blanche sur un site web externe**. Cette fonctionnalité offre l'avantage de valoriser le catalogue de données d'une organisation et plus largement tout sous ensemble du catalogue de données DataSud filtré par une ou plusieurs facettes (organisations, thématiques, formats, licences, recherche par mot clé...).
 
-**La marque blanche est accessible sans restriction et sans autorisation préalable à tout utilisateur, contributeur ou développeur.** 
+**La marque blanche est accessible sans restriction et sans autorisation préalable à tout utilisateur, contributeur ou développeur de DataSud.** 
 
-Techniquement, la marque blanche de DataSud passe par l'intégration de quelques lignes de code HTML à l'endroit souhaité sur une page web  externe ainsi que l'appel à un fichier Javascrit (.JS) et une feuille de style (.CSS). 
+Techniquement, la marque blanche de DataSud passe par l'intégration de quelques lignes de code HTML à l'endroit souhaité sur une page web  externe ainsi que deux appels à un fichier Javascrit (.JS) et une feuille de style CSS (.CSS). 
 
 La marque blanche DataSud a été développée par Neogeo Technologies. Elle est distribuée sur Gitub sous licence MIT. Le code source peut être utilisé pour afficher tout catalogue CKAN sur un site tiers. 
 
-- Code source :
-https://github.com/neogeo-technologies/ckan-widget 
-- Licence :
-https://github.com/neogeo-technologies/ckan-widget/blob/master/LICENSE
-- Les fichiers à inclure et un exemple de code HTML sont disponibles ici : 
-https://github.com/neogeo-technologies/ckan-widget/tree/master/build
+* Code source :
+  https://github.com/neogeo-technologies/ckan-widget 
 
-- Exmeple de code d'implémentation ::
+* Licence :
+  https://github.com/neogeo-technologies/ckan-widget/blob/master/LICENSE
 
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <meta charset="utf-8">
-      <link href="./app.css" rel="stylesheet">
-      <link href="./static/css/main.css" rel="stylesheet">
-      <title>Catalogue CKAN</title>
-    </head>
+* Les fichiers à inclure et un exemple de code HTML sont disponibles ici : 
+  https://github.com/neogeo-technologies/ckan-widget/tree/master/build
 
-    <body>
-      <div id="ckan-widget"></div>
-    </body>
+* Exemple de code d'implémentation ::
 
-    <script src="./static/js/main.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      var config = {
-         // URL du catalogue CKAN cible
-         ckan_api: 'https://trouver.datasud.fr',
-        // Filtres complémentaires optionnels :
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <link href="./app.css" rel="stylesheet">
+        <link href="./static/css/main.css" rel="stylesheet">
+        <title>Catalogue CKAN</title>
+      </head>
 
-        //ckan_organizations: ['org1', 'org2'],
-        //ckan_groups: ['group1'],
-        //ckan_tags: ['tag1'],
-        //ckan_facets: {
-          //res_format: 'HTML',
-      //    datatype: 'type'
-      //  },
+      <body>
+        <div id="ckan-widget"></div>
+      </body>
 
-      // paramétrages de l'affichage :
-        data_sort: 'title_string asc',
-        result_page_size: 25,
-        thumbnails_display: true
-      }
+      <script src="./static/js/main.js" type="text/javascript"></script>
+      <script type="text/javascript">
+        var config = {
+           // URL du catalogue CKAN cible
+           ckan_api: 'https://trouver.datasud.fr',
+          // Filtres complémentaires optionnels :
 
-      ckanWidget.init(config)
-    </script>
-  </html>
+          //ckan_organizations: ['org1', 'org2'],
+          //ckan_groups: ['group1'],
+          //ckan_tags: ['tag1'],
+          //ckan_facets: {
+            //res_format: 'HTML',
+        //    datatype: 'type'
+        //  },
+
+        // paramétrages de l'affichage :
+          data_sort: 'title_string asc',
+          result_page_size: 25,
+          thumbnails_display: true
+        }
+
+        ckanWidget.init(config)
+      </script>
+    </html>
 
 **Paramètres d'intégration de la marque blanche :**
 
