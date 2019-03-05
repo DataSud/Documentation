@@ -287,7 +287,7 @@ La marque blanche DataSud a été développée par Neogeo Technologies. Elle est
 
 * A quoi ressemble la marque blanche ?
 
-.. image:: ././CaptureMarqueBlanche.png
+.. image:: ./../CaptureMarqueBlanche.png
 
 * Exemple de code d'implémentation: ::
 
