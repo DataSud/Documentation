@@ -332,9 +332,9 @@ La marque blanche DataSud a été développée par Neogeo Technologies. Elle est
 
 **Paramètres d'intégration de la marque blanche :**
 
-Le code d'inclusion html et son appel javascript permet :
+Le code d'inclusion html et son appel javascript permettent :
 
-- 1/ De customiser l'interface graphique à travers la modification de la feuilles de styles **app.css**.
+- 1/ De **charter l'interface graphique** à travers la modification de la feuilles de styles **app.css**.
 
 - 2/ De **spécifier les facettes à filtrer** : les organisations (ckan_organizations), les thématiques (ckan_groups), les mots clés (ckan_tags) et plus généralement toute facette (ckan_facets) identifiable dans l'url des résultats d'une recherche effectuée sur DataSud.
 - 3/ De **spécifier comment afficher les résultats** : tri (data_sort), nombre de résultats par page (result_page_size), et intégration d'un vignette (thumbnails_display: true).
