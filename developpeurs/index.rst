@@ -320,11 +320,24 @@ https://github.com/neogeo-technologies/ckan-widget/tree/master/build
     </script>
   </html>
 
+**Paramètres d'intégration de la marque blanche :**
 
-**Quelques exemples d'implémentation :**
+Le code d'inclusion html et son appel javascript permet :
+
+- 1/ De customiser l'interface graphique à travers la modification de la feuilles de styles **app.css**.
+
+- 2/ De **spécifier les facettes à filtrer** : les organisations (ckan_organizations), les thématiques (ckan_groups), les mots clés (ckan_tags) et plus généralement toute facette (ckan_facets) identifiable dans l'url des résultats d'une recherche effectuée sur DataSud.
+- 3/ de **spécifier comment afficher les résultats** : tri (data_sort), nombre de résultats par page (result_page_size), et intégration d'un vignette (thumbnails_display: true).
 
 
-•	Exemple le plus abouti présenté au Département des Hautes-Alpes: http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
-et sa page d’accueil, onglet « Data Hautes-Alpes » pour accéder aux jeux de données : http://beta.crige-paca.org/beta/widget/hautes_alpes/index.html 
-•	Exemple proposé aux services MAMP pour le widget catalogue des données ouvertes de la Métropole AMP : http://beta.crige-paca.org/beta/widget/mamp/index.html 
-•	Sinon exemple générique filtré sur les données géographiques : http://beta.crige-paca.org/beta/widget/crige/index.html
+**Exemples d'intégration :**
+
+
+-	Exemple pour le compte du Département des Hautes-Alpes: 
+http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
+
+- page d’accueil, onglet « Data Hautes-Alpes » pour accéder aux jeux de données : 
+http://beta.crige-paca.org/beta/widget/hautes_alpes/index.html 
+
+-	Exemple de catalogue filtré sur les données géographiques : 
+http://beta.crige-paca.org/beta/widget/crige/index.html
