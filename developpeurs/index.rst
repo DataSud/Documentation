@@ -262,10 +262,10 @@ Service CSW
 En cours.
 
 
-Marque blanche
+Marque blanche ou "widget" DataSud
 ==============
 
-DataSud permet d'intégrer un **catalogue de données en marque blanche sur un site web externe**. Cette fonctionnalité offre l'avantage de valoriser le catalogue de données d'une organisation et plus largement tout sous ensemble du catalogue de données DataSud filtré par une ou plusieurs facettes (organisations, thématiques, formats, licences, recherche par mot clé...).
+DataSud permet d'intégrer un **catalogue de données en marque blanche sur un site web externe**. Cette fonctionnalité est également intitulée 'widget'. Elle offre une solution technique pour valoriser le catalogue de données d'une organisation et plus largement de tout sous ensemble du catalogue de données DataSud filtré par une ou plusieurs facettes (organisations, thématiques, formats, licences, recherche par mot clé...).
 
 **La marque blanche est accessible sans restriction et sans autorisation préalable à tout utilisateur, contributeur ou développeur de DataSud.** 
 
@@ -274,15 +274,18 @@ Techniquement, la marque blanche de DataSud passe par l'intégration de quelques
 La marque blanche DataSud a été développée par Neogeo Technologies. Elle est distribuée sur Gitub sous licence MIT. Le code source peut être utilisé pour afficher tout catalogue CKAN sur un site tiers. 
 
 * Code source :
+
   https://github.com/neogeo-technologies/ckan-widget 
 
 * Licence :
+
   https://github.com/neogeo-technologies/ckan-widget/blob/master/LICENSE
 
 * Les fichiers à inclure et un exemple de code HTML sont disponibles ici : 
+
   https://github.com/neogeo-technologies/ckan-widget/tree/master/build
 
-* Exemple de code d'implémentation ::
+* Exemple de code d'implémentation: ::
 
     <!DOCTYPE html>
     <html>
@@ -329,17 +332,11 @@ Le code d'inclusion html et son appel javascript permet :
 - 1/ De customiser l'interface graphique à travers la modification de la feuilles de styles **app.css**.
 
 - 2/ De **spécifier les facettes à filtrer** : les organisations (ckan_organizations), les thématiques (ckan_groups), les mots clés (ckan_tags) et plus généralement toute facette (ckan_facets) identifiable dans l'url des résultats d'une recherche effectuée sur DataSud.
-- 3/ de **spécifier comment afficher les résultats** : tri (data_sort), nombre de résultats par page (result_page_size), et intégration d'un vignette (thumbnails_display: true).
+- 3/ De **spécifier comment afficher les résultats** : tri (data_sort), nombre de résultats par page (result_page_size), et intégration d'un vignette (thumbnails_display: true).
 
 
 **Exemples d'intégration :**
 
-
 -	Exemple pour le compte du Département des Hautes-Alpes: 
 http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
 
-- page d’accueil, onglet « Data Hautes-Alpes » pour accéder aux jeux de données : 
-http://beta.crige-paca.org/beta/widget/hautes_alpes/index.html 
-
--	Exemple de catalogue filtré sur les données géographiques : 
-http://beta.crige-paca.org/beta/widget/crige/index.html
