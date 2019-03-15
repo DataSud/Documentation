@@ -10,7 +10,7 @@ S'il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le cat
 S'inscrire sur DataSud 
 -------------------------------------------
 
-* L'utilisateur enregistre son identité qui est distincte de la personne morale qu'il représente.
+* L'utilisateur enregistre son identité, distincte de la personne morale qu'il représente.
 * En s'inscrivant, l'utilisateur crée un profil sur la Plateforme.
 * En s'inscrivant, l'utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
 
@@ -22,7 +22,6 @@ S'inscrire sur DataSud
 
 - l'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel.
 
-=======
 .. image:: CaptureDataSudSubscribe.PNG
 
 -------------------------------------------
