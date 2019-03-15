@@ -40,12 +40,9 @@ De nombreuses fonctionnalités participatives sont proposées :
 
 * **Qualifier les données**
 	* Noter la qualité d'un jeu de donnée
-	
-.. image:: VuesDataSud.PNG
- 
+	.. image:: VuesDataSud.PNG
 	* Commenter une organisation ou un jeu de données
-	
-.. image:: Commentaires.PNG
+	.. image:: Commentaires.PNG
 
 * **Accéder aux données particulières**
 	* Demander l'accès aux administrateurs à des données réservées sur accès restreint,
