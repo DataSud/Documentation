@@ -1,8 +1,8 @@
 ================================================
-Etre inscrit sur Datasud : l'espace utilisateurs
+Etre inscrit sur Datasud : l'espace utilisateur
 ================================================
 
-S'il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes, le fait de s'enregistrer sur DataSud https://publier.datasud.fr permet de disposer des fonctionnalités complémentaires par rapport à la consultation sans inscription.
+S'il n'est pas nécessaire de s'inscrire sur la plateforme pour consulter le catalogue et télécharger des données ouvertes, s'enregistrer sur DataSud https://publier.datasud.fr permet de disposer de fonctionnalités complémentaires.
 
 .. note:: Toute personne, morale ou physique, publique ou privée, peut s'inscrire sur DataSud et ainsi contribuer à l'ouverture et la mise en commun des données publiques ou privées, en publiant des jeux de données, des textes, des ressources et des commentaires.
 
@@ -11,8 +11,8 @@ S'inscrire sur DataSud
 -------------------------------------------
 
 * L'utilisateur enregistre son identité qui est distincte de la personne morale qu'il représente.
-* En s'inscrivant, l'Utilisateur crée un profil sur la Plateforme.
-* En s'inscrivant, l'Utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
+* En s'inscrivant, l'utilisateur crée un profil sur la Plateforme.
+* En s'inscrivant, l'utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
 
 .. note:: *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
 
@@ -20,7 +20,8 @@ S'inscrire sur DataSud
 
 .. image:: CaptureDataSudSubscribe.PNG 
 
-- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
+- l'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel.
+
 =======
 .. image:: CaptureDataSudSubscribe.PNG
 
