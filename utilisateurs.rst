@@ -26,30 +26,38 @@ L'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu
 
 
 -------------------------------------------
-Participer à DataSud
+Participer et échanger sur Datasud
 -------------------------------------------
 
 De nombreuses fonctionnalités participatives sont proposées :
 
-* Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
+* **Rentrer en contact**
 * Contacter les administrateurs de DataSud : https://www.datasud.fr/contactez-nous/
 * Contacter directement le producteur ou le diffuseur d'un jeu de données
+
+* **S'abonner à une thématique, une organisation, un jeu de données**
 * Suivre/s'abonner à un jeu de données, une thématique ou une organisation,
+
+* **Qualifier les données**
 * Noter la qualité d'un jeu de donnée,
 .. image:: VuesDataSud.PNG 
+* Commenter une organisation ou un jeu de données 
+.. image:: Commentaires.PNG
 
+* **Accéder aux données particulières**
 * Demander l'accès aux administrateurs à des données réservées sur accès restreint,
 * Accéder aux données et services autorisés pour une organisation.
+* Faire une demande de donnée: https://www.datasud.fr/demande-de-donnees/
 
-
-* Commenter une organisation ou un jeu de données 
-.. image:: Commentaires.PNG 
+* **Réutiliser un jeu de donnée** 
 * Partager un jeu de données ou une ressource sur un autre site ou via des réseaux sociaux
 * Déclarer une réutilisation : https://trouver.datasud.fr/showcase/new
 
 * Participer au contrôle de la qualité de DataSud en signalant les contenus n'ayant pas vocation à y figurer (illicites ou contraires aux CGU).
 
+* **Devenir contributeur ou référent pour une organisation**
 * Créer une nouvelle Organisation ou demander à être rattaché à une Organisation existante (voir rubrique dédiée),
 * Demander à devenir contributeur d’une organisation et éventuellement référent d’une organisation pour maitriser l'ensemble des publications de ladite organisation (voir rubrique dédiée). 
+
 * Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
 
