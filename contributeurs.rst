@@ -22,6 +22,7 @@ Qu'est-ce qu'un Contributeur ?
 Un contributeur dispose des fonctionnalités suivantes :
 
 * il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
+
 * il peut définir le niveau d'accès aux ressources et jeux de données qu'il a crée pour l'organisation :
    * accessible à tous les utilisateurs - solution par défaut, 
    * restriction d'accès à un ou plusieurs utilisateurs inscrits,
