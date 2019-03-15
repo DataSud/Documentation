@@ -1,6 +1,6 @@
-=============================
-Qu'est ce qu'une organisation
-=============================
+==============================
+Qu'est ce qu'une organisation?
+==============================
 
 Les Organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 Il s'agit d'une entité au travers de laquelle plusieurs utilisateurs peuvent collaborer sur des jeux de données.
@@ -13,7 +13,7 @@ Créer une Organisation
 
 * La creation d'une organisation peut se faire lors de l'`inscription sur Datasud <https://publier.datasud.fr/account/create>`_ en cliquant sur **"indiquer une nouvelle organisation"**
 
-* Elle peut également se faire depuis l'espace ORGANISATION d'un membre déjà inscrit sur le portail en cliquant sur **"Ajouter une organisation"**
+* Elle peut également se faire depuis l'espace ORGANISATIONS d'un membre déjà inscrit sur le portail en cliquant sur **"Ajouter une organisation"**
 
 .. note:: Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
 
@@ -32,7 +32,7 @@ Editer la page d'une Organisation
 
 .. note:: Seuls les membres et/ou référents d'une organisation peuvent éditer la page d'une organisation.
 
-La modification d'une page organisation est accessible depuis l'espace ORGANISATION. Le formulaire permet de modifier l'ensembles des champs remplis lors de la crétion de l'organisation.
+La modification d'une page organisation est accessible depuis l'espace ORGANISATIONS. Le formulaire permet de modifier l'ensembles des champs remplis lors de la crétion de l'organisation.
 
 .. image:: Onglet_organisation.PNG
 
