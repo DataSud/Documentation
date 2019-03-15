@@ -10,7 +10,7 @@ Il s'agit d'une entité au travers de laquelle plusieurs utilisateurs peuvent co
 Créer une Organisation
 ----------------------------------------------
 
-.. note:: **La création d'une nouvelle organisation peut se faire pendant ou après l'inscription d'un utilisateur sur Datasud. **
+.. note:: ** La création d'une nouvelle organisation peut se faire pendant ou après l'inscription d'un utilisateur sur Datasud. **
 
 Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
 
