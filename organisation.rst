@@ -11,9 +11,9 @@ Il s'agit d'une entité au travers de laquelle plusieurs utilisateurs peuvent co
 Créer une Organisation
 ----------------------------------------------
 
-* La creation d'une organisation peut se faire lors de `"l'inscription sur Datasud" <https://publier.datasud.fr/account/create>`_ en cliquant sur "indiquer une nouvelle organisation"
+* La creation d'une organisation peut se faire lors de l'`inscription sur Datasud <https://publier.datasud.fr/account/create>`_ en cliquant sur **"indiquer une nouvelle organisation"**
 
-* Elle peut également se faire depuis l'espace ORGANISATION d'un membre déjà inscrit sur le portail par le clic sur "Ajouter une organisation"
+* Elle peut également se faire depuis l'espace ORGANISATION d'un membre déjà inscrit sur le portail en cliquant sur **"Ajouter une organisation"**
 
 .. note:: Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
 
