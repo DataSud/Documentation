@@ -14,17 +14,16 @@ S'inscrire sur DataSud
 * En s'inscrivant, l'utilisateur crée un profil sur la Plateforme.
 * En s'inscrivant, l'utilisateur accepte les `« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
 
-Le `formulaire d'inscription est disponible <https://publier.datasud.fr/account/create>` en cliquant sur S'inscrire/Publier depuis le site www.datasud.fr.
-
-.. note:: *Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_* 
-
 .. image:: CaptureDataSudConnect.PNG
+
+Le `formulaire d'inscription est disponible <https://publier.datasud.fr/account/create>` en cliquant sur S'inscrire/Publier depuis le site www.datasud.fr.
 
 .. image:: CaptureDataSudSubscribe.PNG 
 
-- l'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel.
+* Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_
 
-.. image:: CaptureDataSudSubscribe.PNG
+* l'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel.
+
 
 -------------------------------------------
 Participer à DataSud
