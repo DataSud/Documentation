@@ -20,22 +20,33 @@ Créer une Organisation
 Dans le formulaire d'enregistrement, seule la **dénomination sociale** est obligatoire. Cependant, il est fortement conseillé de renseigner la **description**, d'une part pour permettre de qualifier l'Organisation et sa démarche en matière d'ouverture des données publiques et géographiques et d'autre part pour permettre l'implementation automatique d'une page web spécifique à propos de l'organisation.
 Afin d'améliorer sa visibilité dans le catalogue Datasud, il est également recommandé de télécharger le **logo** de l'organisation.
 
-Le formulaire propose également de sélectionner la licence qui sera utilisée par défaut pour la publication des données de l'organisation.
-
-L'utilisateur peut renseigner son degrès d'implication pour l'organisation en précisant s'il souhaite être simple **membre** (cf. chapitre Espace utilisateur) ou s'il souhaite devenir **référent** (cf. chapitre Espace référent). Il peut également demander à être contributeur de l'organisation (cf. Espace Contributeur).
+Le formulaire propose également de sélectionner la **licence** qui sera utilisée par défaut pour la publication des données de l'organisation.
 
 .. note:: **L'ensemble de ces informations sont modifiables en cliquant sur "Editer l'organisation"**
 
+L'utilisateur peut renseigner son degrès d'implication pour l'organisation en précisant s'il souhaite être simple **membre** (cf. chapitre Espace utilisateur) ou s'il souhaite devenir **référent** (cf. chapitre Espace référent). Il peut également demander à être **contributeur** de l'organisation (cf. Espace Contributeur).
 
 ----------------------------------------------
 Editer la page d'une Organisation
 ----------------------------------------------
 
+.. note:: Seuls les membres et/ou référents d'une organisation peuvent éditer la page d'une organisation.
 
-Pour éditer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
+La modification d'une page organisation est accessible depuis l'espace ORGANISATION. Le formulaire permet de modifier l'ensembles des champs remplis lors de la crétion de l'organisation.
 
 .. image:: Onglet_organisation.PNG
 
-La première fois que le contributeur édite la page de son organisation, il lui sera demandé de définir le territoire de compétence de l'organisation. La création de ce territoire de compétences permet de bénéficier de fonctionnalités spatiales supplémentaires dans DataSud. Cette demande est traitée par un administrateur du CRIGE.
+----------------------------------------------
+Déclarer un territoire de compétence
+----------------------------------------------
+
+.. note:: Seul un référent d'une organisation peut déclarer le territoire de compétence.
+
+Le territoire de compétence de l'organisation représente l'emprise géographique de celle-ci. 
+Sa déclaration permet :
+	* d'améliorer les recherches des utilisateurs
+	* de faciliter l'utilisation des services géographiques fournis par Datasud pour les membres de l'organisation
+
+Depuis l'espace d'édition de la page organisation, il est possible de déclarer le territoire en choisissant une liste de codes INSEE, un nom et un code d'identification (au choix de l'utilisateur). Une demande est adressée aux administrateurs du CRIGE. Aucune autre action n'est requise de la part de l'utilisateur.
 
 .. image:: Territoire_competence.PNG
