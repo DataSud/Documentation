@@ -2,16 +2,17 @@
 Qu'est ce qu'une organisation
 =============================
 
-.. note:: **La création d'une nouvelle organisation peut-être effectuée soit au moment de l'inscription comme utilisateur de DataSud, soit après la validation du profil Utilisateur par les Administrateurs de DataSud**.
-
 Les Organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 Il s'agit d'une entité au travers de laquelle plusieurs utilisateurs peuvent collaborer sur des jeux de données.
+
 
 ----------------------------------------------
 Créer une Organisation
 ----------------------------------------------
 
-Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
+.. note:: **La création d'une nouvelle organisation peut se faire pendant ou après l'inscription d'un utilisateur sur Datasud. **
+
+Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
 
 .. image:: Creation_orga.PNG
 
