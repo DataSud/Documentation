@@ -20,8 +20,8 @@ Le `formulaire d'inscription est disponible <https://publier.datasud.fr/account/
 
 .. image:: CaptureDataSudSubscribe.PNG 
 
-.. note:: 
-**Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_
+.. note:: **Le nom d'utilisateur doit contenir uniquement des caractères alphanumériques en minuscules (ascii) et ces symboles : -_
+
 L'utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel.**
 
 
