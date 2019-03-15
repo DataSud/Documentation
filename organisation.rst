@@ -12,17 +12,16 @@ Créer une Organisation
 
 .. note:: **La création d'une nouvelle organisation peut se faire pendant ou après l'inscription d'un utilisateur sur Datasud**
 
-.. remarque:: Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
+Toute demande de création d'une organisation est soumise aux administrateurs du portail pour validation.
 
-.. image:: Creation_orga.PNG
+Dans le formulaire d'enregistrement, seule la **dénomination sociale** est obligatoire. Cependant, il est fortement conseillé de renseigner la **description**, d'une part pour permettre de qualifier l'Organisation et sa démarche en matière d'ouverture des données publiques et géographiques et d'autre part pour permettre l'implementation automatique d'une page web spécifique à propos de l'organisation.
+Afin d'améliorer sa visibilité dans le catalogue Datasud, il est également recommandé de télécharger le logo de l'organisation via le formulaire.
 
-La dénomination sociale est obligatoire
+Le formulaire propose également de sélectionner la licence qui sera utilisée par défaut pour la publication des données de l'organisation.
 
-.. image:: Creation_orga1.PNG
+L'utilisateur peut renseigner son degrès d'implication pour l'organisation en précisant s'il souhaite être simple **membre** (cf. chapitre Espace utilisateur) ou s'il souhaite devenir **référent** (cf. chapitre Espace référent). Il peut également demander à être contributeur de l'organisation (cf. Espace Contributeur).
 
-La description est facultative mais fortement conseillée, d'une part pour permettre de qualifier l'Organisation et sa démarche en matière d'ouverture des données publiques et géographiques et d'autre part pour permettre l'implementation automatique d'une page web spécifique à propos de l'organisation.
-
-.. image:: Creation_orga2.PNG
+.. note:: **L'ensemble de ces informations sont modifiables en cliquant sur "Editer l'organisation"**
 
 
 ----------------------------------------------
