@@ -39,9 +39,12 @@ De nombreuses fonctionnalités participatives sont proposées :
 	* Suivre/s'abonner à un jeu de données, une thématique ou une organisation,
 
 * **Qualifier les données**
-	* Noter la qualité d'un jeu de donnée,
-.. image:: VuesDataSud.PNG 
-	* Commenter une organisation ou un jeu de données 
+	* Noter la qualité d'un jeu de donnée
+	
+.. image:: VuesDataSud.PNG
+ 
+	* Commenter une organisation ou un jeu de données
+	
 .. image:: Commentaires.PNG
 
 * **Accéder aux données particulières**
