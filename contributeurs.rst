@@ -19,14 +19,16 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 Qu'est-ce qu'un Contributeur ?
 -----------------------------------------------------------------------------
 
-Un Contributeur dispose des fonctionnalités suivantes :
+Un contributeur dispose des fonctionnalités suivantes :
 
 * il peut publier un jeu de données et y ajouter des ressources, sous la forme d’un fichier téléchargeable, d’un lien URL ou d’une API,
-* il peut définir le niveau d'accès aux ressources et jeux de données qu'il a crée pour son organisation :
-   * soit décider de les rendre accessible à tous (Tous les utilisateurs) - solution par défaut, 
-   * soit en restreindre l'accès uniquement à un ou plusieurs Utilisateurs inscrits,
-   * soit en restreindre l'accès à une ou plusieurs Organisations choisies,
-   * soit en restreint l'accès aux Membres de l'Organisation propriétaire du Jeu de données.
+* il peut définir le niveau d'accès aux ressources et jeux de données qu'il a crée pour l'organisation :
+   * accessible à tous les utilisateurs - solution par défaut, 
+   * restriction d'accès à un ou plusieurs utilisateurs inscrits,
+   * restriction à une ou plusieurs organisations choisies,
+   * restriction aux seuls membres de l'organisation propriétaire du jeu de données.
+   
+* il peut paramétrer les services DataSud associés aux jeux de données qu'il publie
 
 -----------------------------------------------------------------------------
 Devenir Contributeur pour une Organisation
