@@ -16,7 +16,7 @@ S'inscrire sur DataSud
 
 .. image:: CaptureDataSudConnect.PNG
 
-Le `formulaire d'inscription est disponible <https://publier.datasud.fr/account/create>` en cliquant sur S'inscrire/Publier depuis le site www.datasud.fr.
+Le `formulaire d'inscription est disponible <https://publier.datasud.fr/account/create>`_ en cliquant sur S'inscrire/Publier depuis le site www.datasud.fr.
 
 .. image:: CaptureDataSudSubscribe.PNG 
 
