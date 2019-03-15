@@ -8,6 +8,7 @@ La version 2 de DATASUD est disponible depuis le 13 mars 2018.
 .. toctree::
   :maxdepth: 3
  consultation
+ organisation
  utilisateurs
  contributeurs
  referents
