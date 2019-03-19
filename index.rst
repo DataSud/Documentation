@@ -20,7 +20,7 @@ Pour quel public ?
 	* Aux entreprises et start-up, à la recherche de données 
 	* Aux citoyens et acteurs de la transparence de l'action publique
 
-.. seealso:: boite voir aussi
+
 
 Quelle données dans DataSud ?
 -----------------------------
@@ -28,13 +28,11 @@ Quelle données dans DataSud ?
 	* Des données ouvertes (Open Data), mais pas seulement(données sensibles, données d'espèces protégées,...),
 	* Des données aux formats ouverts : CSV, JSON, GEOJSON, Shapefile, JPEG2000, GeoTIFF
 
-.. sidebar:: Titre de la sidebar
-	
-	Test de sidebar
+
 	
 Qui peut s'inscrire ?
 ---------------------
-.. warning:: Test de la boite warning
+
 
 Qui peut contribuer ?
 ---------------------
@@ -46,13 +44,7 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
     * Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
     * Si vous produisez des données privées ?
 
-.. topic:: Titre du topic
-	
-	Test
 
-.. todo:: Liste de choses à faire
-   test
-   testtest
 	
 Qu'est-ce qu'une organisation ?
 -------------------------------
@@ -63,6 +55,24 @@ Quels services / fonctionnalités ?
 ----------------------------------
 
 
+
+
+Tests
+-----
+.. seealso:: boite voir aussi
+
+.. sidebar:: Titre de la sidebar
+	
+	Test de sidebar
+	
+.. warning:: Test de la boite warning	
+
+.. topic:: Titre du topic
+	
+	Test
+
+.. todo:: Ecrire les choses à faire
+   
 .. toctree::
    :titlesonly:
 
