@@ -85,7 +85,7 @@ CKAN propose une API permettant d'interroger et de consulter les jeux de donnée
 
 J'ai déja un catalogue
 ----------------------
-Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, .... et DataSud
+Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, ... et DataSud
 
 
 
