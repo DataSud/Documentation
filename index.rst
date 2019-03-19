@@ -63,14 +63,12 @@ Quels services / fonctionnalités ?
 
 .. toctree::
   :maxdepth: 1
+ general
  consultation
- organisation
  utilisateurs
  contributeurs
  referents
  developpeurs
- cadre_legal
- regles_editoriales
 
 .. seealso::
 
