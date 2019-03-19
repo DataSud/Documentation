@@ -15,15 +15,21 @@ Le catalogue de données diffuse des données ouvertes, géographiques et intell
 
 Pour quel public ?
 ------------------
-Aux producteurs de données en région, pour référencer et diffuser leur patrimoine de données \n
-Aux réutilisateurs de données pour chercher des données, et analyser, développer, protéger le territoire \n
-Aux entreprises et start-up, à la recherche de données \n
+Aux producteurs de données en région, pour référencer et diffuser leur patrimoine de données 
+
+Aux réutilisateurs de données pour chercher des données, et analyser, développer, protéger le territoire
+
+Aux entreprises et start-up, à la recherche de données 
+
 Aux citoyens et acteurs de la transparence de l'action publique
+
 
 Quelle données dans DataSud ?
 -----------------------------
-	* Les données produites par votre organisation et diffusables (90% des données d'administration publique),\n
-	* Des données ouvertes (Open Data), mais pas seulement(données sensibles, données d'espèces protégées,...),\n
+	* Les données produites par votre organisation et diffusables (90% des données d'administration publique),
+	
+	* Des données ouvertes (Open Data), mais pas seulement(données sensibles, données d'espèces protégées,...),
+	
 	* Des données aux formats ouverts : CSV, JSON, GEOJSON, Shapefile, JPEG2000, GeoTIFF
 
 Qui peut s'inscrire ?
@@ -33,7 +39,9 @@ Qui peut s'inscrire ?
 Qui peut contribuer ?
 ---------------------
 Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut publier des données sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
+
 Plus précisément, vous pouvez publier des données sur datasud.fr :
+
     * Si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas de secrets.
     * Si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre.
     * Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
@@ -42,6 +50,7 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 Qu'est-ce qu'une organisation ?
 -------------------------------
 Sur DataSud, les organisations sont le plus souvent des personnes morales : autorités administratives, associations, entreprises.
+
 Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
 
 Quels services / fonctionnalités ?
