@@ -63,9 +63,9 @@ Quels services / fonctionnalités ?
 ----------------------------------
 
 
-
 .. toctree::
-  :maxdepth: 1
+   :maxdepth: 1
+
  general
  consultation
  utilisateurs
