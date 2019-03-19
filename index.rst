@@ -87,21 +87,7 @@ J'ai déja un catalogue
 Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, .... et DataSud
 
 
-Tests
------
-.. seealso:: boite voir aussi
 
-.. sidebar:: Titre de la sidebar
-	
-	Test de sidebar
-	
-.. warning:: Test de la boite warning	
-
-.. topic:: Titre du topic
-	
-	Test
-
-.. todo:: Ecrire les choses à faire
 
 .. seealso::
 
