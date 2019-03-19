@@ -34,7 +34,7 @@ DATASUD s'adresse :
 	* aux entreprises et start-up, à la recherche de données et de services performants pour proposer les applications innovantes de demain ;
 	* aux citoyens et acteurs de la transparence de l'action publique.
 
-.. seealso:: boite voir aussi
+
 
 Quels types de données trouve-t-on dans DataSud ?
 -----------------------------
@@ -46,13 +46,11 @@ DATASUD indexe préférentiellement :
 	DATASUD permet également de référencer des données sensibles, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
 	Pour maximiser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF. Elles sont ainsi lisible dans toutes les applications et tous les logiciels.
 
-.. sidebar:: Titre de la sidebar
-	
-	Test de sidebar
+
 	
 Qui peut s'inscrire ?
 ---------------------
-.. warning:: Test de la boite warning
+
 
 Qui peut contribuer ?
 ---------------------
@@ -64,13 +62,7 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
     * Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
     * Si vous produisez des données privées ?
 
-.. topic:: Titre du topic
-	
-	Test
 
-.. todo:: Liste de choses à faire
-   test
-   testtest
 	
 Qu'est-ce qu'une organisation ?
 -------------------------------
@@ -79,7 +71,39 @@ Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collab
 
 Quels services / fonctionnalités ?
 ----------------------------------
+Un **catalogue unique** pour toutes les données tabulaires ou géographiques, proposant un seul **guichet de publication de données simplifiée**. 
+DataSud propose également des outils métier pour les utilisateurs plus experts :
+	* Publication de métadonnées INSPIRE
+	* Publication de flux WMS et WFS
+	* Extracteur de données raster et vecteur
+	* Visualiseurs métier
+	* Catalogue en marque blanche intégrable sur tout site internet
 
+Je suis un développeur
+----------------------
+Utilisation de l'API
+
+
+J'ai déja un catalogue
+----------------------
+Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, .... et DataSud
+
+
+Tests
+-----
+.. seealso:: boite voir aussi
+
+.. sidebar:: Titre de la sidebar
+	
+	Test de sidebar
+	
+.. warning:: Test de la boite warning	
+
+.. topic:: Titre du topic
+	
+	Test
+
+.. todo:: Ecrire les choses à faire
 
 .. seealso::
 
