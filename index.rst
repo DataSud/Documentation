@@ -64,14 +64,14 @@ Quels services / fonctionnalités ?
 
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
- general
- consultation
- utilisateurs
- contributeurs
- referents
- developpeurs
+   general
+   consultation
+   utilisateurs
+   contributeurs
+   referents
+   developpeurs
 
 .. seealso::
 
