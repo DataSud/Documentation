@@ -4,7 +4,20 @@ Bienvenue dans la documentation de DataSud
 
 Cette documentation est organisée en plusieurs guides, chacun correspondant à un usage particulier de la plateforme.
 Le catalogue des données et des ressources disponibles sont amenés à évoluer avec la version 3 de DataSud.
-La version 2 de DATASUD est disponible depuis le 13 mars 2018.
+La version 2 de DATASUD est disponible depuis le 15 décembre 2018.
+
+Table des matières
+----------------------------------
+
+.. toctree::
+   :titlesonly:
+
+   general
+   consultation
+   utilisateurs
+   contributeurs
+   referents
+   developpeurs
 
 DataSud, c'est ...
 ------------------
@@ -15,18 +28,23 @@ Le catalogue de données diffuse des données ouvertes, géographiques et intell
 
 Pour quel public ?
 ------------------
-	* Aux producteurs de données en région, pour référencer et diffuser leur patrimoine de données 
-	* Aux réutilisateurs de données pour chercher des données, et analyser, développer, protéger le territoire
-	* Aux entreprises et start-up, à la recherche de données 
-	* Aux citoyens et acteurs de la transparence de l'action publique
+DATASUD s'adresse : 
+	* aux producteurs de données en région, pour référencer et diffuser leur patrimoine de données à l'échelon régional ;
+	* aux réutilisateurs pour trouver des données, les croiser, les analyser afin de développer le territoire régional ;
+	* aux entreprises et start-up, à la recherche de données et de services performants pour proposer les applications innovantes de demain ;
+	* aux citoyens et acteurs de la transparence de l'action publique.
 
 .. seealso:: boite voir aussi
 
-Quelle données dans DataSud ?
+Quels types de données trouve-t-on dans DataSud ?
 -----------------------------
-	* Les données produites par votre organisation et diffusables (90% des données d'administration publique),
-	* Des données ouvertes (Open Data), mais pas seulement(données sensibles, données d'espèces protégées,...),
-	* Des données aux formats ouverts : CSV, JSON, GEOJSON, Shapefile, JPEG2000, GeoTIFF
+DATASUD indexe préférentiellement : 
+	* Des données ouvertes
+	* Des données intelligentes
+	* Des données géographiques 
+	
+	DATASUD permet également de référencer des données sensibles, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
+	Pour maximiser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF. Elles sont ainsi lisible dans toutes les applications et tous les logiciels.
 
 .. sidebar:: Titre de la sidebar
 	
@@ -62,16 +80,6 @@ Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collab
 Quels services / fonctionnalités ?
 ----------------------------------
 
-
-.. toctree::
-   :titlesonly:
-
-   general
-   consultation
-   utilisateurs
-   contributeurs
-   referents
-   developpeurs
 
 .. seealso::
 
