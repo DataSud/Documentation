@@ -49,7 +49,10 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 .. topic:: Titre du topic
 	
 	Test
-	
+
+.. todo:: Liste de choses à faire
+	test
+	testtest
 	
 Qu'est-ce qu'une organisation ?
 -------------------------------
