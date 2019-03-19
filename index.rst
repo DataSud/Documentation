@@ -6,7 +6,7 @@ Le catalogue des données et des ressources disponibles sont amenés à évoluer
 La version 2 de DATASUD est disponible depuis le 13 mars 2018.
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
  consultation
  organisation
  utilisateurs
