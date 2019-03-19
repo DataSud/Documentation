@@ -59,11 +59,11 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
     * Si vous produisez des données privées ?
 
 
-	
 Qu'est-ce qu'une organisation ?
 -------------------------------
 Sur DataSud, les organisations sont le plus souvent des personnes morales : autorités administratives, associations, entreprises.
 Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
+
 
 Quels services / fonctionnalités ?
 ----------------------------------
@@ -75,9 +75,10 @@ DataSud propose également des outils métier pour les utilisateurs plus experts
 	* Visualiseurs métier
 	* Catalogue en marque blanche intégrable sur tout site internet
 
+	
 Je suis un développeur
 ----------------------
-Le catalogue de DataSud (https://trouver.datasud.fr_ est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données CKAN. 
+Le catalogue de DataSud (https://trouver.datasud.fr) est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données CKAN. 
 
 CKAN propose une API permettant d'interroger et de consulter les jeux de données et leurs ressources référencés dans le catalogue. Elle permet également de requêter et d'exposer directement le contenu (ou une partie du contenu) des ressources tabulaires (CSV, XLS).
 
