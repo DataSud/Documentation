@@ -22,7 +22,7 @@ Pour quel public ?
 
 
 
-Quelle données dans DataSud ?
+Quelles données dans DataSud ?
 -----------------------------
 	* Les données produites par votre organisation et diffusables (90% des données d'administration publique),
 	* Des données ouvertes (Open Data), mais pas seulement(données sensibles, données d'espèces protégées,...),
@@ -53,7 +53,22 @@ Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collab
 
 Quels services / fonctionnalités ?
 ----------------------------------
+Un **catalogue unique** pour toutes les données tabulaires ou géographiques, proposant un seul **guichet de publication de données simplifiée**. 
+DataSud propose également des outils métier pour les utilisateurs plus experts :
+	* Publication de métadonnées INSPIRE
+	* Publication de flux WMS et WFS
+	* Extracteur de données raster et vecteur
+	* Visualiseurs métier
+	* Catalogue en marque blanche intégrable sur tout site internet
 
+Je suis un développeur
+----------------------
+Utilisation de l'API
+
+
+J'ai déja un catalogue
+----------------------
+Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, .... et DataSud
 
 
 
