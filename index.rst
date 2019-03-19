@@ -34,8 +34,6 @@ DATASUD s'adresse :
 	* aux entreprises et start-up, à la recherche de données et de services performants pour proposer les applications innovantes de demain ;
 	* aux citoyens et acteurs de la transparence de l'action publique.
 
-
-
 Quels types de données trouve-t-on dans DataSud ?
 -----------------------------
 DATASUD indexe préférentiellement : 
@@ -46,8 +44,6 @@ DATASUD indexe préférentiellement :
 	DATASUD permet également de référencer des données sensibles, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
 	Pour maximiser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF. Elles sont ainsi lisible dans toutes les applications et tous les logiciels.
 
-
-	
 Qui peut s'inscrire ?
 ---------------------
 
