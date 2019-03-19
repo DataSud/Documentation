@@ -64,6 +64,8 @@ Quels services / fonctionnalités ?
 
 
 .. toctree::
+   :caption: Table des matières
+   :name: mastertoc
    :titlesonly:
 
    general
