@@ -51,8 +51,8 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 	Test
 
 .. todo:: Liste de choses à faire
-	test
-	testtest
+   test
+   testtest
 	
 Qu'est-ce qu'une organisation ?
 -------------------------------
