@@ -77,7 +77,9 @@ DataSud propose également des outils métier pour les utilisateurs plus experts
 
 Je suis un développeur
 ----------------------
-Utilisation de l'API
+Le catalogue de DataSud (https://trouver.datasud.fr_ est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données CKAN. 
+
+CKAN propose une API permettant d'interroger et de consulter les jeux de données et leurs ressources référencés dans le catalogue. Elle permet également de requêter et d'exposer directement le contenu (ou une partie du contenu) des ressources tabulaires (CSV, XLS).
 
 
 J'ai déja un catalogue
