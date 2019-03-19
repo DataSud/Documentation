@@ -14,7 +14,7 @@ Table des matières
 
    general
    consultation
-   utilisateurs
+   Espace utilisateur <utilisateurs>
    contributeurs
    referents
    developpeurs
