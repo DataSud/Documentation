@@ -1,4 +1,5 @@
-.. title:: Documentation de DATASUD
+.. title:: Accueil de la documentation de DATASUD
+
 *****
 Bienvenue dans la documentation de DATASUD
 *****
@@ -7,9 +8,8 @@ Cette documentation est organisée en plusieurs guides, chacun correspondant à 
 Le catalogue des données et des ressources disponibles sont amenés à évoluer avec la version 3 de DataSud.
 La version 2 de DATASUD est disponible depuis le 15 décembre 2018.
 
-#######
 Table des matières
-#######
+==================
 
 .. toctree::
    :titlesonly:
@@ -38,17 +38,20 @@ DATASUD s'adresse :
 
 Quels types de données trouve-t-on dans DataSud ?
 ==================
-DATASUD indexe préférentiellement : 
+DATASUD référence préférentiellement : 
 	* Des données ouvertes
 	* Des données intelligentes
 	* Des données géographiques 
 	
-	DATASUD permet également de référencer des données sensibles, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
-	Pour maximiser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF. Elles sont ainsi lisible dans toutes les applications et tous les logiciels.
+	DATASUD permet également de référencer des données **sensibles**, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
+	Pour favoriser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF.
+	Elles sont ainsi lisibles dans un maximum d'applications et de logiciels.
 
 Qui peut s'inscrire ?
 ==================
 
+.. warning::
+   L'inscription à DATASUD est gratuite et individuelle, sous réserve d'accepter les « conditions d’utilisation » de la plateforme.
 
 Qui peut contribuer ?
 ==================
