@@ -15,7 +15,6 @@ Table des matières
    :titlesonly:
    :maxdepth: 0
  
-   Accueil <index>
    consultation
    Espace utilisateur <utilisateurs>
    contributeurs
