@@ -15,6 +15,7 @@ Table des matières
    :titlesonly:
    :maxdepth: 0
  
+   general
    consultation
    Espace utilisateur <utilisateurs>
    contributeurs
