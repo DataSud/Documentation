@@ -1,12 +1,10 @@
-============================
-Table des matières détaillée
-============================
+.. title:: Sommaire
 
 .. toctree::
-	:caption: Table des matières
+	:caption: Table des matières détaillées
 	:maxdepth: 5
 	:name: tablematiere
-	
+
 	general
 	consultation
 	Espace utilisateur <utilisateurs>
