@@ -47,10 +47,10 @@ DATASUD référence préférentiellement :
 	Pour favoriser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF.
 	Elles sont ainsi lisibles dans un maximum d'applications et de logiciels.
 
-Qui peut s'inscrire ?
+Qui peut s'inscrire à DATASUD ?
 ==================
 
-.. warning::
+.. note::
    Toute personne, morale ou physique peut s'inscrire. L'inscription à DATASUD est gratuite et individuelle, sous réserve d'accepter les « conditions d’utilisation » de la plateforme.
 
 Qui peut publier des données ?
@@ -64,13 +64,14 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
     * si vous produisez des données *privées* ie. accessibles uniquement à certains acteurs, sous réserve de respecter la réglementation en vigueur.
 
 
-Qu'est-ce qu'une organisation ?
+Qu'est-ce qu'une Organisation pour DATASUD ?
 ==================
-Les organisations sont des personnes morales produisant ou intéressées par tout type de données : autorités administratives, établissements publics, associations, entreprises, start-up.
-Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
+Les organisations sont des personnes morales produisant ou intéressées par tout type de données : autorités administratives, établissements publics, associations, entreprises, start-up. Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
+
+Dans DATASUD, plusieurs contributeurs appartenant à des organisations différentes peuvent contribuer pour une organisation, moyennant validation d'un référent de ladite organisation ou d'un administrateur. Exemple : l'utilisateur 'mdupont' membre de l'organisation 'bureau d'étude' peut publier pour l'organisation 'communauté d'agglomération' car l'utilisateur 'dsi' qui est rattachée à celle-ci l'y a préalablement autorisé.
 
 
-Quels services et fonctionnalités fournis DATASUD ?
+Quels services et fonctionnalités sont fournis par DATASUD ?
 ==================
 DATASUD repose sur un **catalogue unique** à l'échelle régionale pour toutes les données tabulaires ou géographiques, proposant un **guichet unique et simplifiée de publication de données**. Ce catalogue sur la technologie 'CKAN <https://ckan.org/>'.
 
@@ -85,7 +86,8 @@ DATASUD propose également des outils métier pour les utilisateurs plus experts
 	* l'extraction de données raster et vecteur à travers l'extracteur de données géographiques du CRIGE ; 
 	* la co-visualisation de données géographiques à travers l'outil de création de visionneuse du CRIGE ; 
 
-Les deux derniers services sont accessibles uniquement aux partenaires du CRIGE.
+.. note::
+	Les deux derniers services sont accessibles uniquement aux partenaires du CRIGE.
 
 Je dispose déjà d'un catalogue de données
 ==================
