@@ -5,7 +5,7 @@ Table des matières détaillée
 .. toctree::
 	:caption: Table des matières
 	:maxdepth: 5
-	:name:tablematiere.
+	:name: tablematiere
 	general
 	consultation
 	Espace utilisateur <utilisateurs>
