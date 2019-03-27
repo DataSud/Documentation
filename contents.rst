@@ -5,7 +5,7 @@
 	:maxdepth: 5
 	:name: tablematiere
 
-	general
+	Accueil <index>
 	consultation
 	Espace utilisateur <utilisateurs>
 	contributeurs
