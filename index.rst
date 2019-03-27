@@ -100,7 +100,7 @@ Pour l'instant, il offre cette possibilité pour les types de catalogues suivant
 
 Si vous êtes dans cette situation et souhaitez référencer vos jeux de données, contactez les administrateurs de Datasud via la formulaire de contact ou sur  contact@datasud.fr en indiquant votre demande.
 	
-Je suis développeur et souhaite utilisez les API de DATASUD
+Je suis développeur et souhaite utiliser les API de DATASUD
 ==================
 Le catalogue de DataSud (https://trouver.datasud.fr) est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données 'CKAN <https://ckan.org/>'. 
 
