@@ -8,6 +8,19 @@ Cette documentation est organisée en plusieurs parties, chacune correspondant �
 Le catalogue des données et des ressources disponibles sont amenés à évoluer avec la version 3 de DataSud.
 La version 2 de DATASUD est disponible depuis le 15 décembre 2018.
 
+Table des matières
+==================
+
+.. toctree::
+   :titlesonly:
+ 
+   general
+   consultation
+   Espace utilisateur <utilisateurs>
+   contributeurs
+   referents
+   developpeurs
+
 DATASUD, c'est ...
 ==================
 DATASUD est une infrastructure de données à l’échelle régionale, accessibles à travers un catalogue de données à l'échelon régional.
