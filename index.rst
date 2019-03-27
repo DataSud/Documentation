@@ -13,8 +13,8 @@ Table des matières
 
 .. toctree::
    :titlesonly:
-
-   general
+ 
+   Accueil <index>
    consultation
    Espace utilisateur <utilisateurs>
    contributeurs
@@ -106,11 +106,6 @@ Le catalogue de DataSud (https://trouver.datasud.fr) est construit à partir du 
 L'application CKAN propose une API REST permettant d'interroger et de consulter les jeux de données et leurs ressources référencés dans le catalogue, soit selon le formalisme de CKAN soit selon le standard DCAT. Elle permet également de requêter et d'exposer directement le contenu (ou une partie du contenu) des ressources tabulaires (CSV, XLS). Vous trouverez plus de détails sur les méthodes offertes ici.
 
 DATASUD offre en plus la possibilité de requêter et d'exposer le contenu des données géographiques selon les standards d'API WMS et WFS grâce à l'outil MapServer. Vous trouverez plus de détails sur les méthodes offertes ici.
-
-
-
-
-
 
 
 .. seealso::
