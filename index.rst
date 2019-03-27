@@ -39,9 +39,9 @@ DATASUD s'adresse :
 Quels types de données trouve-t-on dans DataSud ?
 ==================
 DATASUD référence préférentiellement : 
-	* Des données ouvertes
-	* Des données intelligentes
-	* Des données géographiques 
+	* des données ouvertes ;
+	* des données intelligentes ;
+	* des données géographiques.
 	
 	DATASUD permet également de référencer des données **sensibles**, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
 	Pour favoriser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF.
@@ -51,46 +51,62 @@ Qui peut s'inscrire ?
 ==================
 
 .. warning::
-   L'inscription à DATASUD est gratuite et individuelle, sous réserve d'accepter les « conditions d’utilisation » de la plateforme.
+   Toute personne, morale ou physique peut s'inscrire. L'inscription à DATASUD est gratuite et individuelle, sous réserve d'accepter les « conditions d’utilisation » de la plateforme.
 
-Qui peut contribuer ?
+Qui peut publier des données ?
 ==================
-Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut publier des données sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
+Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut publier des données sur DATASUD, sous réserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
 Plus précisément, vous pouvez publier des données sur datasud.fr :
-    * Si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas de secrets.
-    * Si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre.
-    * Si vous produisez des données d’intérêt public de votre côté, même hors du cadre d’une mission de service public.
-    * Si vous produisez des données privées ?
+    * si vous produisez ou collectez des données dans le cadre d’une mission de service public, à condition que ces données ne contiennent pas d’informations personnelles et qu’elles ne révèlent pas d'informations confidentielles ;
+    * si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre ;
+    * si vous produisez des données d’intérêt public, même hors du cadre d’une mission de service public ;
+    * si vous produisez des données *privées* ie. accessibles uniquement à certains acteurs, sous réserve de respecter la réglementation en vigueur.
 
 
 Qu'est-ce qu'une organisation ?
 ==================
-Sur DataSud, les organisations sont le plus souvent des personnes morales : autorités administratives, associations, entreprises.
+Les organisations sont des personnes morales produisant ou intéressées par les données : autorités administratives, associations, entreprises.
 Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
 
 
-Quels services / fonctionnalités ?
+Quels services et fonctionnalités fournis DATASUD ?
 ==================
-Un **catalogue unique** pour toutes les données tabulaires ou géographiques, proposant un seul **guichet de publication de données simplifiée**. 
-DataSud propose également des outils métier pour les utilisateurs plus experts :
-	* Publication de métadonnées INSPIRE
-	* Publication de flux WMS et WFS
-	* Extracteur de données raster et vecteur
-	* Visualiseurs métier
-	* Catalogue en marque blanche intégrable sur tout site internet
+DATASUD repose sur un **catalogue unique** à l'échelle régionale pour toutes les données tabulaires ou géographiques, proposant un **guichet unique et simplifiée de publication de données**. Ce catalogue sur la technologie 'CKAN <https://ckan.org/>'.
 
+À travers ce catalogue, il permet aux **utilisateurs** de rechercher et de trouver des jeux de données, de les **télécharger en 1-clic**, de s'abonner et de déclarer des réutilisations faites avec des jeux de données de DATASUD.
+Les **producteurs** ou contributeurs de données 
+
+DATASUD propose également des outils métier pour les utilisateurs plus experts :
+	* publication des données tabulaires par API : l'outil CKAN
+	* publication d'API (ou flux) de données géographiques selon les standards WMS et WFS ;
+	* publication de métadonnées INSPIRE : DATASUD offre aux organisations concernées la possibilité d'indexer leurs métadonnées de données géographiques selon le formalisme requis par le Directive INSPIRE ;
+	* catalogage "en marque blanche" intégrable sur tout site internet ou tout portail institutionnel ; 
+	* l'extraction de données raster et vecteur à travers l'extracteur de données géographiques du CRIGE ; 
+	* la co-visualisation de données géographiques à travers l'outil de création de visionneuse du CRIGE ; 
+
+Les deux derniers services sont accessibles uniquement aux partenaires du CRIGE.
+
+Je dispose déjà d'un catalogue de données
+==================
+DATASUD offre la possibilité de "moissonner", c'est-à-dire de référencer des jeux de données publiées sur des catalogues existants. 
+Pour l'instant, il offre cette possibilité pour les types de catalogues suivant :
+	* CKAN 2.*
+	* GeoNetwork 3.*
+	* ISOGEO
+
+Si vous êtes dans cette situation et souhaitez référencer vos jeux de données, contactez les administrateurs de Datasud via la formulaire de contact ou sur  contact@datasud.fr en indiquant votre demande.
 	
-Je suis un développeur
+Je suis développeur et souhaite utilisez les API de DATASUD
 ==================
-Le catalogue de DataSud (https://trouver.datasud.fr) est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données CKAN. 
+Le catalogue de DataSud (https://trouver.datasud.fr) est construit à partir du système d’information OpenSource dédié à la gestion de catalogues de données 'CKAN <https://ckan.org/>'. 
 
-CKAN propose une API permettant d'interroger et de consulter les jeux de données et leurs ressources référencés dans le catalogue. Elle permet également de requêter et d'exposer directement le contenu (ou une partie du contenu) des ressources tabulaires (CSV, XLS).
+L'application CKAN propose une API REST permettant d'interroger et de consulter les jeux de données et leurs ressources référencés dans le catalogue, soit selon le formalisme de CKAN soit selon le standard DCAT. Elle permet également de requêter et d'exposer directement le contenu (ou une partie du contenu) des ressources tabulaires (CSV, XLS). Vous trouverez plus de détails sur les méthodes offertes ici.
+
+DATASUD offre en plus la possibilité de requêter et d'exposer le contenu des données géographiques selon les standards d'API WMS et WFS grâce à l'outil MapServer. Vous trouverez plus de détails sur les méthodes offertes ici.
 
 
-J'ai déja un catalogue
-==================
-Possibilité de mettre en place un point de moissonnage entre un catalogue CSW, ... et DataSud
+
 
 
 
