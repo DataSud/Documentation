@@ -66,7 +66,7 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
 
 Qu'est-ce qu'une organisation ?
 ==================
-Les organisations sont des personnes morales produisant ou intéressées par les données : autorités administratives, associations, entreprises.
+Les organisations sont des personnes morales produisant ou intéressées par tout type de données : autorités administratives, établissements publics, associations, entreprises, start-up.
 Il s'agit d'entités au travers desquelles plusieurs utilisateurs peuvent collaborer sur des jeux de données.
 
 
