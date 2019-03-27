@@ -13,6 +13,7 @@ Table des matières
 
 .. toctree::
    :titlesonly:
+   :maxdepth: 0
  
    Accueil <index>
    consultation
