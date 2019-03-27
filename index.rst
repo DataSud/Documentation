@@ -13,7 +13,7 @@ Table des matières
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 0
+   :maxdepth: 2
  
    general
    consultation
@@ -22,7 +22,7 @@ Table des matières
    referents
    developpeurs
 
-DataSud, c'est ...
+DATASUD, c'est ...
 ==================
 DATASUD est une infrastructure de données à l’échelle régionale, accessibles à travers un catalogue de données à l'échelon régional.
 Elle est issue d'un projet piloté par le CRIGE Provence-Alpes-Côte d’Azur et la Région SUD Provence Alpes-Côte d’Azur, avec la participation financière de l’État et du Conseil départemental des Hautes-Alpes lancé fin 2016.
