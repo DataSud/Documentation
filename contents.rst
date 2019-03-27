@@ -6,15 +6,13 @@ Table des matières détaillée
 	:caption: Table des matières
 	:maxdepth: 5
 	:name: tablematiere
+	
 	general
 	consultation
 	Espace utilisateur <utilisateurs>
 	contributeurs
 	referents
 	developpeurs
-
-
-
 
 
 Rechercher des données sur DataSud
