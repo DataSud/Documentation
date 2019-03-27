@@ -1,13 +1,16 @@
-.. title:: Sommaire
+.. title:: Table des matières
+
+*****
+Table des matières
+*****
 
 .. toctree::
-	:caption: Table des matières détaillées
+
 	:maxdepth: 5
 	:name: tablematiere
 
-	Accueil <index>
 	consultation
-	Espace utilisateur <utilisateurs>
+	Espace utilisateurs <utilisateurs>
 	contributeurs
 	referents
 	developpeurs
