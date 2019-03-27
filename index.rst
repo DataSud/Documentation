@@ -39,14 +39,18 @@ DATASUD s'adresse :
 
 Quels types de données trouve-t-on dans DataSud ?
 ==================
+DATASUD référence uniquement des **données brutes**. Par données "brutes" est entendu fichiers tabulaires (ex. tableur Excel), fichiers à composantes géographiques directe (qui contient des informations de points, lignes, polygones comme les fichiers GEOJSON ou ESRI Shapefile par ex.) ou indirecte.
+
 DATASUD référence préférentiellement : 
 	* des données ouvertes ;
 	* des données intelligentes ;
 	* des données géographiques.
 	
-	DATASUD permet également de référencer des données **sensibles**, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
-	Pour favoriser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF.
-	Elles sont ainsi lisibles dans un maximum d'applications et de logiciels.
+DATASUD permet également de référencer des données **sensibles**, en offrant la possiblité d'ouvrir ou non des accès à des utilisateurs ou des organisations.
+Pour favoriser les réutilisations, les données sont préférentiellement proposées dans des formats ouverts : CSV, JSON, GEOJSON, GPKG, JPEG2000, GeoTIFF.
+Elles sont ainsi lisibles dans un maximum d'applications et de logiciels.
+
+Toute donnée de DATASUD est accompagné d'une **licence**. Celle-ci définit les conditions d'utilisation du jeu de données. Il convient d'en prendre soigneusement connaissance avant toute réutilisation. En cas de doute, vous pouvez contacter le producteur du jeu de données ou les administrateurs de DATASUD.
 
 Qui peut s'inscrire à DATASUD ?
 ==================
@@ -63,6 +67,9 @@ Plus précisément, vous pouvez publier des données sur datasud.fr :
     * si vous enrichissez ou complétez des données pour le compte d’une association, d’un projet de recherche, ou sur votre temps libre ;
     * si vous produisez des données d’intérêt public, même hors du cadre d’une mission de service public ;
     * si vous produisez des données *privées* ie. accessibles uniquement à certains acteurs, sous réserve de respecter la réglementation en vigueur.
+
+.. note::
+	La publication des jeux de données fait l'objet d'un contrôle *a posteriori*. Il convient donc de bien vérifier quelles informations sont publiées sur DATASUD. L'équipe de DATASUD se réserve également le droit de dépublier tout jeu de données jugé non conforme à la ligne éditoriale de la plateforme, et d'en informer ses producteurs.
 
 
 Qu'est-ce qu'une Organisation pour DATASUD ?
