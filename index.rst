@@ -27,7 +27,9 @@ DATASUD est une infrastructure de données à l’échelle régionale, accessibl
 Elle est issue d'un projet piloté par le CRIGE Provence-Alpes-Côte d’Azur et la Région SUD Provence Alpes-Côte d’Azur, avec la participation financière de l’État et du Conseil départemental des Hautes-Alpes lancé fin 2016.
 
 Le catalogue de données diffuse des données ouvertes, géographiques et intelligentes au service du développement des territoires et de l’innovation numérique.
-80 organisations diffusent déjà des données sur DATASUD. Des données supplémentaires vont être intégrées au fil de l'eau en 2019, en particulier toutes les données du Géoportail régional du CRIGE.
+80 organisations diffusent déjà des données sur DATASUD.
+
+Des données supplémentaires vont être intégrées au fil de l'eau en 2019, en particulier toutes les données du Géoportail régional du CRIGE.
 
 Pour quel public ?
 ==================
