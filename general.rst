@@ -2,11 +2,11 @@
 Généralités
 *****
 
-============================
+
 Cadre légal et réglementaire
 ============================
 
-----------------------------------------------------
+
 Le statut juridique des données publiées sur DataSud
 ----------------------------------------------------
 
@@ -102,7 +102,7 @@ La CADA ne peut être saisie qu’à la suite d’un refus de communication, qui
 
 En cas de communication insatisfaisante pour le demandeur (document tronqué, dossier ne contenant pas le document recherché…) sans refus exprès, la CADA exige que le demandeur attende l’expiration du délai d’un mois à compter de sa demande (voir site de la CADA : http://www.cada.fr/).
  
-============================
+
 Régles éditoriales
 ============================
 
