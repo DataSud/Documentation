@@ -245,23 +245,6 @@ https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&c
 .. note :: Cela ne fonctionne qu'avec les requêtes GET
 
 
-Service WMS
-===========
-
-En cours.
-
-
-Service WFS
-===========
-
-En cours.
-
-Service CSW
-===========
-
-En cours.
-
-
 Marque blanche / Widget
 ==============
 
@@ -345,3 +328,18 @@ Le code d'inclusion html et son appel javascript permettent :
 -	Exemple pour le compte du Département des Hautes-Alpes: 
 http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
 
+Service WMS
+===========
+
+En cours.
+
+
+Service WFS
+===========
+
+En cours.
+
+Service CSW
+===========
+
+En cours.
