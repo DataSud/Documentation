@@ -39,8 +39,6 @@ De nombreuses fonctionnalités participatives sont proposées :
 
 - Demander l'accès aux administrateurs à des données réservées sur accès restreint,
 - Accéder aux données et services autorisés pour une organisation.
-
-
 - Commenter une organisation ou un jeu de données 
 .. image:: Commentaires.PNG 
 - Partager un jeu de données ou une ressource sur un autre site ou via des réseaux sociaux
@@ -51,3 +49,4 @@ De nombreuses fonctionnalités participatives sont proposées :
 - Créer une nouvelle Organisation ou demander à être rattaché à une Organisation existante (voir rubrique dédiée),
 - Demander à devenir contributeur d’une organisation et éventuellement référent d’une organisation pour maitriser l'ensemble des publications de ladite organisation (voir rubrique dédiée). 
 - Accéder à certaines fonctionnaltés de l'API nécessitant une clé d'authentification.
+- Intégrer un catalogue de données en marque Blanche sur son propre site internet (Voir rubrique dédiée sur la marque blanche)

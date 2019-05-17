@@ -119,25 +119,31 @@ Etape n°1 : Renseigner les métadonnées
 Etape n°2 : Publier une ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il existe trois manières différentes d'ajouter un jeu de données :
-
-.. image:: CaptureDataSudAddResource.PNG
+Il existe quatre manières différentes d'ajouter un jeu de données :
 
 **1.	Téléverser manuellement un fichier depuis votre poste local:** 
 
-Dans ce cas la ressource s’ajoute dans l’entrepôt de données DataSud;
-Le nom de votre fichier est automatiquement recopié, cependant il est possible de modifier manuellement le nommage de ce jeu de donnée.
+A l'aide du bouton Parcourir, vous pouvez déposer le fichier qui s’ajoute dans l’entrepôt de données DataSud;
+ 
+.. image:: Upload_ressources.PNG
+
+Le **Titre** de votre fichier est automatiquement recopié, mais il est possible de modifier manuellement le nommage de ce jeu de donnée.
+
+.. image:: Upload_ressources1.PNG
+
 
 Le format du fichier est automatiquement reconnu par DataSud.
+il faut préciser si le jeu de donnée est disponible en tant que Données brutes ou si c'est une documentation associée au jeu de donnée pour permettre aux visiteurs de DataSud d'avoir des informations complémentaires ( plaquettes de communications, affiches, photographie, site internet....)
 
 **2.	Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
 
 Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
 
-.. image:: CaptureDataSudAddResourceSync.PNG
+.. image:: Upload_ressources_URL.PNG
 
 Ce mode de publication permet de synchroniser la ressource distante, selon une périodicité régulière à indiquer : 
 
+* Jamais
 * Quotidienne (tous les jours à minuit)
 * Hebdomadaire (tous les lundis)
 * Bimensuelle (1er et 15 de chaque mois)
@@ -159,9 +165,13 @@ En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer q
 Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez précisement l'adresse URL de téléchargement de la donnée. qui reste hebergée chez son producteur. 
 Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
+.. image:: Upload_ressources_ref_URL.PNG
 
+**4.	Dépot FTP:**
 
+il faut pour activer au préalable le compte FTP en cliquant sur le lien "cliquez ici"
 
+.. image:: Upload_ressources_FTP.PNG
 
 --------------------------------------------------
 Datastore et données intelligentes
@@ -211,5 +221,6 @@ Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE
+
 
 

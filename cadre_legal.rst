@@ -66,6 +66,8 @@ Alors nous vous invitons à commencer par découvrir la documentation produite p
 Faire une demande d'accès à un document administratif ou à des données
 ----------------------------------------------------------------------
 
+Présentation du cadre juridique de l’ouverture des données: un [guide pratique de la publication en ligne et de la réutilisation des données publiques](https://www.cnil.fr/sites/default/files/atoms/files/guide_open_data.pdf) a été élaboré par les services de la CADA et de la CNIL  en association avec les services d’Etalab.
+
 L'article 15 de la Déclaration Universelle des droits de l'homme et du citoyen précise que "la société a le droit de demander compte à tout agent public de son administration".
 
 Ce droit d’accès aux documents administratifs est régie par la loi CADA du 17 juillet 1978 qui considère que « les données produites ou détenues par les administrations, dans le cadre de leurs missions de service public, doivent être mises à disposition du public».
