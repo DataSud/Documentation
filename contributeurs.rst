@@ -16,7 +16,7 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 
 .. note:: **La création d'une nouvelle organisation peut-être effectuée soit au moment de l'inscription comme utilisateur de DataSud, soit après la validation du profil Utilisateur par les Administrateurs de DataSud**.
 
-.. image:: CaptureDataSudFirstConnect.PNG
+.. image:: DataSudFirstConnect.PNG
 
 Les demandes de statut de Contributeur ou de Référent sont soumises à la validation des Administrateurs de la plateforme.
 Il faut donc patienter un peu. 
