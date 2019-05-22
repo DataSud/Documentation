@@ -45,7 +45,7 @@ Créer une Organisation
 
 Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
 
-.. image:: Creation_orga.PNG
+.. image:: DataSudAjoutOrga.PNG
 
 La dénomination sociale est obligatoire
 
