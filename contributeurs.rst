@@ -18,7 +18,6 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 
 .. image:: DataSudFirstConnect.PNG
 
-
 .. image:: DemandeOrga.PNG
 
 
@@ -239,13 +238,38 @@ Quelques précisions :
 - Le moissonneur ne prend pas en compte la suppresion de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur DataGouv.
 - Un compte organisation sur DataGouv expose indiféremment les jeux de données moissonnés automatiquement et les jeux de données synchronisés automatiquement par un moissonneur. Attention aux doublons.
 
-Mise en place de la procédure :
+**Mise en place de la procédure :**
 
--	1/ Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. [-> Inscription](https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F). Ce compte utilisateur doit être adminsitrateur de l'organisation.
--	2/ Un point de moissonnage est déclaré depuis l’interface d’administration DataGouv. Cette procédure est détaillée ci-après.
--	3/ Une fois créé, ce moissonneur est déclaré par email aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr.
--	4/ Etalab valide le moissonneur à la demande des administrateurs de DataSud.
--	5/ La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
+-	ETAPE 1/ Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. [-> Inscription](https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F). Ce compte utilisateur doit être adminsitrateur de l'organisation.
+-	ETAPE 2/ Un point de moissonnage est déclaré depuis l’interface d’administration DataGouv. Cette procédure est détaillée ci-après.
+-	ETAPE 3/ Une fois créé, ce moissonneur est déclaré par email aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr.
+-	ETAPE 4/ Etalab valide le moissonneur à la demande des administrateurs de DataSud.
+-	ETAPE 5/ La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
+
+**Détails de l'étape 2
+
+- En haut à droite de votre espace d'administration DataGouv, cliquez sur plus, puis ajouter un moissonneur (ecran1).
+
+.. image:: CaptureMoissonneur1.PNG
+
+- Choisissez "Publier en tant qu’organisation", cliquez sur suivant (ecran2).
+
+.. image:: CaptureMoissonneur2.PNG
+
+.. image:: CaptureMoissonneur3.PNG
+
+- C'est ici que vous renseignez les informations techniques de votre moissonneur (ecran3).
+- TITRE: Il convient d'ajouter " - DataSud" à votre titre afin de l'identifier plus facilement.
+- URL : https://trouver.datasud.fr/dataset
+- IMPLEMENTATION : CKAN
+- Il est TRES important de ne pas oublier d'ajouter un filtre. Au risque de moissonner tout DataSud.
+- FILTRES -> INCLURE -> Organisation : ajouter l'identifiant DataSud de votre organisation.
+- L'identifiant est celui de votre url organisation sur DataSud.
+- Exemple 1 https://trouver.datasud.fr/organization/avignon -> Identifiant avignon
+- example 2 https://trouver.datasud.fr/organization/smo-sud-thd -> identifiant smo-sud-thd
+- Cochez la case ACTIF. 
+- CLiquez sur ENREGISTRER.
+- Fin de l'étape 2.
 
 
 
