@@ -220,11 +220,11 @@ Projections : en cours de rédaction.
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Cette partie de la documentation est en cours de rédaction par le CRIGE
+Cette partie de la documentation est en cours de rédaction par le CRIGE.
 
 -------------------------------------------------------
-Faire remontée vos données sur Data.Gouv.fr
-------------------------------------------------------
+Faire remonter vos données sur Data.Gouv.fr
+-------------------------------------------------------
 
 La Région, le CRIGE et Etalab ont travaillé ensemble afin de vous permettre de faire remonter automatiquement les catalogues de données des contributeurs DataSud vers la plateforme nationale de données https://www.data.gouv.fr/fr/. Cette mécanique est parfois appelée "moissonneur" ou "passerelle".
 
