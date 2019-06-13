@@ -240,7 +240,9 @@ Quelques précisions :
 
 **Mise en place de la procédure :**
 
--	ETAPE 1/ Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. [Inscription](https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F). Ce compte utilisateur doit être adminsitrateur de l'organisation.
+-	ETAPE 1/ Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. 
+- `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
+- Ce compte utilisateur doit être adminsitrateur de l'organisation.
 -	ETAPE 2/ Un point de moissonnage est déclaré depuis l’interface d’administration DataGouv. Cette procédure est détaillée ci-après.
 -	ETAPE 3/ Une fois créé, ce moissonneur est déclaré par email aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr.
 -	ETAPE 4/ Etalab valide le moissonneur à la demande des administrateurs de DataSud.
