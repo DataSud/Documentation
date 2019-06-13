@@ -223,5 +223,30 @@ Renseigner les métadonnées INSPIRE
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE
 
+-------------------------------------------------------
+Faire remontée vos données sur Data.Gouv.fr
+------------------------------------------------------
+
+La Région, le CRIGE et Etalab ont travaillé ensemble afin de vous permettre de faire remonter automatiquement les catalogues de données des contributeurs DataSud vers la plateforme nationale de données https://www.data.gouv.fr/fr/. Cette mécanique est parfois appelée "moissonneur" ou "passerelle".
+
+La procédure est relativemment simple. Il suffit de la mettre en place une fois pour que le catalogue de données DataSud concerné soit ensuite synchronisé quotidiennement sur DataGouv.
+
+**Chaque contributeur et organisation reste souverain pour mettre en place ou non une synchronisation de ses données vers DataGouv.**
+
+Quelques précisions :
+
+- Seules les métadonnées sont synchronisées sur DataGouv. Les données restent sur DataSud (ou ailleurs en fonction de vos choix en matière d'indexation de ressources).
+- Le moissonneur ne prend pas en compte la suppresion de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur DataGouv.
+- Un compte organisation sur DataGouv expose indiféremment les jeux de données moissonnés automatiquement et les jeux de données synchronisés automatiquement par un moissonneur. Attention aux doublons.
+
+Mise en place de la procédure :
+
+-	1/ Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. [-> Inscription](https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F). Ce compte utilisateur doit être adminsitrateur de l'organisation.
+-	2/ Un point de moissonnage est déclaré depuis l’interface d’administration DataGouv. Cette procédure est détaillée ci-après.
+-	3/ Une fois créé, ce moissonneur est déclaré par email aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr.
+-	4/ Etalab valide le moissonneur à la demande des administrateurs de DataSud.
+-	5/ La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
+
+
 
 
