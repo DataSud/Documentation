@@ -16,15 +16,15 @@ CKAN propose une API permettant d'interroger et de consulter le catalogue des do
 
 Ainsi, il est par exemple possible de réaliser ce qui suit.
 
-* Obtenir au format JSON, la liste des jeux de données, des groupes thématiques, des mots-clés utilisés ou des organisations du catalogue :
+* Obtenir au format JSON : 
 
-  http://trouver.datasud.fr/api/3/action/package_list
+  la liste totale des jeux de données : http://trouver.datasud.fr/api/3/action/package_list
 
-  http://trouver.datasud.fr/api/3/action/group_list
+  les groupes thématiques : http://trouver.datasud.fr/api/3/action/group_list
 
-  http://trouver.datasud.fr/api/3/action/tag_list
+  les mots-clés utilisés : http://trouver.datasud.fr/api/3/action/tag_list
   
-  http://trouver.datasud.fr/api/3/action/organization_list
+  les organisations du catalogue : http://trouver.datasud.fr/api/3/action/organization_list
   
 * Obtenir un flux des jeux de données récemment mis à jour :
 
@@ -36,7 +36,7 @@ Ainsi, il est par exemple possible de réaliser ce qui suit.
   https://trouver.datasud.fr/api/3/action/package_show?id=arbres-proteges-a-digne-les-bains
   
 * Obtenir une représentation détaillée d'une organisation : 
-  https://trouver.datasud.fr/api/3/action/organization_show?id=air-paca
+  https://trouver.datasud.fr/api/3/action/organization_show?id=atmosud
 
 * Obtenir la liste de tous les jeux de données d'une organisation : 
   https://trouver.datasud.fr/api/3/action/package_search?fq=organization:(ville-de-digne-les-bains)&rows=150
