@@ -135,7 +135,7 @@ Le **Titre** de votre fichier est automatiquement recopié, mais il est possible
 Le format du fichier est automatiquement reconnu par DataSud.
 il faut préciser si le jeu de donnée est disponible en tant que Données brutes ou si c'est une documentation associée au jeu de donnée pour permettre aux visiteurs de DataSud d'avoir des informations complémentaires ( plaquettes de communications, affiches, photographie, site internet....)
 
-**2.	Télécharger depuis une URL en indiquant une URL de téléchargement du jeu de donnée:**
+**2.	Télécharger un jeu de donnée depuis une URL de téléchargement :**
 
 Dans ce cas, Datasud va télécharger la ressource pour l'ajouter dans l’entrepôt de données; 
 
@@ -190,7 +190,7 @@ Les données indexées dans le datastore sont ensuite "requetables" directement 
 
 **Vos jeux de données doivent être préparés pour être proprement indexés dans le datastore :**
 
-* Le format CSV doit être privilégié avec un ; comme séparateur / délimiteur.
+* Dans CKAN, le format CSV doit être privilégié avec une , comme séparateur / délimiteur.
 * Idéalement, passez tous vos jeux de données en UTF-8. Pour cela le programme Notepad++ fait cela très bien.
 * Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
 * Restreindre vos titres de colonnes à moins de 62 caractères.
