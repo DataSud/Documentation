@@ -256,16 +256,13 @@ Techniquement, la marque blanche de DataSud passe par l'intégration de quelques
 
 La marque blanche DataSud a été développée par Neogeo Technologies. Elle est distribuée sur Gitub sous licence MIT. Le code source peut être utilisé pour afficher tout catalogue CKAN sur un site tiers. 
 
-* Code source :
-
+* Code source : 
   https://github.com/neogeo-technologies/ckan-widget 
 
 * Licence :
-
   https://github.com/neogeo-technologies/ckan-widget/blob/master/LICENSE
 
 * Les fichiers à inclure et un exemple de code HTML sont disponibles ici : 
-
   https://github.com/neogeo-technologies/ckan-widget/tree/master/build
 
 * A quoi ressemble la marque blanche ?
@@ -333,6 +330,8 @@ https://www.departement06.fr/l-information-du-departement/opendata-29882.html
 
 - Sur le site internet du la ville de Digen les Bains : 
 https://www.dignelesbains.fr/coordonnees-et-horaires-de-la-mairie/open-data/
+
+
 
 Service WMS
 ===========
