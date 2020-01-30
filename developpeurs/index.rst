@@ -325,11 +325,14 @@ Le code d'inclusion html et son appel javascript permettent :
 
 **Exemples d'intégration :**
 
--	Exemple pour le compte du Département des Hautes-Alpes : 
+-	Sur le site internet du Département des Hautes-Alpes : 
 http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
 
-- Exemple pour le compte du Département des Alpes-Maritimes : 
+- Sur le site internet du Département des Alpes-Maritimes : 
 https://www.departement06.fr/l-information-du-departement/opendata-29882.html
+
+- Sur le site internet du la ville de Digen les Bains : 
+https://www.dignelesbains.fr/coordonnees-et-horaires-de-la-mairie/open-data/
 
 Service WMS
 ===========
