@@ -322,8 +322,8 @@ Le code d'inclusion html et son appel javascript permettent :
 
 **Exemples d'intégration :**
 
--	Sur le site internet du Département des Hautes-Alpes : 
-http://beta.crige-paca.org/beta/widget/hautes_alpes/hautesalpes_catalogue.html
+- Sur le site des Parcs Naturels Régionaux : 
+http://geo.pnrpaca.org/geoservices/catalogue-de-donnees/
 
 - Sur le site internet du Département des Alpes-Maritimes : 
 https://www.departement06.fr/l-information-du-departement/opendata-29882.html
