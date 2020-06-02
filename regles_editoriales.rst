@@ -92,13 +92,24 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 
 --------------------------------------
-Les outils  pour nettoyer vos données 
+Les outils pour nettoyer vos données 
 --------------------------------------
 
 
 `La méthode infolabs pour produire un CSV de qualité <http://infolabs.io/prod-csv>`_
 
 `l'Outil de validation des données ouvertes Validata <https://validata.fr/>`_
+
+
+`Nettoyer les CSV avec CSVLint (en Anglais) <http://csvlint.io>`_
+
+https://goodtables.io/ 
+
+http://openrefine.org/
+
+------------------------------------------------------------
+Les guides et outils de production des données standardisées
+------------------------------------------------------------
 
 `D-lyne : outil de production des données respectant les standards existants développé par OpendataFrance : <http://d-lyne.fr/portail/login.php>`_
 
@@ -108,8 +119,5 @@ Les outils  pour nettoyer vos données
 - Export et publication open data
 - Base de production permanente
 
-`Nettoyer les CSV avec CSVLint (en Anglais) <http://csvlint.io>`_
 
-https://goodtables.io/ 
-
-http://openrefine.org/
+`Les guides d'Etalab : <https://guides.etalab.gouv.fr/>`_ ont pour objectif de vous accompagner à améliorer la qualité de vos productions, collectes ou utilisation des données, codes sources de logiciel ou algorithmes.
