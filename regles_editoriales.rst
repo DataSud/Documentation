@@ -95,11 +95,13 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 Les outils  pour nettoyer vos données 
 --------------------------------------
 
-[La méthode infolabs pour produire un CSV de qualité](http://infolabs.io/prod-csv)
+_La méthode infolabs pour produire un CSV de qualité <http://infolabs.io/prod-csv>_
 
-[l'Outil de validation des données ouvertes Validata](https://validata.fr/)
+`« conditions d’utilisation » <https://www.datasud.fr/conditions-dutilisation/>`_
 
-[Nettoyer les CSV avec CSVLint (en Anglais)](http://csvlint.io) 
+_l'Outil de validation des données ouvertes Validata <https://validata.fr/>_
+
+_Nettoyer les CSV avec CSVLint (en Anglais) <http://csvlint.io>_
 
 https://goodtables.io/ 
 
