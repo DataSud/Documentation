@@ -100,6 +100,14 @@ Les outils  pour nettoyer vos données
 
 `l'Outil de validation des données ouvertes Validata <https://validata.fr/>`_
 
+`D-lyne : outil de production des données respectant les standards existants développé par OpendataFrance : <http://d-lyne.fr/portail/login.php>`_
+
+- Saisie assistée
+- Contrôle de la qualité
+- Standardisation
+- Export et publication open data
+- Base de production permanente
+
 `Nettoyer les CSV avec CSVLint (en Anglais) <http://csvlint.io>`_
 
 https://goodtables.io/ 
