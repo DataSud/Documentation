@@ -98,8 +98,7 @@ Les outils pour nettoyer vos données
 
 `La méthode infolabs pour produire un CSV de qualité <http://infolabs.io/prod-csv>`_
 
-`l'Outil de validation des données ouvertes Validata <https://validata.fr/>`_
-
+`Outil de validation des données ouvertes Validata <https://validata.fr/>`_
 
 `Nettoyer les CSV avec CSVLint (en Anglais) <http://csvlint.io>`_
 
