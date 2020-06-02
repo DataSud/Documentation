@@ -106,11 +106,11 @@ https://goodtables.io/
 
 http://openrefine.org/
 
-------------------------------------------------------------
-Les guides et outils de production des données standardisées
-------------------------------------------------------------
+----------------------------------------------
+Les guides et outils de production des données
+----------------------------------------------
 
-`D-lyne : outil de production des données respectant les standards existants développé par OpendataFrance : <http://d-lyne.fr/portail/login.php>`_
+`D-lyne Outil de production des données respectant les standards existants, développé par OpendataFrance : <http://d-lyne.fr/portail/login.php>`_
 
 - Saisie assistée
 - Contrôle de la qualité
@@ -118,5 +118,17 @@ Les guides et outils de production des données standardisées
 - Export et publication open data
 - Base de production permanente
 
+`Les guides d'Etalab <https://guides.etalab.gouv.fr/>`_ ont pour objectif de vous accompagner à améliorer la qualité de vos productions, collectes ou utilisation des données, codes sources de logiciel ou algorithmes :
 
-`Les guides d'Etalab : <https://guides.etalab.gouv.fr/>`_ ont pour objectif de vous accompagner à améliorer la qualité de vos productions, collectes ou utilisation des données, codes sources de logiciel ou algorithmes.
+#L'ouverture et la circulation des données : 
+- Comment préparer des données à l'ouverture / la circulation ?
+- Quels jeux de données doivent être publiés en open data ?
+- Comment publier des jeux de données sur data.gouv.fr ?
+- Pourquoi et comment créer un schéma de données ?
+- Comment utiliser l'IA pour pseudonymiser des documents ?
+
+#La transparence des algorithmes publics
+- Les algorithmes publics : pourquoi et comment les expliquer ?
+
+#L'ouverture des codes sources de logiciels
+- Codes sources du secteur public : lesquels ouvrir, pourquoi et comment ?
