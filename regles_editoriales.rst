@@ -78,7 +78,7 @@ Voici la syntaxe à écrire ![40% center](Image.jpg)
 Entre crochets on trouve les options réduction ou agrandissement en pourcentage et centrage (center). 
 Par défaut l'image est alignée à  gauche en taille 100%
 
-L'image doit être disponible en ligne quelque part.
+**Attention** L'image doit être disponible en ligne quelque part.
 
 === Liens ===
 
