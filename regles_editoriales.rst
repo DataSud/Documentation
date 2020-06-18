@@ -64,13 +64,21 @@ Pour créer une liste non ordonnée ::
 
 === Image ====
 
-Vous pouvez afficher une image dans vos descriptifs. Attention, la taille n'est pas paramétrable et l'image doit déjà être disponible en ligne quelque part ::
+Vous pouvez afficher une image dans vos descriptifs :
 
    .. image:: CaptureDataSudConnect.PNG
 
 
 .. image:: CaptureDataSudConnect.PNG
 
+Voici la syntaxe à écrire ![40% center](Image.jpg)
+
+! indique une image à insérer
+
+Entre crochets on trouve les options réduction ou agrandissement en pourcentage et centrage (center). 
+Par défaut l'image est alignée à  gauche en taille 100%
+
+L'image doit être disponible en ligne quelque part.
 
 === Liens ===
 
