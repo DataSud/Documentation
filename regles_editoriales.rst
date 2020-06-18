@@ -98,6 +98,8 @@ https://guides.github.com/features/mastering-markdown/
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
+Le guide du Markdown, par YannHY 
+https://github.com/YannHY/cours/blob/master/Markdown/Le%20guide%20du%20Markdown.md
 
 --------------------------------------
 Les outils pour nettoyer vos données 
