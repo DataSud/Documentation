@@ -66,8 +66,6 @@ Pour créer une liste non ordonnée ::
 
 Vous pouvez afficher une image dans vos descriptifs :
 
-   .. image:: CaptureDataSudConnect.PNG
-
 
 .. image:: CaptureDataSudConnect.PNG
 
