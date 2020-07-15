@@ -88,7 +88,7 @@ Etape n°1 : Renseigner les métadonnées
 
 .. image:: Edit_newdataset1.PNG
 
-.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau afin de permettre de relier votre jeu de donnée à d'autres jeux similaires inscrit au catalogue de DataSud.
+.. note:: De nombreux mots-clés sont déjà répertoriés dans la base. Ils apparaissent dans une liste déroulante lorsque vous saisissez les premières lettres du mot. Mieux vaut choisir un mot clés existant, plutot que d'en choisir un nouveau afin de permettre de relier votre jeu de donnée à d'autres jeux similaires inscrits au catalogue de DataSud.
 
 .. image:: Edit_newdataset2.PNG
 
@@ -106,10 +106,11 @@ Etape n°1 : Renseigner les métadonnées
 
 **Les métadonnées facultatives sont les suivantes :**
 
-- Thématiques : un jeu de donnée peut-être associé à une ou plusieurs thématiques
-- Mots-clés
-- Fréquence de mise à jour à choisir dans le liste déroulante : Lorsque nécessaire; Non planifiée; Irrégulière; Continue; Temps réel; Journalière; Hebdomadaire; Bi-mensuelle; Mensuelle; Trimestrielle; Bi-annuelle; Annuelle; Inconnue.
-- Type de données
+- Illustration : le nom de l'image que vous souhaitez mettre en illustration du jeu de donnée ne doit pas contenir d'accent. le format de l'illustration peut-être du .Jpg ou .png;
+- Catégories : sélectionnez dans la liste une ou plusieurs thématiques proposées correspondant à la/ les catégories associées au jeu de donnée;
+- Mots-clés : privilégiez les mots clés écrits au singulier et en minuscule;
+- Fréquence de mise à jour : à choisir dans la liste déroulante "Lorsque nécessaire" ; "Non planifiée"; "Irrégulière"; "Continue"; "Temps réel"; "Journalière"; "Hebdomadaire"; "Bi-mensuelle"; "Mensuelle"; "Trimestrielle"; "Bi-annuelle"; "Annuelle"; "Inconnue".
+- Type de données : Données ouvertes ( correspond aux données statistiques ou tout autre jeu de donnée ne contenant pas de composante géographique; Données intelligentes ( voir le passage ci dessous au sujet du  `« Datastore » <https://datasud.readthedocs.io/fr/latest/contributeurs.html#datastore-et-donnees-intelligentes>`_   ; Données géographiques ( avec des cooordonnées géographique de géolocalisation ) 
 - Meta-données INSPIRE
 - Fréquence de mise à jour
 - Couverture régionale
