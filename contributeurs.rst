@@ -175,6 +175,16 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 .. image:: Upload_ressources_FTP.PNG
 
 --------------------------------------------------
+Supprimer une ressource
+--------------------------------------------------
+
+Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données
+IL est possible de supprimer un ensemble de donnée ( Dataset ) comprenant les metadonnées et les ressources et fichiers brutes associés à un ensemble de donnée.
+Pour cela selectionner l'ensemble de donnée que vous souhaitez supprimer 
+
+.. image:: Supr_Dataset.PNG
+
+--------------------------------------------------
 Datastore et données intelligentes
 --------------------------------------------------
 
