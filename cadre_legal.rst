@@ -7,7 +7,7 @@ Demande d’accès à un document administratif ou à des données
 Faire une demande d'accès à un document administratif ou à des données
 ----------------------------------------------------------------------
 
-Présentation du cadre juridique de l’ouverture des données: un [guide pratique de la publication en ligne et de la réutilisation des données publiques](https://www.cnil.fr/sites/default/files/atoms/files/guide_open_data.pdf) a été élaboré par les services de la CADA et de la CNIL  en association avec les services d’Etalab.
+`Présentation du cadre juridique de l’ouverture des données: un guide pratique de Publication en ligne et réutilisation des données publiques (« open data ») <https://www.cnil.fr/fr/publication-en-ligne-et-reutilisation-des-donnees-publiques-open-data>`_ a été élaboré par les services de la CADA et de la CNIL  en association avec les services d’Etalab.
 
 L'article 15 de la Déclaration Universelle des droits de l'homme et du citoyen précise que "la société a le droit de demander compte à tout agent public de son administration".
 
