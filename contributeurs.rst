@@ -174,15 +174,25 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 
 .. image:: Upload_ressources_FTP.PNG
 
---------------------------------------------------
-Supprimer une ressource
---------------------------------------------------
+-----------------------------------------------------
+Supprimer un ensemble de donnée et / ou une ressource
+------------------------------------------------------
 
-Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données
-IL est possible de supprimer un ensemble de donnée ( Dataset ) comprenant les metadonnées et les ressources et fichiers brutes associés à un ensemble de donnée.
-Pour cela selectionner l'ensemble de donnée que vous souhaitez supprimer 
+Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données; 
+
+Il est possible de supprimer un ensemble de données ( Dataset ) comprenant les metadonnées; les ressources et fichiers brutes associés à un ensemble de données.
+Pour cela selectionner l'ensemble de données que vous souhaitez supprimer 
 
 .. image:: Supr_Dataset.PNG
+
+Pour confirmer, veuillez réécrire le nom du jeu de données à supprimer.
+
+Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de conserver la meme orthographe, puis coller ce titre dans la fenêtre qui s'affichera suite à la confirmation de la suppression.
+
+Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
+
+il est possible de supprimer un fichier ou une ressource associée à un ensemble de données
+
 
 --------------------------------------------------
 Datastore et données intelligentes
