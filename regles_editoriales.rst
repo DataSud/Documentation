@@ -120,7 +120,7 @@ Les guides et outils de production des données
 
 Si vous débutez en matière de réutilisation de données publiques, ouvertes, personnelles, sensibles, géographiques, etc.. nous vous invitons à commencer par découvrir la documentation produite par l'association OpenDataFrance :
 
-`Ressources Opendatalocale : <http://opendatalocale.net/ressources>`_
+`Ressources Opendatalocale <http://opendatalocale.net/ressources>`_
 
 `D-lyne Outil de production des données respectant les standards existants, développé par OpendataFrance : <http://d-lyne.fr/portail/login.php>`_
 
@@ -149,4 +149,4 @@ Si vous débutez en matière de réutilisation de données publiques, ouvertes, 
 - Codes sources du secteur public : lesquels ouvrir, pourquoi et comment ?
 
 
-`module de eLearning proposé par le portail européen de l’OpenData : <https://www.europeandataportal.eu/elearning/fr/module1/#/id/co-01 https://player.vimeo.com/video/153271129>`_
+`Module de eLearning proposé par le portail européen de l’OpenData <https://www.europeandataportal.eu/elearning/fr/#/id/co-01>`_
