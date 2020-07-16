@@ -175,9 +175,10 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 .. image:: Upload_ressources_FTP.PNG
 
 
------------------------------------------------------
+
+--------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
------------------------------------------------------
+--------------------------------------------------
 
 Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données; 
 
