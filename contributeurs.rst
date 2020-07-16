@@ -187,11 +187,13 @@ Pour cela selectionner l'ensemble de données que vous souhaitez supprimer
 
 Pour confirmer, veuillez réécrire le nom du jeu de données à supprimer.
 
+.. image:: Supr_Dataset_confirm.PNG
+
 Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de conserver la meme orthographe, puis coller ce titre dans la fenêtre qui s'affichera suite à la confirmation de la suppression.
 
 Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
 
-il est possible de supprimer un fichier ou une ressource associée à un ensemble de données
+Il est possible de supprimer un fichier ou une ressource associée à un ensemble de données
 
 
 --------------------------------------------------
