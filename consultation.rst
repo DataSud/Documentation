@@ -25,7 +25,7 @@ L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résul
 
 - *>> Liste des organisations DataSud* https://trouver.datasud.fr/organization
 
-- *>> Liste des thématiques DataSud* https://trouverc.datasud.fr/group
+- *>> Liste des thématiques DataSud* https://trouver.datasud.fr/group
 
 - *>> Liste des réutilisations recensées à partir des données publiées DataSud* https://trouver.datasud.fr/showcase
 
