@@ -163,7 +163,7 @@ En cas d'erreur, les Administrateurs de DATASUD se chargeront de vous indiquer q
 
 **3.	Référencer une URL:**
 
-Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez précisement l'adresse URL de téléchargement de la donnée. qui reste hebergée chez son producteur. 
+Dans ce cas, la ressource n'est pas téléchargée dans DataSud et vous indiquez précisement l'adresse URL de téléchargement de la donnée qui reste hebergée chez son producteur. 
 Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée dans son entrepot.
 
 .. image:: Upload_ressources_ref_URL.PNG
