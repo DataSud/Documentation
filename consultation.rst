@@ -2,7 +2,7 @@
 Espace consultation
 ===================
 
-DataSud est un catalogue ouvert à tous : 
+DataSud est un catalogue ouvert à tous :
 https://trouver.datasud.fr 
 
 Les consultations des données ouvertes, géographiques et intelligentes sont libres sur DataSud. Vous pouvez parcourir le catalogue, rechercher des jeux de données et télécharger des ressources dans différents format de fichier.
