@@ -175,7 +175,8 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 .. image:: Upload_ressources_FTP.PNG
 
 
-.. note:: il peut arriver que la connection au serveur FTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte FTP; Veuillez pour cela tester la connection à partir d'un autre point d'accès internet sans Proxy ( à partir d'un smartphone ou une connexion internet personnelle)
+.. note:: Il peut arriver que la connexion au serveur FTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte FTP; 
+Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle)
 
 --------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
