@@ -175,6 +175,7 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 .. image:: Upload_ressources_FTP.PNG
 
 
+.. note:: il peut arriver que la connection au serveur FTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte FTP; Veuillez pour cela tester la connection à partir d'un autre point d'accès internet sans Proxy ( à partir d'un smartphone ou une connexion internet personnelle)
 
 --------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
@@ -215,7 +216,7 @@ Les données indexées dans le datastore sont ensuite "requetables" directement 
 
 **Vos jeux de données doivent être préparés pour être proprement indexés dans le datastore :**
 
-* Dans CKAN, le format CSV doit être privilégié avec une , comme séparateur / délimiteur.
+* Dans CKAN, le format CSV doit être privilégié avec une virgule  *,* comme séparateur / délimiteur.
 * Idéalement, passez tous vos jeux de données en UTF-8. Pour cela le programme Notepad++ fait cela très bien.
 * Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
 * Restreindre vos titres de colonnes à moins de 62 caractères.
