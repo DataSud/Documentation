@@ -178,6 +178,14 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 .. note:: Il peut arriver que la connexion au serveur FTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte FTP; 
 Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle)
 
+------------------------------------------------
+Mettre à jour un jeu de données ou une ressource
+------------------------------------------------
+
+Les données publiées peuvent être mises à jour après leur publication, que la modification porte sur un jeu données dans son ensemble, ou sur l’une des ressources qu’il contient  (Donnée brute ou ressources associées).
+
+L'actualisation d’une ressource existante permet d’en mettre à jour le contenu sans changer l’emplacement qui lui est assigné, c’est-à-dire son lien hypertexte (aussi appelé URL). Le fait d’actualiser une ressource plutôt que de la supprimer et d'en créer ensuite une nouvelle permet de conserver l’historique des téléchargements de cette ressource et évite de créer des liens rompus sur Internet, vu que la page web n'existera plus, et cela mènera à une erreur HTTP 404 , qui indique que le serveur a bien répondu mais que la page précise est introuvable.
+
 --------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
 --------------------------------------------------
