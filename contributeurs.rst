@@ -257,21 +257,21 @@ Renseigner les métadonnées INSPIRE
 
 Cette partie de la documentation est en cours de rédaction par le CRIGE.
 
--------------------------------------------------------
+---------------------------------------------
 Faire remonter vos données sur Data.Gouv.fr
--------------------------------------------------------
+----------------------------------------------
 
 La Région, le CRIGE et Etalab ont travaillé ensemble afin de permettre aux contributeurs DataSud de faire remonter automatiquement leurs catalogues de données vers la plateforme nationale https://www.data.gouv.fr/fr/. Cette mécanique est aussi appelée "moissonneur" ou "passerelle".
 
-La procédure est relativemment simple. Il suffit de la mettre en place une fois pour que le catalogue de données DataSud concerné soit ensuite synchronisé quotidiennement sur DataGouv.
+La procédure est relativemment simple. Il suffit de la mettre en place pour une organisation contributrice de DataSud afin que ses données soient ensuite synchronisées quotidiennement sur DataGouv.
 
-**Chaque contributeur et organisation reste souverain pour mettre en place ou non une synchronisation de ses données vers DataGouv.**
+**Chaque contributeur et organisation reste souverain pour mettre en place (ou non) une synchronisation de ses données vers DataGouv.**
 
 **Quelques précisions :**
 
 - Seules les **métadonnées** sont synchronisées sur DataGouv. Les données restent sur DataSud (ou ailleurs en fonction de vos choix en matière d'indexation de ressources).
-- Le moissonneur ne prend pas en compte la **suppression** de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur DataGouv.
-- Un compte organisation sur DataGouv expose indifféremment les jeux de données créés manuellement sur DataGouv et les jeux de données synchronisés automatiquement depuis DataSud. Attention aux doublons et à la cohérence des jeux de données.
+- Le moissonneur ne prend pas en compte la **suppression** de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur DataGouv.fr
+- Un compte organisation sur DataGouv expose indifféremment les jeux de données créés manuellement sur DataGouv.fr et les jeux de données synchronisés automatiquement depuis DataSud. Attention aux doublons et à la cohérence des jeux de données.
 
 **Mise en place de la procédure :**
 
