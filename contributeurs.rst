@@ -190,9 +190,10 @@ L'actualisation d’une ressource existante permet d’en mettre à jour le cont
 Supprimer un ensemble de donnée et / ou une ressource
 --------------------------------------------------
 
+
 Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données; 
 
-Il est possible de supprimer un ensemble de données ( Dataset ) comprenant les metadonnées; les ressources et fichiers brutes associés à un ensemble de données.
+Il est possible de supprimer un ensemble de données ( Dataset ) comprenant les metadonnées; ou seulement les ressources et fichiers brutes associés à un ensemble de données.
 Pour cela selectionner l'ensemble de données que vous souhaitez supprimer 
 
 .. image:: Supr_Dataset.PNG
@@ -204,8 +205,6 @@ Pour confirmer, veuillez réécrire le nom du jeu de données à supprimer.
 Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de conserver la meme orthographe, puis coller ce titre dans la fenêtre qui s'affichera suite à la confirmation de la suppression.
 
 Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
-
-Il est possible de supprimer un fichier ou une ressource associée à un ensemble de données
 
 
 --------------------------------------------------
@@ -239,7 +238,7 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 .. Note:: **Attention avec Excel** 
 * lorque le fichier contient plusieurs feuillet (ou onglet), seule la dernière feuille de calcul est indexée dans le datastore. Il est donc nécessaire de déplacer la feuille de calcul contenant les données que vous souhaitez indexer dans le datastore en dernière place de votre tableur.
 
-* si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur. ::
+* si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur.::
 
 
 -----------------------------------------------------
