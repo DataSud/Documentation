@@ -181,9 +181,9 @@ il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici
 Mettre à jour un jeu de données ou une ressource
 ------------------------------------------------
 
-Les données publiées peuvent être mises à jour après leur publication, que la modification porte sur un jeu données dans son ensemble, ou sur l’une des ressources qu’il contient  (Donnée brute ou ressources associées).
+Les données publiées peuvent être mises à jour après leur publication, que la modification porte sur un jeu données dans son ensemble, ou sur l’une des ressources qu’il contient  (Données brutes ou ressources associées).
 
-L'actualisation d’une ressource existante permet d’en mettre à jour le contenu sans changer l’emplacement qui lui est assigné, c’est-à-dire son lien hypertexte (aussi appelé URL). Le fait d’actualiser une ressource plutôt que de la supprimer et d'en créer ensuite une nouvelle permet de conserver l’historique des téléchargements de cette ressource et évite de créer des liens rompus sur Internet, vu que la page web n'existera plus, et cela mènera à une erreur HTTP 404 , qui indique que le serveur a bien répondu mais que la page précise est introuvable.
+L'actualisation d’une ressource existante permet d’en mettre à jour le contenu sans changer l’emplacement qui lui est assigné, c’est-à-dire son lien hypertexte (aussi appelé URL). Le fait d’actualiser une ressource plutôt que de la supprimer et d'en créer ensuite une nouvelle permet de conserver l’historique des téléchargements de cette ressource. Cela évite aussi de créer des liens rompus sur Internet, qui meneront à une erreur HTTP 404, vu que la page web n'existera plus et sera introuvable par le serveur.
 
 --------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
