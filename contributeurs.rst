@@ -216,7 +216,7 @@ Les données indexées dans le datastore sont ensuite "requetables" directement 
 
 **Vos jeux de données doivent être préparés pour être proprement indexés dans le datastore :**
 
-* Dans CKAN, le format CSV doit être privilégié avec une virgule  *,* comme séparateur / délimiteur.
+* Dans CKAN, le format CSV doit être privilégié avec une virgule  **,** comme séparateur / délimiteur.
 * Idéalement, passez tous vos jeux de données en UTF-8. Pour cela le programme Notepad++ fait cela très bien.
 * Idéalement, exportez vos tableurs favoris (Microsoft, Libre et Open Office) au format CSV.
 * Restreindre vos titres de colonnes à moins de 62 caractères.
