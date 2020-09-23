@@ -257,7 +257,7 @@ Cette partie de la documentation est en cours de rédaction par le CRIGE.
 
 ---------------------------------------------
 Faire remonter vos données sur Data.Gouv.fr
-----------------------------------------------
+---------------------------------------------
 
 La Région, le CRIGE et Etalab ont travaillé ensemble afin de permettre aux contributeurs DataSud de faire remonter automatiquement leurs catalogues de données vers la plateforme nationale https://www.data.gouv.fr/fr/. Cette mécanique est aussi appelée "moissonneur" ou "passerelle".
 
