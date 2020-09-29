@@ -293,6 +293,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - **FILTRES -> INCLURE -> Organisation : ajouter l'identifiant de votre organisation dans DataSud.** ( il s'agit de l'url de votre organisation sur DataSud)
 - Exemple 1 hhttps://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee -> Identifiant de la CAVEM.
 - example 2 https://trouver.datasud.fr/organization/smo-sud-thd -> identifiant smo-sud-thd
+.. image:: CaptureMoissonneur3.PNG
 - Cochez la case ACTIF. 
 - CLiquez sur **ENREGISTRER.**
 
@@ -300,11 +301,5 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 -	**ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
 -	**ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
 
-
-
-
-
-
-.. image:: CaptureMoissonneur3.PNG
 
 
