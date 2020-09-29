@@ -291,7 +291,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - **IMPLEMENTATION : CKAN**
 - Il est TRES important de ne pas oublier d'ajouter un filtre. Au risque de moissonner tout DataSud.
 - **FILTRES -> INCLURE -> Organisation : ajouter l'identifiant de votre organisation dans DataSud.** ( il s'agit de l'url de votre organisation sur DataSud)
-- Exemple 1 hhttps://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee -> Identifiant de la CAVEM.
+- Exemple 1 https://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee -> Identifiant de la CAVEM.
 - example 2 https://trouver.datasud.fr/organization/smo-sud-thd -> identifiant smo-sud-thd
 .. image:: CaptureMoissonneur3.PNG
 - Cochez la case ACTIF. 
