@@ -185,9 +185,9 @@ Les données publiées peuvent être mises à jour après leur publication, que 
 
 L'actualisation d’une ressource existante permet d’en mettre à jour le contenu sans changer l’emplacement qui lui est assigné, c’est-à-dire son lien hypertexte (aussi appelé URL). Le fait d’actualiser une ressource (plutôt que de la supprimer et d'en créer ensuite une nouvelle) permet de conserver l’historique des téléchargements de cette ressource. Cela évite aussi de créer des liens rompus sur Internet, qui meneront à une erreur HTTP 404, vu que la page web n'existera plus et sera introuvable par le serveur.
 
---------------------------------------------------
+-----------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
---------------------------------------------------
+-----------------------------------------------------
 
 
 Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données; 
@@ -259,28 +259,24 @@ Cette partie de la documentation est en cours de rédaction par le CRIGE.
 Faire remonter vos données sur Data.Gouv.fr
 ---------------------------------------------
 
-La Région, le CRIGE et Etalab ont travaillé ensemble afin de permettre aux contributeurs DataSud de faire remonter automatiquement leurs catalogues de données vers la plateforme nationale https://www.data.gouv.fr/fr/. Cette mécanique est aussi appelée "moissonneur" ou "passerelle".
+La Région et Etalab ont travaillé ensemble afin de permettre la remontée automatique des catalogues de données des contributeurs de DataSud vers la plateforme nationale https://www.data.gouv.fr/fr/. Cette mécanique est aussi appelée "moissonneur" ou "passerelle".
 
-La procédure est relativemment simple. Il suffit de la mettre en place pour une organisation contributrice de DataSud afin que ses données soient ensuite synchronisées quotidiennement sur DataGouv.
+La procédure est relativemment simple. Il suffit de la mettre en place pour une organisation contributrice de DataSud afin que ses données soient ensuite synchronisées quotidiennement sur Data.Gouv.fr
 
 **Chaque contributeur et organisation reste souverain pour mettre en place (ou non) une synchronisation de ses données vers DataGouv.**
 
 **Quelques précisions :**
 
 - Seules les **métadonnées** sont synchronisées sur DataGouv. Les données restent sur DataSud (ou ailleurs en fonction de vos choix en matière d'indexation de ressources).
-- Le moissonneur ne prend pas en compte la **suppression** de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur DataGouv.fr
-- Un compte organisation sur DataGouv expose indifféremment les jeux de données créés manuellement sur DataGouv.fr et les jeux de données synchronisés automatiquement depuis DataSud. Attention aux doublons et à la cohérence des jeux de données.
+- Le **moissonneur ne prend pas en compte la suppression** de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur Data.Gouv.fr
+- Un compte organisation sur DataGouv expose indifféremment les jeux de données créés manuellement sur Data.Gouv.fr et les jeux de données synchronisés automatiquement depuis DataSud. Faites ainsi bien attention aux doublons et à la cohérence des jeux de données.
 
 **Mise en place de la procédure :**
 
--	**ETAPE 1:** Chaque contributeur crée une organisation sur DataGouv avec un compte utilisateur en son nom. `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
+-	**ETAPE 1:** Chaque contributeur crée une organisation sur Data.Gouv avec un compte utilisateur en son nom. `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
 - Ce compte utilisateur doit être administrateur de l'organisation.
--	**ETAPE 2:** Un point de moissonnage est déclaré depuis l’interface d’administration DataGouv. Cette procédure est détaillée ci-après.
--	**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr**.
--	**ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
--	**ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
 
-**Détails de l'étape 2 : création d'un point de moissonnage sur DataGouv**
+-	**ETAPE 2: création d'un point de moissonnage sur DataGouv** L'administrateur de l'organisation sur Data.gouv.fr doit déclarer un point de moissonnage depuis l’interface d’administration DataGouv. 
 
 - En haut à droite de votre espace d'administration DataGouv, cliquez sur plus, puis AJOUTER un MOISSONNEUR (ecran1).
 
@@ -289,19 +285,24 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - Choisissez "Publier en tant qu’organisation", cliquez sur SUIVANT (ecran2).
 
 .. image:: CaptureMoissonneur2.PNG
-
 - C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur.
-- TITRE: Il convient d'ajouter " - DataSud" à votre titre afin de l'identifier plus facilement.
+- **TITRE**: Il convient d'ajouter " - DataSud" à votre titre afin de l'identifier plus facilement.
 - URL : https://trouver.datasud.fr/dataset
 - **IMPLEMENTATION : CKAN**
 - Il est TRES important de ne pas oublier d'ajouter un filtre. Au risque de moissonner tout DataSud.
-- **FILTRES -> INCLURE -> Organisation : ajouter l'identifiant DataSud de votre organisation.**
-- L'identifiant est celui de votre url organisation sur DataSud.
-- Exemple 1 https://trouver.datasud.fr/organization/avignon -> Identifiant avignon
+- **FILTRES -> INCLURE -> Organisation : ajouter l'identifiant de votre organisation dans DataSud.** ( il s'agit de l'url de votre organisation sur DataSud)
+- Exemple 1 hhttps://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee -> Identifiant de la CAVEM.
 - example 2 https://trouver.datasud.fr/organization/smo-sud-thd -> identifiant smo-sud-thd
 - Cochez la case ACTIF. 
 - CLiquez sur **ENREGISTRER.**
-- **Fin de l'étape 2.**
+
+-	**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr**.
+-	**ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
+-	**ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
+
+
+
+
 
 
 .. image:: CaptureMoissonneur3.PNG
