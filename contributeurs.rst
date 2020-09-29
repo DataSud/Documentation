@@ -273,10 +273,10 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 **Mise en place de la procédure :**
 
--	**ETAPE 1:** Chaque contributeur crée une organisation sur Data.Gouv avec un compte utilisateur en son nom. `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
+**ETAPE 1:** Chaque contributeur crée une organisation sur Data.Gouv avec un compte utilisateur en son nom. `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
 - Ce compte utilisateur doit être administrateur de l'organisation.
 
--	**ETAPE 2: création d'un point de moissonnage sur DataGouv** L'administrateur de l'organisation sur Data.gouv.fr doit déclarer un point de moissonnage depuis l’interface d’administration DataGouv. 
+**ETAPE 2: création d'un point de moissonnage sur DataGouv** L'administrateur de l'organisation sur Data.gouv.fr doit déclarer un point de moissonnage depuis l’interface d’administration DataGouv. 
 
 - En haut à droite de votre espace d'administration DataGouv, cliquez sur plus, puis AJOUTER un MOISSONNEUR (ecran1).
 
@@ -297,9 +297,9 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - Cochez la case ACTIF. 
 - CLiquez sur **ENREGISTRER.**
 
--	**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr**.
--	**ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
--	**ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
+**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr**.
+**ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
+**ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
 
 
 
