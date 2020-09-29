@@ -297,8 +297,10 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - Cochez la case ACTIF. 
 - CLiquez sur **ENREGISTRER.**
 
-**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs CRIGE et Région de DataSud en écrivant à contact@datasud.fr**.
+**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à contact@datasud.fr**.
+
 **ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
+
 **ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
 
 
