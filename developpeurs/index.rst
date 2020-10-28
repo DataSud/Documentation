@@ -246,7 +246,7 @@ https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&c
 
 
 Marque blanche / Widget
-==============
+=======================
 
 DataSud permet d'intégrer un **catalogue de données en marque blanche sur un site web externe**. Cette fonctionnalité est également intitulée 'widget'. Elle offre une solution technique pour valoriser le catalogue de données d'une organisation et plus largement de tout sous ensemble du catalogue de données DataSud filtré par une ou plusieurs facettes (organisations, thématiques, formats, licences, recherche par mot clé...).
 
@@ -336,9 +336,20 @@ https://www.dignelesbains.fr/coordonnees-et-horaires-de-la-mairie/open-data/
 Web Map Service ( WMS )
 ======================
 
-La mise en œuvre des services WMS, WMTS, WFS et WCS est possible sur Datasud grace à différents serveurs de données cartographiques à partir desquels les producteurs de données peuvent construire des cartes interactives facilement consultables
-Les ressources proposées selon le protocole de communication standard WMS permettent la visualisation et la representation des objets géoréférencées sur une carte du territoire concerné.
-Le producteur de données souhaitant afficher une carte à partir de données géoréférencées via une URL doit préciser les informations qu'il désire voir sur la carte :
+La mise en œuvre des services WMS, WMTS, WFS et WCS est possible sur Datasud grace à différents serveurs de données cartographiques à partir desquels les producteurs de données peuvent construire des cartes interactives facilement consultables.
+
+Les ressources publiées selon le protocole de communication standard des flux WMS permettent la visualisation et la representation des objets géoréférencées sur une carte du territoire concerné. Le visualiseur peut afficher les données georeférencées telechargées sur DataSud ou celles qui sont issues d'autres infrastructures de publication de données géographiques externes.
+
+Les outils complémentaires du visualiseur : 
+* il permet l'affichage de la carte en mode plein écran et d'une vue générale (Overview Map) rétractable ; 
+•	Une légende rétractable alimentée par des requêtes GetLegendGraphic et permettant de régler la transparence des couches affichées, de les activer/désactiver,
+•	d'une petite barre d'outils cartographique : Zoom+, Zoom-, vue précédente, vue suivante, mesure linéaire et surfacique, permalien et d'un bouton « HOME » pour revenir à l'étendue initiale
+•	de l'affichage de l'échelle et d'un outil de zoom selon des échelles libres ;
+•	d’un bouton « INFO » effectuant un getFeatureInfo sur la ou les couches actives identifiées comme interrogeables ;
+•	d'un bouton « Ajout WMS externe » permettant de récupérer des couches externes à partir de la saisie libre de l'utilisateur (service WMS) ou du choix d'un service dans une liste paramétrable par l'administrateur ; 
+•	d'un bouton « impression » permettant de générer facilement un PDF A4 ou A3, portrait ou paysage, de la vue en cours ;
+
+Le producteur de donnée qui souhaite afficher une carte à partir de données géoréférencées doit préciser les informations qu'il désire voir sur la carte :
 
 * Couches à tracer parmi celles disponibles.
 * Styles des couches.
