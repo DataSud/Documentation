@@ -328,15 +328,23 @@ http://geo.pnrpaca.org/geoservices/catalogue-de-donnees/
 - Sur le site internet du Département des Alpes-Maritimes : 
 https://www.departement06.fr/l-information-du-departement/opendata-29882.html
 
-- Sur le site internet du la ville de Digen les Bains : 
+- Sur le site internet du la ville de Digne-les-Bains : 
 https://www.dignelesbains.fr/coordonnees-et-horaires-de-la-mairie/open-data/
 
 
 
-Service WMS
-===========
+Web Map Service ( WMS )
+======================
 
-En cours.
+La mise en œuvre des services WMS, WMTS, WFS et WCS est possible sur Datasud grace à différents serveurs de données cartographiques à partir desquels les producteurs de données peuvent construire des cartes interactives facilement consultables
+Les ressources proposées selon le protocole de communication standard WMS permettent la visualisation et la representation des objets géoréférencées sur une carte du territoire concerné.
+Le producteur de données souhaitant afficher une carte à partir de données géoréférencées via une URL doit préciser les informations qu'il désire voir sur la carte :
+
+* Couches à tracer parmi celles disponibles.
+* Styles des couches.
+* Système de référence à utiliser.
+* Taille de l'image produite.
+* Étendue de la carte souhaitée.
 
 
 Service WFS
