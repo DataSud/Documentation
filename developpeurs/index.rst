@@ -340,15 +340,14 @@ La mise en œuvre des services WMS, WMTS, WFS et WCS est possible sur Datasud gr
 
 Les ressources publiées selon le protocole de communication standard des flux WMS permettent la visualisation et la representation des objets géoréférencées.
 
-Les outils complémentaires du visualiseur : 
+Les outils du visualiseur pour les utilisateurs de DataSud : 
 
-* il permet l'affichage de la carte en mode plein écran et d'une vue générale (Overview Map) rétractable ; 
-*	Une légende rétractable alimentée par des requêtes GetLegendGraphic et permettant de régler la transparence des couches affichées, de les activer/désactiver,
-*	d'une petite barre d'outils cartographique : Zoom+, Zoom-, vue précédente, vue suivante, mesure linéaire et surfacique, permalien et d'un bouton « HOME » pour revenir à l'étendue initiale
-*	de l'affichage de l'échelle et d'un outil de zoom selon des échelles libres ;
-*	d’un bouton « INFO » effectuant un getFeatureInfo sur la ou les couches actives identifiées comme interrogeables ;
-*	d'un bouton « Ajout WMS externe » permettant de récupérer des couches externes à partir de la saisie libre de l'utilisateur (service WMS) ou du choix d'un service dans une liste paramétrable par l'administrateur ; 
-*	d'un bouton « impression » permettant de générer facilement un PDF A4 ou A3, portrait ou paysage, de la vue en cours ;
+* Affichage de la carte en mode plein écran et d'une vue générale (Overview Map) rétractable ; 
+*	Une légende rétractable permettant de régler la transparence des couches affichées, de les activer/désactiver,
+*	Une petite barre d'outils cartographique : Zoom+, Zoom-, vue précédente, vue suivante, mesure linéaire et surfacique, permalien et un bouton « HOME » pour revenir à l'étendue initiale
+*	Affichage de l'échelle et d'un outil de zoom selon des échelles libres ;
+*	Un bouton « INFO » sur la ou les couches actives identifiées comme interrogeables ;
+*	Un bouton « impression » permettant de générer facilement un PDF A4 ou A3, portrait ou paysage, de la vue en cours ;
 
 Le producteur de donnée qui souhaite afficher une carte à partir de données géoréférencées doit préciser les informations qu'il désire voir apparaitre sur la carte :
 
@@ -358,7 +357,7 @@ Le producteur de donnée qui souhaite afficher une carte à partir de données g
 * Taille de l'image produite.
 * Étendue de la carte souhaitée ou du territoire concerné
 
-Le visualiseur peut afficher soit les données géoreférencées telechargées dans l'entrepot de données de DataSud, ainsi que celles qui sont issues d'autres infrastructures de publication de données géographiques externes.
+Le visualiseur peut afficher soit les données géoreférencées telechargées dans l'entrepot de données de DataSud, ainsi que celles qui sont issues d'autres infrastructures de publication de données géographiques externes ; la fonction « Ajout WMS externe » permet de récupérer des couches externes à partir de la saisie libre de l'utilisateur (service WMS) ou du choix d'un service dans une liste paramétrable par le producteur. 
 
 Service WFS
 ===========
