@@ -338,7 +338,7 @@ Web Map Service ( WMS )
 
 La mise en œuvre des services WMS, WMTS, WFS et WCS est possible sur Datasud grace à différents serveurs de données cartographiques à partir desquels les producteurs de données peuvent construire des cartes interactives facilement consultables.
 
-Les ressources publiées selon le protocole de communication standard des flux WMS permettent la visualisation et la representation des objets géoréférencées sur une carte du territoire concerné. Le visualiseur peut afficher les données georeférencées telechargées sur DataSud ou celles qui sont issues d'autres infrastructures de publication de données géographiques externes.
+Les ressources publiées selon le protocole de communication standard des flux WMS permettent la visualisation et la representation des objets géoréférencées.
 
 Les outils complémentaires du visualiseur : 
 
@@ -350,14 +350,15 @@ Les outils complémentaires du visualiseur :
 *	d'un bouton « Ajout WMS externe » permettant de récupérer des couches externes à partir de la saisie libre de l'utilisateur (service WMS) ou du choix d'un service dans une liste paramétrable par l'administrateur ; 
 *	d'un bouton « impression » permettant de générer facilement un PDF A4 ou A3, portrait ou paysage, de la vue en cours ;
 
-Le producteur de donnée qui souhaite afficher une carte à partir de données géoréférencées doit préciser les informations qu'il désire voir sur la carte :
+Le producteur de donnée qui souhaite afficher une carte à partir de données géoréférencées doit préciser les informations qu'il désire voir apparaitre sur la carte :
 
 * Couches à tracer parmi celles disponibles.
 * Styles des couches.
 * Système de référence à utiliser.
 * Taille de l'image produite.
-* Étendue de la carte souhaitée.
+* Étendue de la carte souhaitée ou du territoire concerné
 
+Le visualiseur peut afficher soit les données géoreférencées telechargées dans l'entrepot de données de DataSud, ainsi que celles qui sont issues d'autres infrastructures de publication de données géographiques externes.
 
 Service WFS
 ===========
