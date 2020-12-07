@@ -242,7 +242,7 @@ call. La fonction est nommée dans le paramètre 'callback'. Par exemple:
 
 https://trouver.datasud.fr/api/3/action/package_show?id=adur_district_spending&callback=myfunction
 
-.. note :: Cela ne fonctionne qu'avec les requêtes GET
+.. note :: Cela ne fonctionne qu'avec les requêtes GET qui incluent toutes les données requises dans l’URL (  spécifier method = "GET" dans l’élément <form> )
 
 
 Marque blanche / Widget
