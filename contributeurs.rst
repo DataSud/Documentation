@@ -253,7 +253,7 @@ Projections : en cours de rédaction.
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Cette partie de la documentation est en cours de rédaction par le CRIGE.
+Cette partie de la documentation est en cours de rédaction.
 
 ---------------------------------------------
 Faire remonter vos données sur Data.Gouv.fr
