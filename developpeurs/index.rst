@@ -263,7 +263,7 @@ La marque blanche DataSud a été développée par Neogeo Technologies. Elle est
   https://github.com/neogeo-technologies/ckan-widget/blob/master/LICENSE
 
 * Les fichiers à inclure et un exemple de code HTML sont disponibles ici : 
-  https://github.com/neogeo-technologies/ckan-widget/tree/master/build
+  https://github.com/DataSud/Marque-Blanche
 
 * A quoi ressemble la marque blanche ?
 
