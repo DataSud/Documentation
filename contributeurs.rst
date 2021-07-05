@@ -172,7 +172,7 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 il faut activer au préalable le compte sFTP en cliquant sur le lien "cliquez ici"
 
-.. image:: DepotsFTP.PNG
+.. image:: DepotsFTP.JPG
 
 
 .. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
