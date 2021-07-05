@@ -168,9 +168,9 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 .. image:: Upload_ressources_ref_URL.PNG
 
-**4.	Dépot FTP:**
+**4.	Dépot sFTP:**
 
-il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici"
+il faut activer au préalable le compte sFTP en cliquant sur le lien "cliquez ici"
 
 .. image:: DepotsFTP.PNG
 
