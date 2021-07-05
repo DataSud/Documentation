@@ -170,7 +170,7 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 **4.	Dépot sFTP:**
 
-il faut activer au préalable le compte sFTP en cliquant sur le lien "cliquez ici"
+il faut activer au préalable le compte sFTP
 
 .. image:: DepotsFTP.JPG
 
