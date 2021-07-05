@@ -170,8 +170,8 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 **4.	Dépot sFTP:**
 
-Le programme sftp apporte une interface similaire au programme ftp. 
-Il s'agit d'une publication de fichiers à distance qui s'effectue via un logiciel SSH, en voici quelques-uns :
+Le programme sftp apporte une interface similaire au programme ftp qui permet de publier des fichiers à distance. 
+Pour vous connecter à votre dépôt Sftp et déposer un fichier vous pouvez le faire avec un logiciel SSH, en voici quelques-uns :
 
 * Filezilla (The free FTP solution https://filezilla-project.org/)
 * Putty ( 0.75 pour Windows - Télécharger sur https://putty.fr.uptodown.com/windows
@@ -180,12 +180,13 @@ Il s'agit d'une publication de fichiers à distance qui s'effectue via un logici
 
 .. image:: DepotsFTP.JPG
 
+Paramètre de connexion : 
 
-* L'adresse de connexion est maintenant : sftp://sftp.datasud.fr
+* L'adresse de connexion est : sftp://sftp.datasud.fr
 * Le port est le : 921
 * Les utilisateurs doivent utiliser leur login/mdp de DataSud pour se connecter et accéder à leur espace
-* Une fois connecté, vous avez accès à votre espace de dépôt sFTP 
-Vous pouvez y déposer des fichiers, puis directement sur DataSud venir déposer des jeux de données depuis votre espace sFTP
+* Une fois connecté, vous avez accès à votre espace de dépôt sFTP et vous pouvez y déposer des fichiers, 
+* puis vous pouvez déposer directement sur DataSud les jeux de données depuis votre espace sFTP
 
 .. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
 
