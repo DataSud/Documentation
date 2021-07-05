@@ -172,10 +172,10 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 il faut activer au préalable le compte FTP en cliquant sur le lien "cliquez ici"
 
-.. image:: Upload_ressources_FTP.PNG
+.. image:: DepotsFTP.PNG
 
 
-.. note:: Il peut arriver que la connexion au serveur FTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte FTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
+.. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
 
 ------------------------------------------------
 Mettre à jour un jeu de données ou une ressource
