@@ -170,7 +170,17 @@ Cette donnée apparait au catalogue de DataSud mais elle n'est pas hébergée da
 
 **4.	Dépot sFTP:**
 
-il faut activer au préalable le compte sFTP
+Le programme sftp apporte une interface similaire au programme ftp. 
+Il s'agit d'une publication de fichiers à distance qui s'effectue via un logiciel SSH, en voici quelques-uns :
+-	Filezilla (The free FTP solution https://filezilla-project.org/)
+-	Putty ( 0.75 pour Windows - Télécharger sur https://putty.fr.uptodown.com/windows
+-	mobaXterm (MobaXterm free Xserver and tabbed SSH client for Windows sur https://mobaxterm.mobatek.net/)
+
+L'adresse de connexion est maintenant : sftp://sftp.datasud.fr
+Le port est le : 921
+Les utilisateurs doivent utiliser leur login/mdp de DataSud pour se connecter et accéder à leur espace
+Une fois connecté, vous avez accès à votre espace de dépôt sFTP 
+Vous pouvez y déposer des fichiers, puis directement sur DataSud venir déposer des jeux de données depuis votre espace sFTP
 
 .. image:: DepotsFTP.JPG
 
