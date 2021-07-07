@@ -56,9 +56,9 @@ La description est facultative mais fortement conseillée, d'une part pour perme
 .. image:: Creation_orga2.PNG
 
 
-----------------------------------------------
+-----------------------------------
 Editer la page d'une Organisation
-----------------------------------------------
+-----------------------------------
 
 
 Pour éditer la page de son organisation, le Contributeur clique sur l'onglet ORGANISATIONS dans son espace d'administration. 
@@ -83,7 +83,7 @@ Depuis l'onglet "Jeux de données", tous les utilisateurs inscrits accèdent à 
 * Le sous-onglet « Tous les jeux de données » présente à l'utilisateur tous les jeux de données qu'il a publié ainsi que tous les jeux de données publiés pour les organisations dont il est le référent.
 * Les trois sous-onglets suivants "Jeux de données moissonnés CKAN", "Jeux de données moissonnés CSW" et "Jeux de données moissonnés DCAT" présente à l'utilisateur les jeux de données issus de moissonnages de catalogues distants.
 
-.. image:: publier donnees.PNG
+.. image:: publier_donnees.PNG
 
 En sélectionnant un jeu de données, l'utilisateur peut :
 
