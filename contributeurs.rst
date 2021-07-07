@@ -227,8 +227,7 @@ Le contributeur peut choisir plusieurs types de restrictions :
 * à tous les utilisateurs possédant un compte.
 * à tous les utilisateurs « partenaires ».
 
-.. note:: Le mail renseigné dans le champ "Email du diffuseur" est utilisé pour la réception des demandes d'accès aux données sécurisées. 
-Aussi, les contributeurs peuvent indiquer une adresse particulière pour être informés de ces demandes d'accès.
+.. note:: Le mail renseigné dans le champ "Email du diffuseur" est utilisé pour la réception des demandes d'accès aux données sécurisées. Aussi, les contributeurs peuvent indiquer une adresse mail particulière pour être informés de ces demandes d'accès.
 
 ---------------------------------------------
 Publication en mode privé d'un jeu de données
