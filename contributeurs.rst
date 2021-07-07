@@ -69,9 +69,22 @@ La première fois que le contributeur édite la page de son organisation, il lui
 
 .. image:: Territoire_competence.PNG
 
---------------------------
-Publier un jeu de données
---------------------------
+----------------------------------------
+Publier des données (publier.datasud.fr)
+----------------------------------------
+
+---------------------------------------------------
+Tableau de bord des datasets et ressources publiées
+---------------------------------------------------
+
+Depuis l'onglet "Jeux de données", tous les utilisateurs inscrits accèdent à un dashboard des datasets qu'ils publient.
+* Le sous-onglet « Mes jeux de données » présente les datasets publiés par l’utilisateur, toutes organisations confondues.
+* Le sous-onglet « Tous les jeux de données » présente à l'utilisateur tous les jeux de données qu'il a publié ainsi que tous les jeux de données publiés pour les organisations dont il est le référent.
+* Les trois sous-onglets suivants "Jeux de données moissonnés CKAN", "Jeux de données moissonnés CSW" et "Jeux de données moissonnés DCAT" présente à l'utilisateur les jeux de données issus de moissonnages de catalogues distants.
+
+-------------------------
+Publier un jeu de données 
+-------------------------
 
 * Pour publier un jeu de donner le Contributeur se connecte avec son identifiant et mot de passe sur https://publier.datasud.fr
 
