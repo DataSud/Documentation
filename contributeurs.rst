@@ -82,15 +82,15 @@ Depuis l'onglet "Jeux de données", tous les utilisateurs inscrits accèdent à 
 * Le sous-onglet « Tous les jeux de données » présente à l'utilisateur tous les jeux de données qu'il a publié ainsi que tous les jeux de données publiés pour les organisations dont il est le référent.
 * Les trois sous-onglets suivants "Jeux de données moissonnés CKAN", "Jeux de données moissonnés CSW" et "Jeux de données moissonnés DCAT" présente à l'utilisateur les jeux de données issus de moissonnages de catalogues distants.
 
-.. image:: 
+.. image:: publier donnees.PNG
 
 En sélectionnant un jeu de données, l'utilisateur peut :
 
-le supprimer,
-éditer le jeu de données, les ressources associées ou la fiche de métadonnées Inspire,
-ouvrir le dataset dans le catalogue CKAN.
+* le supprimer,
+* éditer le jeu de données, les ressources associées ou la fiche de métadonnées Inspire,
+* ouvrir le dataset dans le catalogue CKAN.
 
-.. image:: 
+.. image:: Dataset_boutons_bas.png
 
 -------------------------
 Publier un jeu de données 
