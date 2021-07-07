@@ -214,11 +214,11 @@ Paramètre de connexion :
 
 .. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
 
----------------------------------------
-Publication en mode privé d'un dataset
----------------------------------------
+---------------------------------------------
+Publication en mode privé d'un jeu de données
+---------------------------------------------
 
-Il est possible de publier un dataset en mode « Privé » : dans ce cas, seuls les administrateurs de la plateforme ainsi que les utilisateurs rattachés à l’organisation qui publie pourront accéder au jeu de données dans le catalogue CKAN.
+Il est possible de publier un jeu de données en mode « Privé » : dans ce cas, seuls les administrateurs de la plateforme ainsi que les utilisateurs rattachés à l’organisation qui publie pourront accéder au jeu de données dans le catalogue CKAN.
 Ce mode de publication peut être considéré comme un mode brouillon et permet de vérifier et valider sa publication dans le catalogue.
 
 ------------------------------------------------
