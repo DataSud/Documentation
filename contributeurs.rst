@@ -214,6 +214,21 @@ Paramètre de connexion :
 
 .. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Restriction d'accès des ressources
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il est possible de restreindre l’accès des ressources publiées. Le contributeur peut choisir plusieurs types de restrictions :
+
+* à un ou plusieurs organismes (à choisir dans une liste déroulante) : dans ce cas seuls les utilisateurs rattachés à ces organismes pourront accéder à la ressource.
+* à une liste d’utilisateur inscrits sur la plateforme (à choisir dans une liste déroulante).
+* à tous les utilisateurs possédant un compte.
+* à tous les utilisateurs « partenaires ».
+
+NB : Le mail renseigné dans le champ "Email du diffuseur" est utilisé pour la réception des demandes d'accès aux données sécurisées. 
+Aussi, les contributeurs peuvent indiquer une adresse particulière pour être informés de ces demandes d'accès.
+NB : La restriction d'accès est gérée grâce à un module de CKAN (Ckanext-Restricted). Dès qu'une modification est enregistrée sur la ressource concernée, une notification est envoyée aux utilisateurs pour lesquels l'accès est accordé.
+
 ---------------------------------------------
 Publication en mode privé d'un jeu de données
 ---------------------------------------------
