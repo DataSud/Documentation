@@ -8,9 +8,9 @@ Ce guide est destiné aux producteurs de données, déjà inscrit en tant qu'Uti
 
 .. note:: Toute personne, morale ou physique, publique ou privée, producteur de données publiques ou privées peut les publier sur la DataSud, sous reserve d'accepter les « conditions d’utilisation » et de respecter la réglementation sur les données à caractères personnelles.
 
------------------------------------------------------------------------------
+--------------------------------------------------------
 Devenir Contributeur et Référent pour une organisation
------------------------------------------------------------------------------
+--------------------------------------------------------
 
 Les organisations sont le plus souvent des personnes morales (autorités administratives, associations, entreprises) ou également des groupes informels.
 
@@ -39,9 +39,9 @@ Les organisations sont le plus souvent des personnes morales (autorités adminis
 * Il peut autoriser ou supprimer le statut de Contributeur aux Utilisateurs,
 * Il recoit des notifications lorsque des modifications ont été apportées aux jeux de données et ressources de l'Organisation à laquelle il appartient.
 
-----------------------------------------------
+-----------------------
 Créer une Organisation
-----------------------------------------------
+-----------------------
 
 Toute demande de création d'une organisation est soumise à l'administrateur du site pour validation
 
@@ -214,6 +214,13 @@ Paramètre de connexion :
 
 .. note:: Il peut arriver que la connexion au serveur SFTP ne fonctionne pas lorsque le Proxy de votre organisation bloque l'accès au compte SFTP; Veuillez pour cela tester la connexion à partir d'un autre point d'accès internet sans Proxy ( depuis un smartphone ou une connexion internet personnelle).
 
+---------------------------------------
+Publication en mode privé d'un dataset
+---------------------------------------
+
+Il est possible de publier un dataset en mode « Privé » : dans ce cas, seuls les administrateurs de la plateforme ainsi que les utilisateurs rattachés à l’organisation qui publie pourront accéder au jeu de données dans le catalogue CKAN.
+Ce mode de publication peut être considéré comme un mode brouillon et permet de vérifier et valider sa publication dans le catalogue.
+
 ------------------------------------------------
 Mettre à jour un jeu de données ou une ressource
 ------------------------------------------------
@@ -225,7 +232,6 @@ L'actualisation d’une ressource existante permet d’en mettre à jour le cont
 -----------------------------------------------------
 Supprimer un ensemble de donnée et / ou une ressource
 -----------------------------------------------------
-
 
 Aller sur le site https://publier.datasud.fr/ et rechercher vos jeux de données; 
 
