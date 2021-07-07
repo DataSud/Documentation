@@ -243,9 +243,9 @@ Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de 
 Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
 
 
---------------------------------------------------
+-----------------------------------
 Datastore et données intelligentes
---------------------------------------------------
+-----------------------------------
 
 Datasud propose un **datastore**, c'est à dire un entrepôt de données qui offre des **services dits "intelligents" sur les données tabulaires aux formats CSV, XLS, GeoJSON, SHP**.
 
@@ -290,7 +290,12 @@ Projections : en cours de rédaction.
 Renseigner les métadonnées INSPIRE
 -------------------------------------------------------
 
-Cette partie de la documentation est en cours de rédaction.
+Les utilisateurs qui le souhaitent peuvent associer une fiche de métadonnée Inspire au dataset.
+Depuis l’interface d’édition du dataset, en cliquant sur « Editer la fiche de métadonnées INSPIRE » un formulaire présentant les nombreux champs requis pour ces fiches de métadonnées permet à l’utilisateur de créer une fiche dans Géonetwork.
+
+Lors du premier enregistrement, les champs communs avec ceux du dataset sont pré-remplis et une fiche est créée dans Geonetwork. 
+
+Par la suite, les modifications depuis ce formulaire sont reportées dans la fiche Geonetwork ainsi que dans le dataset IDGO.
 
 ---------------------------------------------
 Faire remonter vos données sur Data.Gouv.fr
