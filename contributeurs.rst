@@ -341,13 +341,19 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 **ETAPE 2: création d'un point de moissonnage sur DataGouv** L'administrateur de l'organisation sur Data.gouv.fr doit déclarer un point de moissonnage depuis l’interface d’administration DataGouv. 
 
-- En haut à droite de votre espace d'administration DataGouv, cliquez sur + puis Un moissonneur (ecran1).
+- En haut à droite de votre espace d'administration DataGouv, cliquez sur **+** puis Un moissonneur (ecran1).
 
 .. image:: ajout_moissoneur.PNG
 
-- Choisissez "Publier en tant qu’organisation", cliquez sur SUIVANT (ecran2).
+- Selectionner votre organisation "Publier en tant qu’organisation" (ecran2), 
 
 .. image:: CaptureMoissonneur2.PNG
+
+- cliquez sur SUIVANT
+
+.. image:: ajout_moissoneur_Suivant.PNG
+
+
 - C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur.
 - **TITRE**: Il convient d'ajouter " - DataSud" à votre titre afin de l'identifier plus facilement.
 - URL : https://trouver.datasud.fr/dataset
