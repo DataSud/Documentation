@@ -371,7 +371,7 @@ Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser dans le
 
 .. image:: ajout_nveau_moissoneur_filtre.PNG
 
-Cochez la case **Actif** puis cLiquez sur **ENREGISTRER**
+Cochez les cases **Actif** et **Archivage automatique** puis cliquez sur **ENREGISTRER**
 
 **ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à datasud@maregionsud.fr**.
 
