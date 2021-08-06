@@ -292,10 +292,7 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 
 * ERREUR : En cas d'erreur supprimez complètement la ressource associée au jeu de données et ajoutez en une nouvelle.
 
-.. Note:: **Attention avec Excel** 
-* lorque le fichier contient plusieurs feuillet (ou onglet), seule la dernière feuille de calcul est indexée dans le datastore. Il est donc nécessaire de déplacer la feuille de calcul contenant les données que vous souhaitez indexer dans le datastore en dernière place de votre tableur.
-
-* si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur.::
+.. Note:: **Attention avec Excel** Lorque le fichier contient plusieurs feuillet (ou onglet), seule la dernière feuille de calcul est indexée dans le datastore. Il est donc nécessaire de déplacer la feuille de calcul contenant les données que vous souhaitez indexer dans le datastore en dernière place de votre tableur. Si vous ne voulez pas indexer vos données dans le datastore (pour plein de bonnes et mauvaises raisons), il suffit d'ajouter une feuille de calcul vide en dernière place de votre tableur.::
 
 
 -----------------------------------------------------
@@ -356,7 +353,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 - C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur:
 
-**Nom**: Il convient d'ajouter **DataSud** à votre Nom afin de l'identifier plus facilement.
+**Nom**: Il convient d'ajouter **Mon organisation - DataSud** à votre Nom afin que le service support de Data.gouv.fr puisse l'identifier plus facilement.
 
 **URL** racine de l’instance CKAN : https://trouver.datasud.fr
 
@@ -366,7 +363,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 
 
-- Il est très important de ne pas oublier d'ajouter un filtre, au risque de moissonner tout DataSud (ecran4).
+.. Note:: Il est très important de ne pas oublier d'ajouter un filtre, au risque de moissonner tout DataSud::
 
 **Filtres -> Inclure -> Organisation -> un nom d'organisation CKAN (ajouter l'identifiant de votre organisation dans DataSud)** 
 
