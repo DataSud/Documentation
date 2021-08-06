@@ -331,7 +331,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 - Le **moissonneur ne prend pas en compte la suppression** de jeux de données. Chaque contributeur doit supprimer ses jeux de données directement sur Data.Gouv.fr
 - Un compte organisation sur DataGouv expose indifféremment les jeux de données créés manuellement sur Data.Gouv.fr et les jeux de données synchronisés automatiquement depuis DataSud. Faites ainsi bien attention aux doublons et à la cohérence des jeux de données.
 
-**Mise en place de la procédure :**
+**Mise en place de la procédure pour configurer votre moissonneur:**
 
 **ETAPE 1:** Chaque contributeur crée une organisation sur Data.Gouv avec un compte utilisateur en son nom. `« INSCRIPTION sur DataGouv » <https://www.data.gouv.fr/fr/login?next=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2F>`_ 
 - Ce compte utilisateur doit être administrateur de l'organisation.
@@ -367,13 +367,13 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 **Filtres -> Inclure -> Organisation -> un nom d'organisation CKAN (ajouter l'identifiant de votre organisation dans DataSud)** 
 
-Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser dans le nom d'organisation CKAN **durance-luberon-verdon-agglomeration** 
+Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser dans le nom d'organisation CKAN : **durance-luberon-verdon-agglomeration** 
 
 .. image:: ajout_nveau_moissoneur_filtre.PNG
 
 Cochez la case **Actif** puis cLiquez sur **ENREGISTRER**
 
-**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à contact@datasud.fr**.
+**ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à datasud@maregionsud.fr**.
 
 **ETAPE 4:** Etalab valide le moissonneur à la demande des administrateurs de DataSud.
 
