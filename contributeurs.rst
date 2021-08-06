@@ -356,13 +356,15 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 - C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur:
 
-.. image:: ajout_nveau_moissoneur.PNG
-
 **Nom**: Il convient d'ajouter **DataSud** à votre Nom afin de l'identifier plus facilement.
 
 **URL** racine de l’instance CKAN : https://trouver.datasud.fr
 
-**IMPLEMENTATION** ckan
+**Implementation** Choisir ckan dans le menu déroulant
+
+.. image:: ajout_nveau_moissoneur.PNG
+
+
 
 - Il est très important de ne pas oublier d'ajouter un filtre, au risque de moissonner tout DataSud (ecran4).
 
