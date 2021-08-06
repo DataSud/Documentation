@@ -349,22 +349,29 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 .. image:: CaptureMoissonneur2.PNG
 
-- cliquez sur SUIVANT
+- cliquez sur Suivant en bas à droite de votre écran
 
 .. image:: ajout_moissoneur_Suivant.PNG
 
 
-- C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur.
-- **TITRE**: Il convient d'ajouter " - DataSud" à votre titre afin de l'identifier plus facilement.
-- URL : https://trouver.datasud.fr/dataset
-- **IMPLEMENTATION : CKAN**
-- Il est TRES important de ne pas oublier d'ajouter un filtre. Au risque de moissonner tout DataSud.
-- **FILTRES -> INCLURE -> Organisation : ajouter l'identifiant de votre organisation dans DataSud.** ( il s'agit de l'url de votre organisation sur DataSud)
-- Exemple 1 https://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee -> Identifiant de la CAVEM.
-- example 2 https://trouver.datasud.fr/organization/smo-sud-thd -> identifiant smo-sud-thd
-.. image:: CaptureMoissonneur3.PNG
+- C'est ensuite ici que vous renseignez les informations techniques de votre moissonneur (ecran3 ):
+
+.. image:: ajout_nveau_moissoneur.PNG
+
+**Nom**: Il convient d'ajouter **DataSud** à votre Nom afin de l'identifier plus facilement.
+**URL** racine de l’instance CKAN : https://trouver.datasud.fr
+**IMPLEMENTATION** ckan
+
+- Il est très important de ne pas oublier d'ajouter un filtre, au risque de moissonner tout DataSud (ecran4).
+
+- **FILTRES -> INCLURE -> un nom d'Organisation CKAN : ajouter l'identifiant de votre organisation dans DataSud** 
+
+- Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser **durance-luberon-verdon-agglomeration** dans le filtre Un nom d'organisation CKAN
+
+.. image:: ajout_nveau_moissoneur_filtre.PNG
+
 - Cochez la case ACTIF. 
-- CLiquez sur **ENREGISTRER.**
+- CLiquez sur **ENREGISTRER**
 
 **ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à contact@datasud.fr**.
 
