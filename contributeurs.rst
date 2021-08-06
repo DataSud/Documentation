@@ -369,7 +369,7 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 
 Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser dans le nom d'organisation CKAN : **durance-luberon-verdon-agglomeration** 
 
-
+.. image:: ajout_nveau_moissoneur_filtre.PNG
 
 Cochez les cases **Actif** et **Archivage automatique** puis cliquez sur **ENREGISTRER**
 
