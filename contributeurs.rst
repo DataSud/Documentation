@@ -359,19 +359,20 @@ La procédure est relativemment simple. Il suffit de la mettre en place pour une
 .. image:: ajout_nveau_moissoneur.PNG
 
 **Nom**: Il convient d'ajouter **DataSud** à votre Nom afin de l'identifier plus facilement.
+
 **URL** racine de l’instance CKAN : https://trouver.datasud.fr
+
 **IMPLEMENTATION** ckan
 
 - Il est très important de ne pas oublier d'ajouter un filtre, au risque de moissonner tout DataSud (ecran4).
 
-- **FILTRES -> INCLURE -> un nom d'Organisation CKAN : ajouter l'identifiant de votre organisation dans DataSud** 
+**Filtres -> Inclure -> Organisation -> un nom d'organisation CKAN (ajouter l'identifiant de votre organisation dans DataSud)** 
 
-- Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser **durance-luberon-verdon-agglomeration** dans le filtre Un nom d'organisation CKAN
+Exemple : Pour filtrer les jeux de données de DLVA, il faudra préciser dans le nom d'organisation CKAN **durance-luberon-verdon-agglomeration** 
 
 .. image:: ajout_nveau_moissoneur_filtre.PNG
 
-- Cochez la case ACTIF. 
-- CLiquez sur **ENREGISTRER**
+Cochez la case **Actif** puis cLiquez sur **ENREGISTRER**
 
 **ETAPE 3:** Une fois créé, chaque contributeur **déclare son moissonneur aux administrateurs de DataSud en écrivant à contact@datasud.fr**.
 
