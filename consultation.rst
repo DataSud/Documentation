@@ -20,13 +20,13 @@ Pour de meilleurs résultats, DataSud permet de « filtrer » les données, d'ef
 
 L’ensemble de ces « filtres » peuvent être cumulés pour affiner les résultats avec un moteur de recherche “textuel”
 
-- *>> Catalogue de données DataSud* https://trouver.datasud.fr/dataset
+- * Catalogue de données DataSud* https://trouver.datasud.fr/dataset
 
-- *>> Liste des organisations DataSud* https://trouver.datasud.fr/organization
+- * Liste des organisations DataSud* https://trouver.datasud.fr/organization
 
-- *>> Liste des thématiques DataSud* https://trouver.datasud.fr/group
+- * Liste des thématiques DataSud* https://trouver.datasud.fr/group
 
-- *>> Liste des réutilisations recensées à partir des données publiées DataSud* https://trouver.datasud.fr/showcase
+- * Liste des réutilisations recensées à partir des données publiées DataSud* https://trouver.datasud.fr/showcase
 
 Il n'y a pas d'inscription préalable pour accéder aux jeux de données et aux ressources diffusés en "Open Data". 
 
