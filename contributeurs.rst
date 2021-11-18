@@ -263,6 +263,13 @@ Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de 
 
 Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
 
+---------------------------------------------------------------
+Valoriser un ensemble de donnée en déclarant leur réutilisation 
+---------------------------------------------------------------
+
+.. image:: Valoriser_donnees.PNG
+
+.. image:: Ajouter_reutilisation.PNG
 
 -----------------------------------
 Datastore et données intelligentes
