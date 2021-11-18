@@ -34,13 +34,8 @@ De nombreuses fonctionnalités participatives sont proposées :
 - Contacter les administrateurs de DataSud : https://www.datasud.fr/contactez-nous/
 - Contacter directement le producteur ou le diffuseur d'un jeu de données
 - Suivre/s’abonner à un jeu de données, une thématique ou une organisation,
-- Noter la qualité d'un jeu de donnée,
-.. image:: VuesDataSud.PNG 
-
 - Demander l'accès aux administrateurs à des données réservées sur accès restreint,
 - Accéder aux données et services autorisés pour une organisation.
-- Commenter une organisation ou un jeu de données 
-.. image:: Commentaires.PNG 
 - Partager un jeu de données ou une ressource sur un autre site ou via des réseaux sociaux
 - Déclarer une réutilisation : https://trouver.datasud.fr/showcase/new
 
