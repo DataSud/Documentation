@@ -1,5 +1,5 @@
 ===================
-Espace consultation
+Espace consultation test
 ===================
 
 DataSud est un catalogue ouvert à tous :
