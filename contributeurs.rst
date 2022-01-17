@@ -406,83 +406,49 @@ Les données MAJIC 2021 sont disponibles au téléchargement pour les partenaire
 Ce nouveau service prend en charge vos demandes de fichiers MAJIC depuis le mois de septembre 2021. 
 
 Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
-
--	Inscrivez-vous sur datasud.fr ;
-
--	Prenez connaissance des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
-
--	Téléchargez et remplissez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] ;
-
--	Fournir les coordonnées du DPO de votre organisme. S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
-
--	Remplissez et versez l’acte d’engagement et le récépissé de la CNIL depuis l’espace dédié de DataSUD. La livraison des données sera faite via la plateforme DataSUD dès validation de votre demande ;
-
--	Vérifiez la validité du territoire de compétence de votre organisme.
-
--	Télécharger vos données depuis votre espace DataSUD.
+* Inscrivez-vous sur datasud.fr ;
+* Prenez connaissance des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
+* Téléchargez et remplissez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] ;
+* Fournir les coordonnées du DPO de votre organisme. S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
+* Remplissez et versez l’acte d’engagement et le récépissé de la CNIL depuis l’espace dédié de DataSUD. La livraison des données sera faite via la plateforme DataSUD dès validation de votre demande ;
+* Vérifiez la validité du territoire de compétence de votre organisme.
+* Télécharger vos données depuis votre espace DataSUD.
 
 **1. Les ayants droit**
 
 L’accès aux fichiers littéraux est limité aux collectivités territoriales, aux administrations et aux organismes chargés d’une mission de service public. La seule exception concerne le fichier des voies et lieudits (fichier FANTOIR) qui est délivré gratuitement à tout demandeur. 
 Les droits sont ouverts aux : 
-
--	Collectivités territoriales : les communes, les Départements, la Région.
-
--	Etablissements publics de coopération intercommunale : les syndicats de communes, les communautés de communes, les communautés urbaines, les communautés d'agglomération, les syndicats d'agglomération nouvelle et les métropoles.
-
--	Administrations d’Etat : L'Etat est représenté par les services centraux ou territoriaux de ses administrations. À cette catégorie sont rattachées certaines autorités administratives indépendantes.
-
--	Etablissements publics : La catégorie des établissements publics comprend les organismes et établissements de droit public, financés par des fonds publics, et dont la mission est de servir l'intérêt général. On distingue deux principales catégories d'établissements publics : 
-
-o	à caractère administratif ; 
-
-o	à caractère industriel et commercial. 
-
--	Etablissements publics administratifs : Ce sont des personnes morales de droit public gérant une activité de service public ou parapublic sous le contrôle de l'Etat ou d'une collectivité territoriale. Parmi les établissements publics administratifs susceptibles de commander des fichiers cadastraux, il convient de citer : 
-
-o	les associations syndicales autorisées (ASA) et les associations syndicales constituées d'office (ASCO), 
-
-o	l'institut national de l'information géographique et forestière (IGN), 
-
-o	l'institut national de l’origine et de la qualité (INAO), 
-
-o	le conservatoire du littoral, 
-
-o	les services départementaux d'incendie et de secours (SDIS), 
-
-o	le syndicat des transports d'Ile-de-France (STIF), 
-
-o	les chambres de commerce et d'industrie (CCI). 
-
--	Etablissements publics industriels et commerciaux : Ce sont des personnes morales de droit public gérant une activité de service public de nature industrielle ou commerciale selon les règles de gestion d'une entreprise privée industrielle ou commerciale. Parmi les établissements publics industriels ou commerciaux susceptibles de commander des fichiers cadastraux, il convient de citer : 
-
-o	l'office national des forêts (ONF), 
-
-o	le réseau ferré de France (RFF), 
-
-o	la société nationale des chemins de fer français (SNCF), 
-
-o	les offices publics de l'habitat (OPH). 
-
--	Groupements d’intérêt public (GIP) ou Associations loi 1901 : Ce sont des personnes morales de droit public dont les membres exercent des activités d'intérêt général à but non lucratif. 
-
--	Sociétés publiques locales d’aménagement (SPLA) : Les sociétés publiques locales d'aménagement ont été créées par la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement. Dans la mesure où le capital d'une SPLA est entièrement public, où son activité est réalisée intégralement pour le compte et uniquement sur le territoire des collectivités qui en sont actionnaires, et où ses statuts prévoient un contrôle suffisant pour que l'on puisse considérer que la personne publique délégante exerce sur la société un contrôle analogue à celui qu'il exerce sur ses propres services, la SPLA peut être considérée comme un tiers habilité à recevoir les données littérales de la DGFiP. 
-
--	Prestataires de services : La restriction tenant à l'usage interne des données ne fait toutefois pas obstacle à une utilisation des données par un prestataire de services chargé de réaliser des traitements ou d'apporter son concours pour les études mises en œuvre par le demandeur. En cas de recours à un prestataire de services, une convention doit définir précisément les traitements qui lui sont demandés. Le prestataire doit prendre les mesures de sécurité nécessaires et s’engager à ce que les informations communiquées ne soient pas conservées, utilisées ou dupliquées à d’autres fins que celles indiquées par la convention. À l’issue de sa mission, il doit détruire tous les fichiers manuels ou informatisés servant de supports aux informations saisies. 
+* Collectivités territoriales : les communes, les Départements, la Région.
+* Etablissements publics de coopération intercommunale : les syndicats de communes, les communautés de communes, les communautés urbaines, les communautés d'agglomération, les syndicats d'agglomération nouvelle et les métropoles.
+* Administrations d’Etat : L'Etat est représenté par les services centraux ou territoriaux de ses administrations. À cette catégorie sont rattachées certaines autorités administratives indépendantes.
+* Etablissements publics : La catégorie des établissements publics comprend les organismes et établissements de droit public, financés par des fonds publics, et dont la mission est de servir l'intérêt général. On distingue deux principales catégories d'établissements publics : 
+- à caractère administratif ; 
+-	à caractère industriel et commercial. 
+* Etablissements publics administratifs : Ce sont des personnes morales de droit public gérant une activité de service public ou parapublic sous le contrôle de l'Etat ou d'une collectivité territoriale. Parmi les établissements publics administratifs susceptibles de commander des fichiers cadastraux, il convient de citer : 
+-	les associations syndicales autorisées (ASA) et les associations syndicales constituées d'office (ASCO), 
+-	l'institut national de l'information géographique et forestière (IGN), 
+-	l'institut national de l’origine et de la qualité (INAO), 
+-	le conservatoire du littoral, 
+-	les services départementaux d'incendie et de secours (SDIS), 
+-	le syndicat des transports d'Ile-de-France (STIF), 
+-	les chambres de commerce et d'industrie (CCI). 
+* Etablissements publics industriels et commerciaux : Ce sont des personnes morales de droit public gérant une activité de service public de nature industrielle ou commerciale selon les règles de gestion d'une entreprise privée industrielle ou commerciale. Parmi les établissements publics industriels ou commerciaux susceptibles de commander des fichiers cadastraux, il convient de citer : 
+-	l'office national des forêts (ONF), 
+-	le réseau ferré de France (RFF), 
+-	la société nationale des chemins de fer français (SNCF), 
+-	les offices publics de l'habitat (OPH). 
+* Groupements d’intérêt public (GIP) ou Associations loi 1901 : Ce sont des personnes morales de droit public dont les membres exercent des activités d'intérêt général à but non lucratif. 
+* Sociétés publiques locales d’aménagement (SPLA) : Les sociétés publiques locales d'aménagement ont été créées par la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement. Dans la mesure où le capital d'une SPLA est entièrement public, où son activité est réalisée intégralement pour le compte et uniquement sur le territoire des collectivités qui en sont actionnaires, et où ses statuts prévoient un contrôle suffisant pour que l'on puisse considérer que la personne publique délégante exerce sur la société un contrôle analogue à celui qu'il exerce sur ses propres services, la SPLA peut être considérée comme un tiers habilité à recevoir les données littérales de la DGFiP. 
+* Prestataires de services : La restriction tenant à l'usage interne des données ne fait toutefois pas obstacle à une utilisation des données par un prestataire de services chargé de réaliser des traitements ou d'apporter son concours pour les études mises en œuvre par le demandeur. En cas de recours à un prestataire de services, une convention doit définir précisément les traitements qui lui sont demandés. Le prestataire doit prendre les mesures de sécurité nécessaires et s’engager à ce que les informations communiquées ne soient pas conservées, utilisées ou dupliquées à d’autres fins que celles indiquées par la convention. À l’issue de sa mission, il doit détruire tous les fichiers manuels ou informatisés servant de supports aux informations saisies. 
 
 **2. Nature des documents délivrés** 
 
 Les fichiers fonciers standards issus de l’application MAJIC comprennent : 
-
--	Le fichier des propriétaires 
-
--	Le fichier des propriétés non bâties (parcelles) 
-
--	Le fichier des propriétés bâties (locaux) 
-
--	Le fichier des propriétés divisées en lots (lots de copropriété), complément des fichiers propriétés non bâties et bâties 
-
--	Le fichier des liens lots-locaux, complément du fichier propriétés bâties 
+* Le fichier des propriétaires 
+*	Le fichier des propriétés non bâties (parcelles) 
+*	Le fichier des propriétés bâties (locaux) 
+*	Le fichier des propriétés divisées en lots (lots de copropriété), complément des fichiers propriétés non bâties et bâties 
+*	Le fichier des liens lots-locaux, complément du fichier propriétés bâties 
 
 Ces fichiers produits une fois par an sont disponibles au début du deuxième semestre. Les données présentent la situation existante au 1er janvier de l’année. 
 Depuis 2013, la livraison des fichiers MAJIC n’inclut plus les fichiers FANTOIR. Le fichier des voies et lieux-dits ou fichier FANTOIR est librement à disposition en téléchargement sur le site http://www.collectivites-locales.gouv.fr 
@@ -513,39 +479,25 @@ Dorénavant il revient à l’organisme ayant-droit et recevant les données des
 *e. La procédure*
 
 Prérequis obligatoires et règles : 
-
--	Votre organisme doit être inscrit sur le site www.datasud.fr,
-
--	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute, 
-
--	Seule la personne désignée comme référente de votre organisation sera habilitée à télécharger les fichiers, 
-
--	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, 
+*	Votre organisme doit être inscrit sur le site www.datasud.fr,
+*	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute, 
+*	Seule la personne désignée comme référente de votre organisation sera habilitée à télécharger les fichiers, 
+*	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, 
 
 Etape 1 : Enregistrement de l’ayant droit sur www.datasud.fr (si ce n’est pas déjà fait)
-
--	Création d’un compte nominatif ; 
-
--	Affectation du compte à une organisation déjà existante ou création d’un nouvel organisme ;
-
--	Désignation du compte nominatif comme étant référent de l’organisation ;
+*	Création d’un compte nominatif ; 
+*	Affectation du compte à une organisation déjà existante ou création d’un nouvel organisme ;
+*	Désignation du compte nominatif comme étant référent de l’organisation ;
 
 Etape 2 : Activation de l’espace « MAJIC » 
 
 Depuis l’onglet « MAJIC » du site datasud.fr, il faudra :
-
--	Télécharger l’acte d’engagement, à remplir et à signer et à nous transmettre via la boîte de dialogue dédiée ;
-
--	Transmettre les coordonnées du DPO de votre organisme (nom, prénom et mail). S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
+*	Télécharger l’acte d’engagement, à remplir et à signer et à nous transmettre via la boîte de dialogue dédiée ;
+*	Transmettre les coordonnées du DPO de votre organisme (nom, prénom et mail). S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
 
 Etape 3 : Commande et téléchargement des fichiers 
 
 Une fois l’espace « MAJIC » activé et les documents validés, vous pourrez, toujours depuis l’onglet « MAJIC » :
-
--	Visionner le territoire concerné par votre organisme ;
-
--	Définir le type de lot souhaité, par commune ou par territoire ;
-
--	Lancer l’exécution de votre demande qui sera disponible quelques minutes plus tard. Attention, le lien pour télécharger les fichiers n’est valable que 2 heures.
-
-
+*	Visionner le territoire concerné par votre organisme ;
+*	Définir le type de lot souhaité, par commune ou par territoire ;
+*	Lancer l’exécution de votre demande qui sera disponible quelques minutes plus tard. Attention, le lien pour télécharger les fichiers n’est valable que 2 heures.
