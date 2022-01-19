@@ -263,6 +263,21 @@ Il est recomandé de Copier le titre de l'ensemble de donnée ( Ctrl C) afin de 
 
 Attention, cette action est irreversible et supprimera définitivement le jeu de données ainsi que toutes les ressources qui lui sont attachées.
 
+------------------------------------
+Principe du moissonnage dans Datasud
+------------------------------------
+
+Le moissonnage permet de référencer sur DataSud des jeux de donnés provenant d'autres plateformes de données ouvertes. 
+Les liens de téléchargement exposés par les catalogues d'origine sont utilisés pour créer des ressources référencées dans DataSud
+
+Les métadonnées des ensembles de données et des ressources peuvent être issues du catalogue d'origine ou générée par DataSud au moment du moissonnage.
+
+✴ Quel type de moissonnage de catalogue distant ?
+
+• CSW : pour le moissonnage de catalogues exposant leurs informations selon le standard OGC (ex : Geonetwork),
+• CKAN : pour le moissonnage de catalogues opendata CKAN,
+• DCAT : pour le moissonnage de catalogues exposés selon le standard DCAT-AP-CH au format RDF ou Json (ex :Opendatasoft)
+
 ---------------------------------------------------------------
 Valoriser un ensemble de donnée en déclarant leur réutilisation 
 ---------------------------------------------------------------
@@ -270,8 +285,6 @@ Valoriser un ensemble de donnée en déclarant leur réutilisation
 .. image:: Valoriser_donnees.PNG
 
 .. image:: Ajouter_reutilisation.PNG
-
-
 
 
 -----------------------------------------------------
