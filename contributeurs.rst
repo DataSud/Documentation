@@ -306,13 +306,20 @@ Pour éviter les erreurs de type, il est préférable de les corriger avant d'in
 Géolocalisation des données tabulaires (XLS et CSV)
 -----------------------------------------------------
 
-Une carte peut automatiquement être générée à partir de vos données tabulaires geolocalisées. 
-Pour cela vous devez avoir deux colonnes contenant vos coordonnées géographiques ou une colonnes géométrique (GeoJSON). La projection utilisée est le WGS84 (EPSG : 4326).
+Une carte peut-être automatiquement générée à partir de vos données tabulaires geolocalisées. 
+Pour cela vous devez avoir deux colonnes contenant des coordonnées géographiques ou bien une colonne géométrique (GeoJSON).
+
+La projection utilisée est le WGS84 (EPSG : 4326).
+
 Dans l'onglet "Grille", vous pouvez visualiser la table attributaire de vos données et vérifier qu'elles s'affichent correctement.
 
 .. image:: csv1.PNG
 
-Dans l'onglet "Carte", vous pouvez visualiser vos données géolocalisées et accéder aux paramètres. Vous pouvez chosir quel type de coordonnées vous souhaitez utiliser entre 2 attributs de type "latitude" et "longitude" ou un seul attribut de type géométrie GeoJSON. Selon votre choix, vous allez pouvoir définir la ou les colonnes qui contiennent les informations de géolocalisation. L'option "Marqueurs de regroupement" vous permet de "fusionner" visuellement les données proches.
+Dans l'onglet "Carte", vous pouvez visualiser vos données géolocalisées et accéder aux paramètres. 
+
+Vous pouvez chosir quel type de coordonnées vous souhaitez utiliser entre 2 attributs de type "latitude" et "longitude" ou un seul attribut de type géométrie GeoJSON. Selon votre choix, vous allez pouvoir définir la ou les colonnes qui contiennent les informations de géolocalisation. 
+
+L'option "Marqueurs de regroupement" vous permet de "fusionner" visuellement les données proches.
 
 .. image:: csv2.PNG
 
