@@ -317,7 +317,7 @@ Dans l'onglet "Grille", vous pouvez visualiser la table attributaire de vos donn
 
 Dans l'onglet "Carte", vous pouvez visualiser vos données géolocalisées et accéder aux paramètres. 
 
-Vous pouvez chosir quel type de coordonnées vous souhaitez utiliser entre 2 attributs de type "latitude" et "longitude" ou un seul attribut de type géométrie GeoJSON. Selon votre choix, vous allez pouvoir définir la ou les colonnes qui contiennent les informations de géolocalisation. 
+Vous pouvez choisir quel type de coordonnées vous souhaitez utiliser entre 2 attributs de type "latitude" et "longitude" ou un seul attribut de type géométrie GeoJSON. Selon votre choix, vous allez pouvoir définir la ou les colonnes qui contiennent les informations de géolocalisation. 
 
 L'option "Marqueurs de regroupement" vous permet de "fusionner" visuellement les données proches.
 
