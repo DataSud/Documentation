@@ -410,6 +410,7 @@ Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
 **1. Les ayants droit**
 
 L’accès aux fichiers littéraux est limité aux collectivités territoriales, aux administrations et aux organismes chargés d’une mission de service public. La seule exception concerne le fichier des voies et lieudits (fichier FANTOIR) qui est délivré gratuitement à tout demandeur. 
+
 Les droits sont ouverts aux : 
 
 * Collectivités territoriales : les communes, les Départements, la Région.
@@ -417,7 +418,7 @@ Les droits sont ouverts aux :
 * Administrations d’Etat : L'Etat est représenté par les services centraux ou territoriaux de ses administrations. À cette catégorie sont rattachées certaines autorités administratives indépendantes.
 * Etablissements publics : La catégorie des établissements publics comprend les organismes et établissements de droit public, financés par des fonds publics, et dont la mission est de servir l'intérêt général. On distingue deux principales catégories d'établissements publics ( à caractère administratif ; à caractère industriel et commercial). 
 * Etablissements publics administratifs : Ce sont des personnes morales de droit public gérant une activité de service public ou parapublic sous le contrôle de l'Etat ou d'une collectivité territoriale. 
-> Parmi les établissements publics administratifs susceptibles de commander des fichiers cadastraux, il convient de citer : 
+Parmi les établissements publics administratifs susceptibles de commander des fichiers cadastraux, il convient de citer : 
 -	les associations syndicales autorisées (ASA) et les associations syndicales constituées d'office (ASCO), 
 -	l'institut national de l'information géographique et forestière (IGN), 
 -	l'institut national de l’origine et de la qualité (INAO), 
@@ -426,7 +427,9 @@ Les droits sont ouverts aux :
 -	le syndicat des transports d'Ile-de-France (STIF), 
 -	les chambres de commerce et d'industrie (CCI). 
 * Etablissements publics industriels et commerciaux : Ce sont des personnes morales de droit public gérant une activité de service public de nature industrielle ou commerciale selon les règles de gestion d'une entreprise privée industrielle ou commerciale. 
-> Parmi les établissements publics industriels ou commerciaux susceptibles de commander des fichiers cadastraux, il convient de citer : 
+
+Parmi les établissements publics industriels ou commerciaux susceptibles de commander des fichiers cadastraux, il convient de citer : 
+
 -	l'office national des forêts (ONF), 
 -	le réseau ferré de France (RFF), 
 -	la société nationale des chemins de fer français (SNCF), 
