@@ -428,6 +428,7 @@ Parmi les établissements publics industriels ou commerciaux susceptibles de com
 **2. Nature des documents délivrés** 
 
 Les fichiers fonciers standards issus de l’application MAJIC comprennent : 
+
 * Le fichier des propriétaires 
 *	Le fichier des propriétés non bâties (parcelles) 
 *	Le fichier des propriétés bâties (locaux) 
@@ -454,15 +455,14 @@ Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
 
 * Inscrivez-vous sur datasud.fr en créant un compte nominatif ; 
 *	Affectation du compte à une organisation déjà existante sur DataSud ou création d’un nouvel organisme ;
-*	Désignation du compte nominatif comme étant référent de l’organisation ;
+*	Désignation du compte nominatif comme étant référent de l’organisation car seule la personne désignée comme référente d'une organisation sera habilitée à télécharger les fichiers,
 *	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute
-*	Seule la personne désignée comme référente de votre organisation sera habilitée à télécharger les fichiers, 
-*	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, ainsi que des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
 
 **Etape 2** : Activation de l’espace « MAJIC » 
 
 Depuis l’onglet « MAJIC » du site datasud.fr, il faudra :
 
+*	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, ainsi que des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
 *	Téléchargez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] à remplir et à signer et à nous transmettre via la boîte de dialogue dédiée ;
 *	Transmettre les coordonnées du DPO de votre organisme (nom, prénom et mail). S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
 * le récépissé de la CNIL sera transmis depuis l’espace dédié de DataSUD. La livraison des données sera faite via la plateforme DataSUD dès validation de votre demande ;
