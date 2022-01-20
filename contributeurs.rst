@@ -452,43 +452,17 @@ Depuis 2013, la livraison des fichiers MAJIC n’inclut plus les fichiers FANTOI
  
 **3. Conditions d’obtention des fichiers** 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*a. Instruction de la demande* 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*a. La procédure et l'instruction de la demande* 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La Région Provence-Alpes-Côte d’Azur se conforme aux directives de la direction régionale des finances publiques. Elle doit analyser la finalité de la demande et s'assurer en particulier que les données ne seront pas utilisées dans un but commercial (actions de publicité ou de démarchage), électoral, ou politique (envois de tracts d'une organisation ou d'un parti politique). 
 Elle pourra donc être amenée à effectuer des démarches d'éclaircissement auprès des demandeurs et, le cas échéant, à rejeter les demandes qui seraient manifestement incompatibles avec la législation. 
-L’accès aux données est conditionné par l’inscription gratuite sur le portail www.datasud.fr de l’organisme demandeur, depuis un compte utilisateur nominatif et désigné comme référent de l’organisation. La demande d’accès aux données se fait ensuite depuis l’onglet « MAJIC » disponible sur le site dès que l’utilisateur référent est connecté.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*b. Territoire de compétence* 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-La communication des données se limite à la compétence géographique et administrative du demandeur, qui doit les utiliser à des fins strictement internes. Il convient de réaliser un examen précis de la demande au regard de ces critères. 
-Si un adhérent souhaite modifier son territoire de compétence, il doit fournir une preuve de l’évolution de ce dernier, en envoyant à la Région Provence-Alpes-Côte d’Azur un document officiel comprenant les codes INSEE des communes à ajouter et/ou enlever. 
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*c. Contexte de la mise à disposition des fichiers* 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-La Région Provence-Alpes-Côte d’Azur, avec l’accord de la DGFIP, s’engage à distribuer aux ayants-droit les fichiers fonciers standards issus de l’application Majic. 
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-*d. Conformité des traitements avec la loi informatique et libertés et RGPD* 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Il est précisé que la délibération CNIL n° 2012-088 du 29 mars 2012 dispense de déclaration les traitements automatisés de données personnelles mis en œuvre aux fins de consultation des données issues de la matrice cadastrale par toute commune, groupement et organisme privé ou public chargé d'une mission de service public (J.O. du 13 mai 2012) et exempte de toute obligation déclarative ces demandeurs tant pour les fichiers fonciers que pour les cédéroms VisuDGFiP cadastre. 
-Le 28 mai 2018, la mise en place du Règlement Général sur la Protection des données (RGPD) rend obsolète l'obligation déclarative auprès de la CNIL des traitements informatisés de données à caractère personnel mis en œuvre dans le cadre d'un système d'information géographique via l’autorisation unique n°1 (AU-001). 
-Dorénavant il revient à l’organisme ayant-droit et recevant les données des fichiers fonciers de se mettre en conformité lui-même aux nouvelles dispositions encadrant le RGPD. Pour cela, un DPO doit être déclaré auprès de la CNIL. Plus d’information sur https://www.cnil.fr/fr/designation-dpo. 
-
-^^^^^^^^^^^^^^^^^
-*e. La procédure*
-^^^^^^^^^^^^^^^^^^
-
-Prérequis obligatoires et règles : 
+.. Note:: Prérequis obligatoires et règles : L’accès aux données est conditionné par l’inscription gratuite sur le portail www.datasud.fr de l’organisme demandeur, depuis un compte utilisateur nominatif et désigné comme référent de l’organisation. La demande d’accès aux données se fait ensuite depuis l’onglet « MAJIC » disponible sur le site dès que l’utilisateur référent est connecté.
 
 *	Votre organisme doit être inscrit sur le site www.datasud.fr,
-*	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute, 
+*	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute
 *	Seule la personne désignée comme référente de votre organisation sera habilitée à télécharger les fichiers, 
 *	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, 
 
@@ -512,3 +486,25 @@ Une fois l’espace « MAJIC » activé et les documents validés, vous pourrez,
 *	Visionner le territoire concerné par votre organisme ;
 *	Définir le type de lot souhaité, par commune ou par territoire ;
 *	Lancer l’exécution de votre demande qui sera disponible quelques minutes plus tard. Attention, le lien pour télécharger les fichiers n’est valable que 2 heures.
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*b. Territoire de compétence* 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La communication des données se limite à la compétence géographique et administrative du demandeur, qui doit les utiliser à des fins strictement internes. Il convient de réaliser un examen précis de la demande au regard de ces critères. 
+Si un adhérent souhaite modifier son territoire de compétence, il doit fournir une preuve de l’évolution de ce dernier, en envoyant à la Région Provence-Alpes-Côte d’Azur un document officiel comprenant les codes INSEE des communes à ajouter et/ou enlever. 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*c. Contexte de la mise à disposition des fichiers* 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La Région Provence-Alpes-Côte d’Azur, avec l’accord de la DGFIP, s’engage à distribuer aux ayants-droit les fichiers fonciers standards issus de l’application Majic. 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*d. Conformité des traitements avec la loi informatique et libertés et RGPD* 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il est précisé que la délibération CNIL n° 2012-088 du 29 mars 2012 dispense de déclaration les traitements automatisés de données personnelles mis en œuvre aux fins de consultation des données issues de la matrice cadastrale par toute commune, groupement et organisme privé ou public chargé d'une mission de service public (J.O. du 13 mai 2012) et exempte de toute obligation déclarative ces demandeurs tant pour les fichiers fonciers que pour les cédéroms VisuDGFiP cadastre. 
+Le 28 mai 2018, la mise en place du Règlement Général sur la Protection des données (RGPD) rend obsolète l'obligation déclarative auprès de la CNIL des traitements informatisés de données à caractère personnel mis en œuvre dans le cadre d'un système d'information géographique via l’autorisation unique n°1 (AU-001). 
+Dorénavant il revient à l’organisme ayant-droit et recevant les données des fichiers fonciers de se mettre en conformité lui-même aux nouvelles dispositions encadrant le RGPD. Pour cela, un DPO doit être déclaré auprès de la CNIL. Plus d’information sur https://www.cnil.fr/fr/designation-dpo. 
