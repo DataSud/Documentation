@@ -311,9 +311,9 @@ Vous pouvez également relayer cette carte sur votre site Internet en cliquant s
 
 Projections : en cours de rédaction.
 
--------------------------------------------------------
+-----------------------------------
 Renseigner les métadonnées INSPIRE
--------------------------------------------------------
+-----------------------------------
 
 Les utilisateurs qui le souhaitent peuvent associer une fiche de métadonnée Inspire au dataset.
 Depuis l’interface d’édition du dataset, en cliquant sur « Editer la fiche de métadonnées INSPIRE » un formulaire présentant les nombreux champs requis pour ces fiches de métadonnées permet à l’utilisateur de créer une fiche dans Géonetwork.
@@ -394,16 +394,6 @@ Les données MAJIC 2021 sont disponibles au téléchargement pour les partenaire
 
 Ce nouveau service prend en charge vos demandes de fichiers MAJIC depuis le mois de septembre 2021. 
 
-Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
-
-* Inscrivez-vous sur datasud.fr ;
-* Prenez connaissance des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
-* Téléchargez et remplissez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] ;
-* Fournir les coordonnées du DPO de votre organisme. S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
-* Remplissez et versez l’acte d’engagement et le récépissé de la CNIL depuis l’espace dédié de DataSUD. La livraison des données sera faite via la plateforme DataSUD dès validation de votre demande ;
-* Vérifiez la validité du territoire de compétence de votre organisme.
-* Télécharger vos données depuis votre espace DataSUD.
-
 **1. Les ayants droit**
 
 L’accès aux fichiers littéraux est limité aux collectivités territoriales, aux administrations et aux organismes chargés d’une mission de service public. La seule exception concerne le fichier des voies et lieudits (fichier FANTOIR) qui est délivré gratuitement à tout demandeur. 
@@ -458,32 +448,32 @@ Elle pourra donc être amenée à effectuer des démarches d'éclaircissement au
 
 .. Note:: Prérequis obligatoires et règles : L’accès aux données est conditionné par l’inscription gratuite sur le portail www.datasud.fr de l’organisme demandeur, depuis un compte utilisateur nominatif et désigné comme référent de l’organisation. La demande d’accès aux données se fait ensuite depuis l’onglet « MAJIC » disponible sur le site dès que l’utilisateur référent est connecté.
 
-*	Votre organisme doit être inscrit sur le site www.datasud.fr,
+Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
+
+**Etape 1** : Enregistrement de l’ayant droit sur www.datasud.fr (si ce n’est pas déjà fait)
+
+* Inscrivez-vous sur datasud.fr en créant un compte nominatif ; 
+*	Affectation du compte à une organisation déjà existante sur DataSud ou création d’un nouvel organisme ;
+*	Désignation du compte nominatif comme étant référent de l’organisation ;
 *	Votre organisme doit être un ayant droit sur les fichiers fonciers (cf. 1. Les ayants droit). Nous contacter si vous avez un doute
 *	Seule la personne désignée comme référente de votre organisation sera habilitée à télécharger les fichiers, 
-*	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, 
+*	Vous devez prendre connaissance de la conformité des traitements avec le RGPD, ainsi que des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
 
-Etape 1 : Enregistrement de l’ayant droit sur www.datasud.fr (si ce n’est pas déjà fait)
-
-*	Création d’un compte nominatif ; 
-*	Affectation du compte à une organisation déjà existante ou création d’un nouvel organisme ;
-*	Désignation du compte nominatif comme étant référent de l’organisation ;
-
-Etape 2 : Activation de l’espace « MAJIC » 
+**Etape 2** : Activation de l’espace « MAJIC » 
 
 Depuis l’onglet « MAJIC » du site datasud.fr, il faudra :
 
-*	Télécharger l’acte d’engagement, à remplir et à signer et à nous transmettre via la boîte de dialogue dédiée ;
+*	Téléchargez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] à remplir et à signer et à nous transmettre via la boîte de dialogue dédiée ;
 *	Transmettre les coordonnées du DPO de votre organisme (nom, prénom et mail). S’il n’y en n’a pas, votre organisme doit en nommer un et faire la déclaration sur https://www.cnil.fr/fr/designation-dpo ;
+* le récépissé de la CNIL sera transmis depuis l’espace dédié de DataSUD. La livraison des données sera faite via la plateforme DataSUD dès validation de votre demande ;
 
-Etape 3 : Commande et téléchargement des fichiers 
+**Etape 3** : Commande et téléchargement des fichiers 
 
 Une fois l’espace « MAJIC » activé et les documents validés, vous pourrez, toujours depuis l’onglet « MAJIC » :
 
-*	Visionner le territoire concerné par votre organisme ;
+*	Visionner et vérifiez la validité du territoire concerné par votre organisme ;
 *	Définir le type de lot souhaité, par commune ou par territoire ;
-*	Lancer l’exécution de votre demande qui sera disponible quelques minutes plus tard. Attention, le lien pour télécharger les fichiers n’est valable que 2 heures.
-
+* Télécharger vos données depuis votre espace DataSUD : l’exécution de votre demande sera disponible quelques minutes plus tard. Attention, le lien pour télécharger les fichiers n’est valable que 2 heures.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *b. Territoire de compétence* 
