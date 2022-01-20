@@ -389,15 +389,16 @@ Cochez les cases **Actif** et **Archivage automatique** puis cliquez sur **ENREG
 
 **ETAPE 5:** La synchronisation du catalogue distant est faite une fois par jour (chaque nuit).
 
----------------------------------------------
+-------------------------
 Utiliser le service MAJIC
----------------------------------------------
+-------------------------
 
 Les données MAJIC 2021 sont disponibles au téléchargement pour les partenaires de la Région Provence-Alpes-Côte d’Azur sous réserve d’être ayants droit de la DGFIP.
 
 Ce nouveau service prend en charge vos demandes de fichiers MAJIC depuis le mois de septembre 2021. 
 
 Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
+
 * Inscrivez-vous sur datasud.fr ;
 * Prenez connaissance des procédures et contraintes applicables sur ces données : Procédure de mise à disposition des fichiers fonciers DGFiP procedure_mad_majic.pdf  [lien pdf] ;
 * Téléchargez et remplissez l’acte d’engagement clause_confidentialite_majic_latest.pdf [lien pdf] ;
@@ -410,6 +411,7 @@ Afin d’avoir accès aux données MAJIC, voici les étapes d’inscription :
 
 L’accès aux fichiers littéraux est limité aux collectivités territoriales, aux administrations et aux organismes chargés d’une mission de service public. La seule exception concerne le fichier des voies et lieudits (fichier FANTOIR) qui est délivré gratuitement à tout demandeur. 
 Les droits sont ouverts aux : 
+
 * Collectivités territoriales : les communes, les Départements, la Région.
 * Etablissements publics de coopération intercommunale : les syndicats de communes, les communautés de communes, les communautés urbaines, les communautés d'agglomération, les syndicats d'agglomération nouvelle et les métropoles.
 * Administrations d’Etat : L'Etat est représenté par les services centraux ou territoriaux de ses administrations. À cette catégorie sont rattachées certaines autorités administratives indépendantes.
