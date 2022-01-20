@@ -6,12 +6,12 @@ Le catalogue des données et des ressources disponibles sont amenés à évoluer
 
 .. toctree::
   :maxdepth: 3
- Consultation
- Utilisateurs
- Contributeurs
- Developpeurs/index
- Services
- Cadre_legal
+ consultation
+ utilisateurs
+ contributeurs
+ developpeurs/index
+ services
+ cadre_legal
  regles_editoriales
 
 .. seealso::
