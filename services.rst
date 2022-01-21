@@ -86,6 +86,7 @@ Les droits sont ouverts aux :
 * Etablissements publics : La catégorie des établissements publics comprend les organismes et établissements de droit public, financés par des fonds publics, et dont la mission est de servir l'intérêt général. On distingue deux principales catégories d'établissements publics ( à caractère administratif ; à caractère industriel et commercial). 
 * Etablissements publics administratifs : Ce sont des personnes morales de droit public gérant une activité de service public ou parapublic sous le contrôle de l'Etat ou d'une collectivité territoriale. 
 Parmi les établissements publics administratifs susceptibles de commander des fichiers cadastraux, il convient de citer : 
+
 -	les associations syndicales autorisées (ASA) et les associations syndicales constituées d'office (ASCO), 
 -	l'institut national de l'information géographique et forestière (IGN), 
 -	l'institut national de l’origine et de la qualité (INAO), 
