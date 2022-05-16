@@ -93,12 +93,9 @@ Cette requête utilise la méthode datastore_search_sql de l'API de CKAN avec la
 
 Requête et résultats : https://bit.ly/2N8JCKn 
 
+Documentation de l'API (catalogue et ressources) http://docs.ckan.org/en/latest/api/ 
 
-Documentation de l'API (catalogue et ressources) et de l'API Datastore (requête sur les ressources) en anglais :
-
-http://docs.ckan.org/en/latest/api/
-http://docs.ckan.org/en/ckan-2.7.2/maintaining/datastore.html#the-datastore-api
-
+et de l'API Datastore (requête sur les ressources) en anglais http://docs.ckan.org/en/2.9/maintaining/datastore.html#the-datastore-api
 
 .. note:: le mot "package" qu'on trouve dans certaines requête et dans la documentation CKAN correspond à un jeu de donnée.
 
