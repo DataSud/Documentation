@@ -24,7 +24,7 @@ S'inscrire sur DataSud
 
 .. image:: Creation_Type_OrgaDataSud.PNG
 
-- l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
+.. note:: *l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique*
 =======
 .. image:: CaptureDataSudSubscribe.PNG
 
