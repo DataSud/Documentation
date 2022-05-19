@@ -18,7 +18,7 @@ S'inscrire sur DataSud
 
 .. image:: CaptureDataSudConnect.PNG
 
-.. image:: CaptureDataSudSubscribe.PNG 
+.. image:: Creation_Compte_DataSud.PNG 
 
 - l'Utilisateur doit ensuite valider son inscription en cliquant sur le lien reçu par courriel, sur sa boite aux lettres de courrier electronique.
 =======
